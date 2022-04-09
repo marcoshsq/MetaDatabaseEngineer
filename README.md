@@ -18,7 +18,8 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
       <li>💬 ...My discord ID is: marcoshsq#0571 If you want to chat.</li>
     </ul>
 </div>
-  
+ 
+<br>
 
 <h2 align="left">:hammer_and_wrench: Technologies and tools:</h2>
 
@@ -35,6 +36,8 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
 <img align="center" alt="Marcos-Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 <img align="center" alt="Marcos-pycharm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />       </div> 
 
+<br>
+
 <h2 align="left">:electron: You can find me:</h2>
 
  <div align="left"> 
@@ -45,6 +48,8 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
   <a href="https://www.kaggle.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
    <a href="https://public.tableau.com/app/profile/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank"></a>
 </div>
+
+<br>
 
 <h2 align="left">:chart_with_upwards_trend: Statistics:</h2>
 
@@ -57,15 +62,16 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
   ![Snake animation](https://github.com/marcoshsq/marcoshsq/blob/output/github-contribution-grid-snake.svg)
 </div>
     
-  
+<br>
+      
 <h2 align="left">⚡ Main Repositories</h2>  
 
 <div align="center"> 
   <a href="https://github.com/marcoshsq/DS_Degree_Curriculum_Portfolio">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=DS_Degree_Curriculum_Portfolio&theme=tokyonight" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=DS_Degree_Curriculum_Portfolio&theme=tokyonight" />
   </a>
   <a href="https://github.com/marcoshsq/Marcos_Henrique_Portfolio">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Marcos_Henrique_Portfolio&theme=tokyonight" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoshsq&repo=Marcos_Henrique_Portfolio&theme=tokyonight" />
   </a>
 </div>
     
