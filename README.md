@@ -45,7 +45,6 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
   <a href="https://www.kaggle.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
    <a href="https://public.tableau.com/app/profile/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank"></a>
 </div>
-<br>
 
 <h2 align="left">:chart_with_upwards_trend: Statistics:</h2>
 
@@ -58,7 +57,6 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
   ![Snake animation](https://github.com/marcoshsq/marcoshsq/blob/output/github-contribution-grid-snake.svg)
 </div>
     
-
   
 <h2 align="left">⚡ Main Repositories</h2>  
 
@@ -72,8 +70,6 @@ Civil engineer who decided to start a journey to become a Data Scientist, when I
 </div>
     
 ---
- 
-<h2 align="left">The Future is Now</h2>:
 
 ![xK](https://user-images.githubusercontent.com/64812097/159572273-0fc148a6-3594-480d-9204-fcd4a9effc46.gif)
     
