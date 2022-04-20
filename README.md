@@ -14,7 +14,7 @@
 
 ---
 
-About
+## About me and this repository.
 
 ---
 
