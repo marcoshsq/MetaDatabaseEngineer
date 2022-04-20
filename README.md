@@ -26,6 +26,14 @@
 
 ## About me and this repository.
 
+Hi, my name is Marcos Henrique, I'm interested in becoming a data scientist. But unfortunately, a proper college degree is quite expensive, and I'm not able to afford one at the moment, so, after researching different materials on the internet, roadmaps, YouTube videos, guides, articles, and different curriculums of university courses for bachelor in data science and statistics, I've decided to create my own curriculum with free materials.
+
+This repository is a record of my studies, I know that Data Science is divided into four pillars: Mathematics (AKA Statistics), Technology, Domain Knowledge and Soft Skills. My main focus here is Math and tech, as they are the longest part of the curriculum, I've searched for good Soft skills courses, and included some here, but for me, this kind of knowledge is only acquired by doing it. And different from programming, where you can learn to code in your house practicing, you won't learn how to publicly speak... well, without public speaking! But I included the ones I thought will help me develop some crucial knowledge.
+
+But about the structure of this repository. It is divided into three parts. ``Roadmap``, ``List of Courses and books`` and ``Projects``
+
+The main guides I've followed to create this curriculum can be found in the ``References`` section, in the end of this ``README`` page.
+
 ---
 
 ## Roadmap.
@@ -57,7 +65,7 @@
 To build this bachelor's curriculum used these sources:
 
 - [OSSU Data Science](https://github.com/ossu/data-science#introduction-to-data-science) - Path to a free self-taught education in Data Science.
-- [AI Expert Roadmap](https://i.am.ai/roadmap/#data-science-roadmap) - Roadmap to becoming an Artificial Intelligence Expert.
+- [AI Expert Roadmap](https://i.am.ai/roadmap/#data-science-roadmap) - Roadmap to becoming an AI Expert.
 - [Python Developer](https://roadmap.sh/python) - Python Roadmap.
 - [PostgreSQL](https://roadmap.sh/postgresql-dba) - PostgreSQL Roadmap for DBA.
 - [Statistics Curriculum](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55070&codhab=4&tipo=V) - The curriculum of a bachelor's degree in statistics by the University of São Paulo.
