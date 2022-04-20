@@ -286,7 +286,6 @@ Course Link | Duration | Status | Certificate
 :-- | :--: | :--: | :--:
 [Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | ~115h | not started |  |
 [Advanced Machine Learning on Google Cloud](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) | ~75h | not started |  |
-Deep Learning | --- | --- | ---
 [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | ~128h | not started |  |
 [Deep Learning](https://www.coursera.org/specializations/deep-learning) | ~142h | not started |  |
 [First Principles of Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | ~49h | not started |  |
