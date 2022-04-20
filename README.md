@@ -170,7 +170,19 @@ Title | Author(s)
 [Cálculo 1](https://www.amazon.com.br/C%C3%A1lculo-vol-I-James-Stweart/dp/852212583X/ref=sr_1_1?keywords=calculo+james+stewart&qid=1647462250&s=books&sprefix=calculo%2Cstripbooks%2C205&sr=1-1&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b) | James Stweart
 [Cálculo 2](https://www.amazon.com.br/C%C3%A1lculo-vol-II-James-Stweart/dp/8522125848/ref=sr_1_2?keywords=calculo+james+stewart&qid=1647462250&s=books&sprefix=calculo%2Cstripbooks%2C205&sr=1-2&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12) | James Stweart
 [Álgebra Linear com Aplicações](https://www.amazon.com.br/%C3%81lgebra-Linear-Aplica%C3%A7%C3%B5es-Howard-Anton/dp/8540701693/ref=asc_df_8540701693/?tag=googleshopp00-20&linkCode=df0&hvadid=379712528301&hvpos=&hvnetw=g&hvrand=12998920153216743409&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-810564893759&psc=1) | Howard Anton
+
+##
 	
+### Intermediate Computer Science Courses:
+	
+Course Link | Duration | Status | Certificate
+:-- | :--: | :--: | :--:
+[Programming Languages A](https://www.coursera.org/learn/programming-languages) | ~30h | not started |  |
+[Programming Languages B](https://www.coursera.org/learn/programming-languages-part-b) | ~18h | not started |  |
+[Programming Languages C](https://www.coursera.org/learn/programming-languages-part-c) | ~18h | not started |  |
+[Introduction to Operating Systems](https://www.coursera.org/specializations/codio-introduction-operating-systems) | ~35h | not started |  |
+[PostgreeSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) | ~56h | not started |  |
+
 ##
 	
 ### Year 03:
@@ -180,7 +192,6 @@ Title | Author(s)
 Course Link | Duration | Status | Certificate
 :-- | :--: | :--: | :--:
 [An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability), [Probability](https://projects.iq.harvard.edu/stat110) | +100h | not started |  |
-Statistics for Data Science| --- | --- | ---
 [Probabilistic graphical models](https://www.coursera.org/specializations/probabilistic-graphical-models) | ~200h | not started |  |
 [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) | +100h | not started |  |
 
@@ -191,7 +202,20 @@ Title | Author(s)
 [Data Science Foundations: Data Structures and Algorithms](https://www.coursera.org/specializations/boulder-data-structures-algorithms) | Sriram Sankaranarayanan
 [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/Papers/ESLII.pdf) | Trevor Hastie, Robert Tibshirani, Jerome Friedman
 [An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) | Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+
+##
 	
+### Advanced Computer Science Courses:
+	
+Course Link | Duration | Status | Certificate
+:-- | :--: | :--: | :--:
+[Computer Architecture](https://www.coursera.org/learn/comparch) | ~50h | not started |  |
+[Build a Modern Computer from First Principles: Nand to Tetris Part I](https://www.coursera.org/learn/build-a-computer) | ~44h | not started |  |
+[Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | ~90h | not started |  |
+[Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | ~56h | not started |  |
+[Statistics with R](https://www.coursera.org/specializations/statistics) | ~81h | not started |  |
+[Data Mining](https://www.coursera.org/specializations/data-mining) | ~124h | not started |  |
+
 ##
 	
 ### Year 04:
@@ -212,6 +236,18 @@ Title | Author(s)
 [Statistics and Machine Learning in Python](http://www.ru.ac.bd/stat/wp-content/uploads/sites/25/2019/03/207_05_Duchesnay_Statistics_Machine_Learning_Python_2019.pdf) | Edouard Duchesnay
 [Geometria Analítica: Um Tratamento Vetorial](https://www.amazon.com.br/Geometria-anal%C3%ADtica-um-tratamento-vetorial/dp/8587918915/ref=asc_df_8587918915/?tag=googleshopp00-20&linkCode=df0&hvadid=379816198799&hvpos=&hvnetw=g&hvrand=9928562446297196227&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-811917897015&psc=1) | Ivan De Camargo
 
+##
+	
+### Advanced Computer Science Courses:
+	
+Course Link | Duration | Status | Certificate
+:-- | :--: | :--: | :--:
+[Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) | ~185h | not started |  |
+[Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) | ~52h | not started |  |
+[Big Data](https://www.coursera.org/specializations/big-data) | ~104h | not started |  |
+[Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | ~120h | not started |  |
+
+	
 ##
 	
 ### Year 05:
@@ -235,6 +271,14 @@ Title | Author(s)
 [Bayesian Statistics](https://www.amazon.com.br/Bayesian-Statistics-Introduction-Peter-Lee/dp/1118332571/ref=asc_df_1118332571/?tag=googleshopp00-20&linkCode=df0&hvadid=379693248429&hvpos=&hvnetw=g&hvrand=18380072571890790399&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-563714594144&psc=1) | Peter M. Lee
 [Introduction to Linear Regression Analysis](https://www.amazon.com.br/Introduction-Linear-Regression-Analysis-822/dp/1119578728/ref=asc_df_1119578728/?tag=googleshopp00-20&linkCode=df0&hvadid=379765626380&hvpos=&hvnetw=g&hvrand=17497996431868903449&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-1102460833560&psc=1) | Douglas C Montgomery
 [Cálculo Numérico: Aspectos Teóricos e Computacionais](https://www.amazon.com.br/C%C3%A1lculo-num%C3%A9rico-aspectos-te%C3%B3ricos-computacionais/dp/8534602042/ref=asc_df_8534602042/?tag=googleshopp00-20&linkCode=df0&hvadid=379818118514&hvpos=&hvnetw=g&hvrand=2406457825278115913&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-1002925180232&psc=1) | Marcia Gomes
+
+##
+	
+### Advanced Computer Science Courses:
+	
+Course Link | Duration | Status | Certificate
+:-- | :--: | :--: | :--:
+[Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | ~115h | not started |  |
 
 ##
 
