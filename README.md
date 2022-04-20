@@ -16,6 +16,12 @@
 
 ## Content summary.
 
+- [About](https://github.com/marcoshsq/My_Degree_in_Data_Science#about-me-and-this-repository)
+- [Roadmap](https://github.com/marcoshsq/My_Degree_in_Data_Science#roadmap)
+- [Courses and books](https://github.com/marcoshsq/My_Degree_in_Data_Science#list-of-courses-and-books)
+- [Projects](https://github.com/marcoshsq/My_Degree_in_Data_Science#projects-developed)
+- [References](https://github.com/marcoshsq/My_Degree_in_Data_Science#references)
+
 ---
 
 ## About me and this repository.
