@@ -2,6 +2,7 @@
   <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
     <img src="https://mohdsaberi.net/img/icon/ds.png" alt="Developer Roadmap" width="120" height="120">
   </a>
+</p>
   <h2 align="center">Marcos Henrique<br>Data Science Undergraduate Curriculum</h2>
   <p align="center">Roadmap I created to become a Data Scientist</p>
  <div align="center"> 
@@ -73,7 +74,7 @@ By the end of year one, my goal is: if someone asks me what data science is, I c
 
 ## List of Courses and books.
 	
-### Year 01
+### Year 01:
 	
 ### Basic Mathematics Courses:
 	
@@ -104,7 +105,7 @@ Course Link | Duration | Status | Certificate
 	
 ##
 	
-### Year 02
+### Year 02:
 	
 ### Basic Mathematics Courses:
 	
@@ -119,7 +120,7 @@ Title | Author(s)
 	
 ##
 	
-### Year 03
+### Year 03:
 	
 ### Basic Mathematics Courses:
 	
@@ -134,7 +135,7 @@ Title | Author(s)
 	
 ##
 	
-### Year 04
+### Year 04:
 	
 ### Basic Mathematics Courses:
 	
@@ -148,7 +149,7 @@ Title | Author(s)
 :-- | :--
 ##
 	
-### Year 05
+### Year 05:
 	
 ### Basic Mathematics Courses:
 	
