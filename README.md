@@ -182,6 +182,7 @@ Course Link | Duration | Status | Certificate
 [Programming Languages C](https://www.coursera.org/learn/programming-languages-part-c) | ~18h | not started |  |
 [Introduction to Operating Systems](https://www.coursera.org/specializations/codio-introduction-operating-systems) | ~35h | not started |  |
 [PostgreeSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) | ~56h | not started |  |
+[Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python) | ~144h | not started |  |
 
 ##
 	
@@ -215,6 +216,8 @@ Course Link | Duration | Status | Certificate
 [Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | ~56h | not started |  |
 [Statistics with R](https://www.coursera.org/specializations/statistics) | ~81h | not started |  |
 [Data Mining](https://www.coursera.org/specializations/data-mining) | ~124h | not started |  |
+[Practical Data Science](https://www.coursera.org/specializations/practical-data-science) | ~50h | not started |  |
+
 
 ##
 	
@@ -246,6 +249,9 @@ Course Link | Duration | Status | Certificate
 [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) | ~52h | not started |  |
 [Big Data](https://www.coursera.org/specializations/big-data) | ~104h | not started |  |
 [Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | ~120h | not started |  |
+[Creativity and A.I.](https://www.coursera.org/specializations/creativity-ai) | ~55h | not started |  |
+[Machine Learning](https://www.coursera.org/learn/machine-learning) | ~61h | not started |  |
+[Machine Learning](https://www.coursera.org/specializations/machine-learning) | ~78h | not started |  |
 
 	
 ##
@@ -279,6 +285,19 @@ Title | Author(s)
 Course Link | Duration | Status | Certificate
 :-- | :--: | :--: | :--:
 [Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | ~115h | not started |  |
+[Advanced Machine Learning on Google Cloud](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) | ~75h | not started |  |
+Deep Learning | --- | --- | ---
+[Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | ~128h | not started |  |
+[Deep Learning](https://www.coursera.org/specializations/deep-learning) | ~142h | not started |  |
+[First Principles of Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | ~49h | not started |  |
+[Self-Driving Cars](https://www.coursera.org/specializations/self-driving-cars) | ~130h | not started |  |
+	
+### Advanced Computer Science Courses:
+
+Title | Author(s)  
+:-- | :--
+[Artificial Intelligence: A Modern Approach](https://www.amazon.com.br/dp/0136042597/?coliid=I1DADMS27UAR9G&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) | Peter Norvig
+[]() |
 
 ##
 
