@@ -91,12 +91,30 @@ Course Link | Duration | Status | Certificate
 
 Title | Author(s)  
 :-- | :--
+[Introduction to Mathematical Thinking](http://www.mat.ufrgs.br/~portosil/curso-Devlin.pdf) | Keith Devlin
+[Essentials of Discrete Mathematics](https://www.amazon.com.br/Essentials-Discrete-Mathematics-David-Hunter/dp/1284056244) | David J. Hunter
+[Pre-Cálculo](https://www.amazon.com.br/Pre-C%C3%A1lculo-Valeria-Zuma-Medeiros/dp/8522107351) | Valeria Zuma Medeiros
+[Álgebra Linear com Aplicações](https://www.amazon.com.br/%C3%81lgebra-Linear-Aplica%C3%A7%C3%B5es-Howard-Anton/dp/8540701693/ref=asc_df_8540701693/?tag=googleshopp00-20&linkCode=df0&hvadid=379712528301&hvpos=&hvnetw=g&hvrand=12998920153216743409&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-810564893759&psc=1) | Howard Anton
 
+##
 	
 ### Data Analytics Courses:
 	
 Course Link | Duration | Status | Certificate
 :-- | :--: | :--: | :--:
+[Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) | ~200h | Studying |  |
+[Business Analytics](https://www.coursera.org/specializations/business-analytics) | ~60h | not started |  |
+[Data Visualization with Tableau](https://www.coursera.org/specializations/data-visualization) | ~60h | not started |  |
+[Creating Business Value with Data and Looker](https://www.coursera.org/specializations/creating-business-value-with-data-and-looker) | ~10h | not started |  |
+	
+### Data Analytics books:
+
+Title | Author(s)  
+:-- | :--
+[Storytelling with data](https://www.amazon.com.br/dp/8550804681/?coliid=IDSA4OIEEW2XL&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) | Cole Nussbaumer Knaflic
+[Storytelling with Data: Let's Practice!](https://www.amazon.com.br/dp/1119621496/?coliid=IA49AHKR14NT4&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) | Cole Nussbaumer Knaflic
+[Business Intelligence e Análise de Dados para Gestão do Negócio](https://www.amazon.com.br/dp/8582605196/?coliid=ITWLW43WUISRY&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it_im) | Dursun Delen
+
 	
 ### Basic Computer Science Courses:
 	
