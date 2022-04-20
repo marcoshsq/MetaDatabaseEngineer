@@ -126,6 +126,8 @@ Course Link | Duration | Status | Certificate
 [Python for Everybody](https://www.coursera.org/specializations/python) | ~100h | Studying |  |
 [IT automation with Python](https://www.coursera.org/professional-certificates/google-it-automation) | ~115h | Studying |  | 
 [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | ~80h | not started |  |
+[IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | ~200h | accomplished | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
+
 
 ### Basic Computer Science books:
 
