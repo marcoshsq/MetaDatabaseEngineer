@@ -115,13 +115,30 @@ Title | Author(s)
 [Storytelling with Data: Let's Practice!](https://www.amazon.com.br/dp/1119621496/?coliid=IA49AHKR14NT4&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) | Cole Nussbaumer Knaflic
 [Business Intelligence e Análise de Dados para Gestão do Negócio](https://www.amazon.com.br/dp/8582605196/?coliid=ITWLW43WUISRY&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it_im) | Dursun Delen
 
+##
 	
 ### Basic Computer Science Courses:
 	
 Course Link | Duration | Status | Certificate
 :-- | :--: | :--: | :--:
+[How to Code Simple Data](https://www.edx.org/course/how-to-code-simple-data) | ~14h | not started |  |
+[How to Code Complex Data](https://www.edx.org/course/how-to-code-complex-data) | ~12h | not started |  |
+[Python for Everybody](https://www.coursera.org/specializations/python) | ~100h | Studying |  |
+[IT automation with Python](https://www.coursera.org/professional-certificates/google-it-automation) | ~115h | Studying |  | 
+[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | ~80h | not started |  |
+
+### Basic Computer Science books:
+
+Title | Author(s)  
+:-- | :--
+[Python for Everybody](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf) | Dr. Charles R. Severance
+[Think Python](https://greenteapress.com/thinkpython/thinkpython.pdf) | Allen Downey
 	
 ##
+
+[Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+
+---
 	
 ### Year 02:
 	
