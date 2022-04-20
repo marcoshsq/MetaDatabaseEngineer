@@ -32,7 +32,7 @@ This repository is a record of my studies, I know that Data Science is divided i
 
 But about the structure of this repository. It's divided into three parts. ``Roadmap``, ``List of Courses and books`` and ``Projects``.
 
-In the ``Roadmap`` section, the name gives the prize, it is the order in which I studied the courses. In the ``List of Courses and books`` section, I have listed all the relevant materials, courses, books and articles that I've studied. At last, the ``Projects`` section, most of these
+In the ``Roadmap`` section, the name gives the prize, it is the order in which I studied the courses. In the ``List of Courses and books`` section, I have listed all the relevant materials, courses, books and articles that I've studied. At last, most of the courses have capstone/guided projects, that are developed during the course. These projects are listed in the ``Projects`` section, at the end of this repository.
 
 The main guides I've followed to create this curriculum can be found in the ``References`` section, at the end of this ``README`` page.
 
