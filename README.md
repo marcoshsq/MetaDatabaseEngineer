@@ -30,7 +30,7 @@
 
 ---
 
-## List of Courses.
+## List of Courses and books.
 
 ##
 
