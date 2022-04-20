@@ -30,6 +30,22 @@ Projetos
 
 ---
 
-Referencias
+## References.
+
+To build this bachelor's curriculum used these sources:
+
+- [OSSU Data Science](https://github.com/ossu/data-science#introduction-to-data-science) - Path to a free self-taught education in Data Science.
+- [AI Expert Roadmap](https://i.am.ai/roadmap/#data-science-roadmap) - Roadmap to becoming an Artificial Intelligence Expert.
+- [Python Developer](https://roadmap.sh/python) - Python Roadmap.
+- [PostgreSQL](https://roadmap.sh/postgresql-dba) - PostgreSQL Roadmap for DBA.
+- [Statistics Curriculum](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55070&codhab=4&tipo=V) - The curriculum of a bachelor's degree in statistics by the University of São Paulo.
+
+[Return to the top]()
+
+---
+	
+<p align="center">
+	<i>"Greatness Awaits"</i>
+</p>
 
 ---
