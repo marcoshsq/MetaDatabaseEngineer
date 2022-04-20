@@ -48,7 +48,12 @@ Everyone just talks about it, and is it even the sexiest job? Now, seriously. Th
 
 I have a degree in civil engineering, so subjects like calculus, linear algebra, and matrices will be more of a review for me than actually learning them from scratch (nice). Another positive point is that I taught programming classes during university, so even though I don't have a deep knowledge of computer science, these basic concepts won't be difficult to master.
 
-
+<p align="center">
+  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
+	  
+![Year 01 - Roadmap](https://user-images.githubusercontent.com/64812097/164176949-3aae956c-e79b-4be8-9df9-960a50846cfa.png)
+	  
+  </a>
 
 ### Year 02.
 
