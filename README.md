@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
-    <img src="https://uploads-ssl.webflow.com/58e6a2b25c28230d367487ad/5c32232ecb585fcc5c4645e1_icon_machine-learning.svg" alt="Developer Roadmap" width="96" height="96">
+    <img src="https://mohdsaberi.net/img/icon/ds.png" alt="Developer Roadmap" width="120" height="120">
   </a>
   <h2 align="center">Marcos Henrique<br>Data Science Undergraduate Curriculum</h2>
   <p align="center">Roadmap I created to become a Data Scientist</p>
