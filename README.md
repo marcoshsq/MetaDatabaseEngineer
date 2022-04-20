@@ -18,15 +18,31 @@ About
 
 ---
 
-Roadmap
+## Content summary.
 
 ---
 
-Cursos
+## Roadmap.
+
+##
+
+[Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
 
 ---
 
-Projetos
+## List of Courses.
+
+##
+
+[Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+
+---
+
+## Projects Developed.
+
+##
+
+[Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
 
 ---
 
@@ -39,6 +55,8 @@ To build this bachelor's curriculum used these sources:
 - [Python Developer](https://roadmap.sh/python) - Python Roadmap.
 - [PostgreSQL](https://roadmap.sh/postgresql-dba) - PostgreSQL Roadmap for DBA.
 - [Statistics Curriculum](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55070&codhab=4&tipo=V) - The curriculum of a bachelor's degree in statistics by the University of São Paulo.
+
+##
 
 [Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
 
