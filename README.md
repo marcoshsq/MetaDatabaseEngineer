@@ -14,11 +14,11 @@
 
 ---
 
-## About me and this repository.
+## Content summary.
 
 ---
 
-## Content summary.
+## About me and this repository.
 
 ---
 
