@@ -19,7 +19,17 @@
 
 - [About](https://github.com/marcoshsq/My_Degree_in_Data_Science#about-me-and-this-repository)
 - [Roadmap](https://github.com/marcoshsq/My_Degree_in_Data_Science#roadmap)
+	+ [Year 01](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-01)
+	+ [Year 02](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-02)
+	+ [Year 03](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-03)
+	+ [Year 04](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-04)
+	+ [Year 05](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-05)
 - [Courses and books](https://github.com/marcoshsq/My_Degree_in_Data_Science#list-of-courses-and-books)
+	+ [Year 01](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-01)
+	+ [Year 02](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-02-1)
+	+ [Year 03](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-03-1)
+	+ [Year 04](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-04-1)
+	+ [Year 05](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-05-1)
 - [Projects](https://github.com/marcoshsq/My_Degree_in_Data_Science#projects-developed)
 - [References](https://github.com/marcoshsq/My_Degree_in_Data_Science#references)
 
@@ -43,7 +53,9 @@ The main guides I've followed to create this curriculum can be found in the ``Re
 
 ## Roadmap.
 
-### Year 01: After all, What is Data Science?
+### Year 01.
+
+After all, What is Data Science?
 
 Everyone just talks about it, and is it even the sexiest job? Now, seriously. This year's goal is to master the basics.
 
