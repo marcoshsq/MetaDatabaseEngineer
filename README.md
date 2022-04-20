@@ -42,7 +42,13 @@ The main guides I've followed to create this curriculum can be found in the ``Re
 
 ## Roadmap.
 
-### Year 01.
+### Year 01: After all, What is Data Science?
+
+Everyone just talks about it, and is it even the sexiest job? Now, seriously. This year's goal is to master the basics.
+
+I have a degree in civil engineering, so subjects like calculus, linear algebra, and matrices will be more of a review for me than actually learning them from scratch (nice). Another positive point is that I taught programming classes during university, so even though I don't have a deep knowledge of computer science, these basic concepts won't be difficult to master.
+
+
 
 ### Year 02.
 
