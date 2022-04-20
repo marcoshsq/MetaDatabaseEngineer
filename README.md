@@ -42,6 +42,16 @@ The main guides I've followed to create this curriculum can be found in the ``Re
 
 ## Roadmap.
 
+### Year 01.
+
+### Year 02.
+
+### Year 03.
+
+### Year 04.
+
+### Year 05.
+
 ##
 
 [Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
