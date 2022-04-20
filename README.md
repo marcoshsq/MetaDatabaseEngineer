@@ -69,12 +69,41 @@ I have a degree in civil engineering, so subjects like calculus, linear algebra,
   </a>
 	
 By the end of year one, my goal is: if someone asks me what data science is, I can answer with the propriety of someone who knows what they're talking about!
+	
+But seriously now, I seek to achieve these skills, by the end of Year 01:  ``Matrices and Linear Algebra``, ``Database basics (SQL vs NoSQL, Joins, Data Formats, etc.)``, ``BI``, ``ETL``, ``RegEx``, ``Python Basics (Basic syntax and logic, important libraries, VE, Notebook.)``, ``Data Sources``, ``Exploratory Data Analysis``, ``Data Wrangling``.
+
+##
+
+[Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+
+---
 
 ### Year 02.
 
+
+##
+
+[Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+
+---
+
 ### Year 03.
 
+
+##
+
+[Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+
+---
+
 ### Year 04.
+
+
+##
+
+[Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+
+---
 
 ### Year 05.
 
