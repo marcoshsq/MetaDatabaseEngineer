@@ -217,6 +217,8 @@ Title | Author(s)
 ---
 
 ## Projects Developed.
+	
+- IBM: Data Science Specialization Projects | This repository contains the projects developed during the IBM Data Science Professional Certificate. | [Repository Link](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects)
 
 ##
 
