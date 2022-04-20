@@ -25,7 +25,7 @@
 	+ [Year 04](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-04)
 	+ [Year 05](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-05)
 - [Courses and books](https://github.com/marcoshsq/My_Degree_in_Data_Science#list-of-courses-and-books)
-	+ [Year 01](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-01)
+	+ [Year 01](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-01-1)
 	+ [Year 02](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-02-1)
 	+ [Year 03](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-03-1)
 	+ [Year 04](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-04-1)
