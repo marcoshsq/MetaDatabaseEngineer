@@ -54,6 +54,8 @@ I have a degree in civil engineering, so subjects like calculus, linear algebra,
 ![Year 01 - Roadmap](https://user-images.githubusercontent.com/64812097/164176949-3aae956c-e79b-4be8-9df9-960a50846cfa.png)
 	  
   </a>
+	
+By the end of year one, my goal is: if someone asks me what data science is, I can answer with the propriety of someone who knows what they're talking about!
 
 ### Year 02.
 
