@@ -73,6 +73,8 @@ By the end of year one, my goal is: if someone asks me what data science is, I c
 
 ## List of Courses and books.
 	
+### Year 01
+	
 ### Basic Mathematics Courses:
 	
 Course Link | Duration | Status | Certificate
@@ -84,7 +86,10 @@ Course Link | Duration | Status | Certificate
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | +x00h | not started |  |
 [Analytical Geometry](https://cursos.ime.unicamp.br/disciplinas/geometria-analitica/) | +x00h | not started |  |
 
+### Mathematics books:
 
+Title | Author(s)  
+:-- | :--
 
 	
 ### Data Analytics Courses:
@@ -97,7 +102,64 @@ Course Link | Duration | Status | Certificate
 Course Link | Duration | Status | Certificate
 :-- | :--: | :--: | :--:
 	
+##
+	
+### Year 02
+	
+### Basic Mathematics Courses:
+	
+Course Link | Duration | Status | Certificate
+:-- | :--: | :--: | :--:
 
+
+### Mathematics books:
+
+Title | Author(s)  
+:-- | :--
+	
+##
+	
+### Year 03
+	
+### Basic Mathematics Courses:
+	
+Course Link | Duration | Status | Certificate
+:-- | :--: | :--: | :--:
+
+
+### Mathematics books:
+
+Title | Author(s)  
+:-- | :--
+	
+##
+	
+### Year 04
+	
+### Basic Mathematics Courses:
+	
+Course Link | Duration | Status | Certificate
+:-- | :--: | :--: | :--:
+
+
+### Mathematics books:
+
+Title | Author(s)  
+:-- | :--
+##
+	
+### Year 05
+	
+### Basic Mathematics Courses:
+	
+Course Link | Duration | Status | Certificate
+:-- | :--: | :--: | :--:
+
+### Mathematics books:
+
+Title | Author(s)  
+:-- | :--
+		
 ##
 
 [Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
