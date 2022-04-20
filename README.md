@@ -72,6 +72,31 @@ By the end of year one, my goal is: if someone asks me what data science is, I c
 ---
 
 ## List of Courses and books.
+	
+### Basic Mathematics Courses:
+	
+Course Link | Duration | Status | Certificate
+:-- | :--: | :--: | :--:
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | +50h | Studying |  |
+[To review the Basics](https://pt.khanacademy.org/profile/me/courses) | +x00h | Studying |  |
+[Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | +x00h | not started |  |
+[Matrices](https://pt.khanacademy.org/math/algebra-home/alg-matrices) | +x00h | not started |  |
+[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | +x00h | not started |  |
+[Analytical Geometry](https://cursos.ime.unicamp.br/disciplinas/geometria-analitica/) | +x00h | not started |  |
+
+
+
+	
+### Data Analytics Courses:
+	
+Course Link | Duration | Status | Certificate
+:-- | :--: | :--: | :--:
+	
+### Basic Computer Science Courses:
+	
+Course Link | Duration | Status | Certificate
+:-- | :--: | :--: | :--:
+	
 
 ##
 
