@@ -80,7 +80,13 @@ But seriously now, I seek to achieve these skills, by the end of Year 01:  ``Mat
 
 ### Year 02.
 
-
+<p align="center">
+  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
+	 
+![Year 02](https://user-images.githubusercontent.com/64812097/164413624-c52d0f1c-e765-4241-8e89-3f80efaba590.png)
+	  
+  </a>
+	
 ##
 
 [Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
@@ -89,6 +95,12 @@ But seriously now, I seek to achieve these skills, by the end of Year 01:  ``Mat
 
 ### Year 03.
 
+<p align="center">
+  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
+	  
+![Year 03](https://user-images.githubusercontent.com/64812097/164413598-791e265e-8eee-4b1d-bbe9-4e2a40b8eaa7.png)
+	  
+  </a>
 
 ##
 
@@ -98,7 +110,13 @@ But seriously now, I seek to achieve these skills, by the end of Year 01:  ``Mat
 
 ### Year 04.
 
-
+<p align="center">
+  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
+	  
+![Year 04](https://user-images.githubusercontent.com/64812097/164413527-27eb2e7e-3dd7-4ed0-a9a6-f6d7fab8fc21.png)
+	  
+  </a>
+	
 ##
 
 [Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
@@ -107,6 +125,13 @@ But seriously now, I seek to achieve these skills, by the end of Year 01:  ``Mat
 
 ### Year 05.
 
+<p align="center">
+  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
+	  
+![Year 05](https://user-images.githubusercontent.com/64812097/164413455-0887ea17-e81a-4b33-a1ae-c39bf77c1b88.png)
+	  
+  </a>
+	
 ##
 
 [Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
