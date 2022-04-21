@@ -79,6 +79,10 @@ But seriously now, I seek to achieve these skills, by the end of Year 01:  ``Mat
 ---
 
 ### Year 02.
+	
+Well, we know what we're doing now.
+
+Time to deepen the knowledge. At this stage I want to deepen my knowledge in Python and study calculus. In addition to mastering a database, for that I chose PostgreSQL since it has a kind of OOP in its logic.
 
 <p align="center">
   <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
@@ -86,6 +90,8 @@ But seriously now, I seek to achieve these skills, by the end of Year 01:  ``Mat
 ![Year 02](https://user-images.githubusercontent.com/64812097/164413624-c52d0f1c-e765-4241-8e89-3f80efaba590.png)
 	  
   </a>
+	
+Again, by the end of this year 02, I intend to know things like: ````, ````, ````, ````, ````, ````, ````, ````, ````, ````, ````, ````.
 	
 ##
 
