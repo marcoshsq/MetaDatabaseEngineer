@@ -91,7 +91,7 @@ Time to deepen the knowledge. At this stage I want to deepen my knowledge in Pyt
 	  
   </a>
 	
-Again, by the end of this year 02, I intend to know things like: ````, ````, ````, ````, ````, ````, ````, ````, ````, ````, ````, ````.
+Again, by the end of this year 02, I intend to know things like: ``Mathematical Optimization``, ``Modelling``, ``Functional Programming``, ``More SQL``, ``Python OOP``, ``NumPy``, ``Pandas``.
 	
 ##
 
