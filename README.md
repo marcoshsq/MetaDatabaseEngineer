@@ -19,11 +19,10 @@
 
 - [About](https://github.com/marcoshsq/My_Degree_in_Data_Science#about-me-and-this-repository)
 - [Roadmap](https://github.com/marcoshsq/My_Degree_in_Data_Science#roadmap)
-	+ [Part 01](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-01)
-	+ [Part 02](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-02)
-	+ [Part 03](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-03)
-	+ [Part 04](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-04)
-	+ [Year 05](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-05)
+	+ [Part 01](https://github.com/marcoshsq/My_Degree_in_Data_Science#part-01---fundamentals)
+	+ [Part 02](https://github.com/marcoshsq/My_Degree_in_Data_Science#part-02---intermediate)
+	+ [Part 03](https://github.com/marcoshsq/My_Degree_in_Data_Science#part-03---advanced)
+	+ [Part 04](https://github.com/marcoshsq/My_Degree_in_Data_Science#part-04---data&science)
 - [Projects](https://github.com/marcoshsq/My_Degree_in_Data_Science#projects-developed)
 - [References](https://github.com/marcoshsq/My_Degree_in_Data_Science#references)
 
