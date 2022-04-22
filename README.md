@@ -19,17 +19,11 @@
 
 - [About](https://github.com/marcoshsq/My_Degree_in_Data_Science#about-me-and-this-repository)
 - [Roadmap](https://github.com/marcoshsq/My_Degree_in_Data_Science#roadmap)
-	+ [Year 01](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-01)
-	+ [Year 02](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-02)
-	+ [Year 03](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-03)
-	+ [Year 04](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-04)
+	+ [Part 01](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-01)
+	+ [Part 02](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-02)
+	+ [Part 03](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-03)
+	+ [Part 04](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-04)
 	+ [Year 05](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-05)
-- [Courses and books](https://github.com/marcoshsq/My_Degree_in_Data_Science#list-of-courses-and-books)
-	+ [Year 01](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-01-1)
-	+ [Year 02](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-02-1)
-	+ [Year 03](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-03-1)
-	+ [Year 04](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-04-1)
-	+ [Year 05](https://github.com/marcoshsq/My_Degree_in_Data_Science#year-05-1)
 - [Projects](https://github.com/marcoshsq/My_Degree_in_Data_Science#projects-developed)
 - [References](https://github.com/marcoshsq/My_Degree_in_Data_Science#references)
 
@@ -53,24 +47,13 @@ The main guides I've followed to create this curriculum can be found in the ``Re
 
 ## Roadmap.
 
-### Year 01.
+### Part 01 - Fundamentals.
 
-After all, What is Data Science?
-
-Everyone just talks about it, and is it even the sexiest job? Now, seriously. This year's goal is to master the basics.
-
-I have a degree in civil engineering, so subjects like calculus, linear algebra, and matrices will be more of a review for me than actually learning them from scratch (nice). Another positive point is that I taught programming classes during university, so even though I don't have a deep knowledge of computer science, these basic concepts won't be difficult to master.
-
+<!--
 <p align="center">
-  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
-	  
-![Year 01 - Roadmap](https://user-images.githubusercontent.com/64812097/164176949-3aae956c-e79b-4be8-9df9-960a50846cfa.png)
-	  
+  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">	  
   </a>
-	
-By the end of year one, my goal is: if someone asks me what data science is, I can answer with the propriety of someone who knows what they're talking about!
-	
-But seriously now, I seek to achieve these skills, by the end of Year 01:  ``Matrices and Linear Algebra``, ``Database basics (SQL vs NoSQL, Joins, Data Formats, etc.)``, ``BI``, ``ETL``, ``RegEx``, ``Python Basics (Basic syntax and logic, important libraries, VE, Notebook.)``, ``Data Sources``, ``Exploratory Data Analysis``, ``Data Wrangling``.
+-->
 
 ##
 
@@ -78,20 +61,13 @@ But seriously now, I seek to achieve these skills, by the end of Year 01:  ``Mat
 
 ---
 
-### Year 02.
+### Part 02 - Intermediate.
 	
-Well, we know what we're doing now.
-
-Time to deepen the knowledge. At this stage I want to deepen my knowledge in Python and study calculus. In addition to mastering a database, for that I chose PostgreSQL since it has a kind of OOP in its logic.
-
+<!--
 <p align="center">
-  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
-	 
-![Year 02](https://user-images.githubusercontent.com/64812097/164413624-c52d0f1c-e765-4241-8e89-3f80efaba590.png)
-	  
+  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">	  
   </a>
-	
-Again, by the end of this year 02, I intend to know things like: ``Mathematical Optimization``, ``Modelling``, ``Functional Programming``, ``More SQL``, ``Python OOP``, ``NumPy``, ``Pandas``.
+-->
 	
 ##
 
@@ -99,14 +75,13 @@ Again, by the end of this year 02, I intend to know things like: ``Mathematical 
 
 ---
 
-### Year 03.
+### Part 03 - Advanced.
 
+<!--
 <p align="center">
-  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
-	  
-![Year 03](https://user-images.githubusercontent.com/64812097/164413598-791e265e-8eee-4b1d-bbe9-4e2a40b8eaa7.png)
-	  
+  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">	  
   </a>
+-->
 
 ##
 
@@ -114,29 +89,13 @@ Again, by the end of this year 02, I intend to know things like: ``Mathematical 
 
 ---
 
-### Year 04.
+### Part 04 - Data Science.
 
+<!--
 <p align="center">
-  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
-	  
-![Year 04](https://user-images.githubusercontent.com/64812097/164413527-27eb2e7e-3dd7-4ed0-a9a6-f6d7fab8fc21.png)
-	  
+  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">	  
   </a>
-	
-##
-
-[Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
-
----
-
-### Year 05.
-
-<p align="center">
-  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
-	  
-![Year 05](https://user-images.githubusercontent.com/64812097/164413455-0887ea17-e81a-4b33-a1ae-c39bf77c1b88.png)
-	  
-  </a>
+-->
 	
 ##
 
