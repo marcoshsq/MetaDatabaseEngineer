@@ -131,8 +131,6 @@ Livros Math.
 
 * [Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com.br/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025) - By Ronald Graham
 
-<br>
-
 ##
 
 <!-- 
@@ -181,8 +179,6 @@ Livros D.A.
 
 * [Business Intelligence e Análise de Dados para Gestão do Negócio](https://www.amazon.com.br/dp/8582605196/?coliid=ITWLW43WUISRY&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it_im) - By Dursun Delen
 
-<br>
-
 ##
 
 <!-- 
@@ -228,8 +224,6 @@ Livros CS.
 * [Think Python](https://greenteapress.com/thinkpython/thinkpython.pdf) - By Allen Downey
 
 * [Python for Data Analysis](https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf) - By Wes McKinney
-
-<br>
 
 ##
 
