@@ -93,7 +93,7 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 ***Main Data Analytics courses.***
 
-* [Ausiness Analytics - Specialization](https://www.coursera.org/specializations/business-analytics) - NsY
+* [Business Analytics - Specialization](https://www.coursera.org/specializations/business-analytics) - NsY
 * [Excel Skills for Data Analytics and Visualization](https://www.coursera.org/specializations/excel-data-analytics-visualization) - NsY
 * [Data Visualization with Tableau](https://www.coursera.org/specializations/data-visualization) - NsY
 * [Marketing Analytics](https://www.coursera.org/specializations/marketing-analytics) - NsY 
@@ -101,6 +101,12 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 ***Auxiliary Data Analytics courses.***
 
+* [Advanced Business Analytics - Specialization](https://www.coursera.org/specializations/data-analytics-business) - This course has a more hands-on focus on BI, so I found the idea of it very interesting.
+
+* [Excel Skills for Business](https://www.coursera.org/specializations/excel) - While the Excel Skills for Data Analytics - Specialization focuses on data analysis, this course aims to teach everything from basic to advanced Excel. - [Accomplished with Certificate](https://coursera.org/share/1a3f5b9c4ba4b9e4127ee4bd3f38f3d3)
+* []() -
+* []() -
+* []() -
 * []() -
 
 ***Data Analytics books***
