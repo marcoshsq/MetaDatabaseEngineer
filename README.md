@@ -250,6 +250,20 @@ Livros CS.
 
 * [Python for Data Analysis](https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf) - By Wes McKinney
 
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
+
+##
+
+<!-- 
+Soft Skills.
+-->
+
+<h3>List of Soft Skills Courses and Materials - Part 01:</h3>
+
 ##
 
 <div align="right">
