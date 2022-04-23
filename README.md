@@ -258,7 +258,7 @@ Soft Skills.
 
 ***Soft Skills FTW***
 
-* [Learning how to Learn](https://www.coursera.org/learn/learning-how-to-learn) - [Accomplished with Certificate](https://www.coursera.org/account/accomplishments/certificate/4R9C3HRVVTKQ)
+* [Learning how to Learn](https://www.coursera.org/learn/learning-how-to-learn) - As much of this journey will be self-taught, this course was probably one of the best I've ever taken, and one of the most important in this curriculum. - [Accomplished with Certificate](https://www.coursera.org/account/accomplishments/certificate/4R9C3HRVVTKQ)
 
 * [Solving Complex Problems](https://www.coursera.org/specializations/solving-complex-problems) - NsY
 
