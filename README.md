@@ -42,11 +42,34 @@ About the courses I chose. I know that Data Science is divided into four pillars
 
 The main guides I've followed to create this curriculum can be found in the ``References`` section, at the end of this ``README`` page.
 
+##
+
+[Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+
 ---
 
 ## Roadmap.
 
 ### Part 01 - Fundamentals.
+
+#### The way of the programmer!
+
+Here's the funny thing about getting a junior data science job... You don't get it! The truth is, that there isn't a junior data science position, at least, so my goal in the first two parts of this roadmap is to land a Junior Data Analyst position.
+
+So, looking through my background, I have a major in Civil engineering, beyond that, I've also taught programming classes during my time at university. This means I have a very good base in Mathematics, some knowledge of programming logic, and a little background in the IT field, so I'll not start from zero, which is pretty good.
+
+So my main focus in this first part (and part 02 as well), is to review some math concepts (Such as Linear Algebra, Matrices, and Discrete Mathematics). Also want to focus on programming. 
+
+##
+
+#### List of Courses abd Materials - Part 01:
+
+Subject | Course Link | Status | Certificate
+:-- | :--: | :--:
+| **Math** | [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Studying |  |
+| **Math** | []() | N/Y |  |
+
+
 
 <!--
 <p align="center">
