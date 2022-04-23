@@ -62,15 +62,15 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 ##
 
-***List of Courses and Materials - Part 01:***
+<h3>List of Courses and Materials - Part 01:</h3>
 
-Subject | Course Link | Status | Note
-:--: | :--: | :--: | :--:
-| **Math** | [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Studying |  |
-| **Math** | [Precalculus - Specialization](https://www.coursera.org/specializations/precalculus-data-modelling) | N/Y |  |	
+***Main mathematics courses.***
 
 
-##
+* [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) - Studying...
+* [Precalculus - Specialization](https://www.coursera.org/specializations/precalculus-data-modelling) - NsY
+* [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) - NsY
+* [Analytic geometry](https://cursos.ime.unicamp.br/disciplinas/geometria-analitica/) - NsY
 
 ***Auxiliary mathematics courses.***
 
@@ -80,7 +80,7 @@ Subject | Course Link | Status | Note
 
 * [Mathematics for Engineers - Specialization](https://www.coursera.org/specializations/mathematics-engineers) - A four course specialization with a capstone project A slightly more advanced course with a focus on engineering mathematics, but it teaches Matlab and Matrix algebra, in addition to having a final project that I really want to do!
 
-***Auxiliary mathematics books***
+***Mathematics books***
 
 * [Introduction to Mathematical Thinking](http://www.mat.ufrgs.br/~portosil/curso-Devlin.pdf) - By Keith Devlin.
 * [Essentials of Discrete Mathematics](https://www.amazon.com.br/Essentials-Discrete-Mathematics-David-Hunter/dp/1284056244) - By David J. Hunter.
