@@ -65,7 +65,7 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 #### List of Courses abd Materials - Part 01:
 
 Subject | Course Link | Status | Certificate
-:-- | :--: | :--:
+:--: | :-- | :--: | :--:
 | **Math** | [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Studying |  |
 | **Math** | []() | N/Y |  |
 
