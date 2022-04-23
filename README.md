@@ -52,7 +52,7 @@ The main guides I've followed to create this curriculum can be found in the ``Re
 
 ### Part 01 - Fundamentals.
 
-#### The way of the programmer!
+***The way of the programmer!***
 
 Here's the funny thing about getting a junior data science job... You don't get it! The truth is, that there isn't a junior data science position, at least, so my goal in the first two parts of this roadmap is to land a Junior Data Analyst position.
 
@@ -62,14 +62,17 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 ##
 
-#### List of Courses abd Materials - Part 01:
+***List of Courses and Materials - Part 01:***
 
-Subject | Course Link | Status | Certificate
+Subject | Course Link | Status | Note
 :--: | :-- | :--: | :--:
 | **Math** | [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Studying |  |
 | **Math** | []() | N/Y |  |
 
 
+***Auxiliary material for a good review in mathematics.***
+* [Khan Academy](https://pt.khanacademy.org/) - It has great content on various fields of mathematics organized in a logical order.
+* [Algebra: Elementary to Advanced - Specialization](https://www.coursera.org/specializations/algebra-elementary-to-advanced) - This specialization has three courses: Equations & Inequalities, Functions & Applications, Polynomials and Roots. The focus of the course is pre-calculus.
 
 <!--
 <p align="center">
