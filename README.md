@@ -277,7 +277,7 @@ Livros CS.
 Soft Skills.
 -->
 
-#### Soft Skills FTW
+<h3>Soft Skills FTW - Part 01:</h3>
 
 * [Learning how to Learn](https://www.coursera.org/learn/learning-how-to-learn) - As much of this journey will be self-taught, this course was probably one of the best I've ever taken, and one of the most important in this curriculum. - [Accomplished with Certificate](https://www.coursera.org/account/accomplishments/certificate/4R9C3HRVVTKQ)
 
@@ -394,7 +394,7 @@ Livros CS.
 Soft Skills.
 -->
 
-#### Soft Skills FTW
+<h3>Soft Skills FTW - Part 02:</h3>
 
 * []() - NsY
 
@@ -506,7 +506,7 @@ Livros CS.
 Soft Skills.
 -->
 
-#### Soft Skills FTW
+<h3>Soft Skills FTW - Part 03:</h3>
 
 * []() - NsY
 
