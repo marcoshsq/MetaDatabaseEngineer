@@ -72,7 +72,7 @@ Subject | Course Link | Status | Note
 
 ##
 
-***Auxiliary material for a better review in mathematics.***
+***Auxiliary mathematics courses.***
 
 * [Khan Academy](https://pt.khanacademy.org/) - It has great content on various fields of mathematics organized in a logical order.
 
@@ -80,7 +80,7 @@ Subject | Course Link | Status | Note
 
 * [Mathematics for Engineers - Specialization](https://www.coursera.org/specializations/mathematics-engineers) - A four course specialization with a capstone project A slightly more advanced course with a focus on engineering mathematics, but it teaches Matlab and Matrix algebra, in addition to having a final project that I really want to do!
 
-***Books***
+***Auxiliary mathematics books***
 
 * [Introduction to Mathematical Thinking](http://www.mat.ufrgs.br/~portosil/curso-Devlin.pdf) - By Keith Devlin.
 * [Essentials of Discrete Mathematics](https://www.amazon.com.br/Essentials-Discrete-Mathematics-David-Hunter/dp/1284056244) - By David J. Hunter.
