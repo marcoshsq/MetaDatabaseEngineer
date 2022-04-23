@@ -105,7 +105,7 @@ Cursos princípais Math.
 
 ***Main mathematics courses.***
 
-* [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) - Studying...
+* [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) - Course completed- [Accomplished with Certificate](https://coursera.org/share/ea8bc5ad902c2c057788fa8b7e4192a5)
 
 * [Precalculus - Specialization](https://www.coursera.org/specializations/precalculus-data-modelling) - NsY
 
