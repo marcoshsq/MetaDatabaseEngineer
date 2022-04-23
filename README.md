@@ -66,7 +66,6 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 ***Main mathematics courses.***
 
-
 * [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) - Studying...
 * [Precalculus - Specialization](https://www.coursera.org/specializations/precalculus-data-modelling) - NsY
 * [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) - NsY
@@ -91,9 +90,22 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 ##
 
 <h3>List of Data Analytics Courses and Materials - Part 01:</h3>
+
 ***Main Data Analytics courses.***
+
+* [Ausiness Analytics - Specialization](https://www.coursera.org/specializations/business-analytics) - NsY
+* [Excel Skills for Data Analytics and Visualization](https://www.coursera.org/specializations/excel-data-analytics-visualization) - NsY
+* [Data Visualization with Tableau](https://www.coursera.org/specializations/data-visualization) - NsY
+* [Marketing Analytics](https://www.coursera.org/specializations/marketing-analytics) - NsY 
+
+
 ***Auxiliary Data Analytics courses.***
+
+* []() -
+
 ***Data Analytics books***
+
+* []() -
 
 ##
 
