@@ -60,8 +60,11 @@ About the courses I chose. I know that Data Science is divided into four pillars
 The main guides I've followed to create this curriculum can be found in the ``References`` section, at the end of this ``README`` page.
 
 ##
-
-[Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
 
 <!-- 
 Fim da seção sobre.
@@ -84,7 +87,13 @@ Here's the funny thing about getting a junior data science job... You don't get 
 
 So, looking through my background, I have a major in Civil engineering, beyond that, I've also taught programming classes during my time at university. This means I have a very good base in Mathematics, some knowledge of programming logic, and a little background in the IT field, so I'll not start from zero, which is pretty good.
 
-So my main focus in this first part (and part 02 as well), is to review some math concepts (Such as Linear Algebra, Matrices, and Discrete Mathematics). Also want to focus on programming. 
+So my main focus in this first part (and part 02 as well), is to review some math concepts (Such as Linear Algebra, Matrices, and Discrete Mathematics). Also want to focus on programming.
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
 
 ##
 
@@ -134,6 +143,13 @@ Livros Math.
 
 * [Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com.br/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025) - By Ronald Graham
 
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
+
 ##
 
 <!-- 
@@ -181,6 +197,12 @@ Livros D.A.
 * [Storytelling with Data: Let's Practice!](https://www.amazon.com.br/dp/1119621496/?coliid=IA49AHKR14NT4&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - By Cole Nussbaumer Knaflic
 
 * [Business Intelligence e Análise de Dados para Gestão do Negócio](https://www.amazon.com.br/dp/8582605196/?coliid=ITWLW43WUISRY&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it_im) - By Dursun Delen
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
 
 ##
 
@@ -230,7 +252,11 @@ Livros CS.
 
 ##
 
-[Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
 
 ---
 
@@ -249,7 +275,11 @@ Part 02 - contexto.
 	
 ##
 
-[Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
 
 ---
 
@@ -264,7 +294,11 @@ Part 02 - contexto.
 
 ##
 
-[Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
 
 ---
 
@@ -279,7 +313,11 @@ Part 02 - contexto.
 	
 ##
 
-[Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
 
 ---
 
@@ -289,7 +327,11 @@ Part 02 - contexto.
 
 ##
 
-[Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
 
 ---
 
@@ -305,7 +347,11 @@ To build this bachelor's curriculum used these sources:
 
 ##
 
-[Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
 
 ---
 	
