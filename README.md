@@ -87,7 +87,7 @@ Fim da seção sobre.
 <div align="center">
 	<a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
 		
-![DS_Roadmap](https://user-images.githubusercontent.com/64812097/164886441-463d1d55-6fe1-43e4-abc5-7a8623304b47.png)
+
 
 </a>
 </div>
