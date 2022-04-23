@@ -62,7 +62,7 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 ##
 
-<h3>List of Courses and Materials - Part 01:</h3>
+<h3>List of Mathematical Courses and Materials - Part 01:</h3>
 
 ***Main mathematics courses.***
 
@@ -90,6 +90,13 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 ##
 
+<h3>List of Data Analytics Courses and Materials - Part 01:</h3>
+***Main Data Analytics courses.***
+***Auxiliary Data Analytics courses.***
+***Data Analytics books***
+
+##
+
 [Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
 
 ---
@@ -97,11 +104,10 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 ### Part 02 - Intermediate.
 
 <!--
-***List of Courses and Materials - Part xx:***
-
-Subject | Course Link | Status | Note
-:--: | :--: | :--: | :--:
-| **** | []() | N/Y |  |
+<h3>List of xxxx Courses and Materials - Part 02:</h3>
+***Main xxxx courses.***
+***Auxiliary xxxx courses.***
+***xxxx books***
 -->
 	
 ##
@@ -113,11 +119,10 @@ Subject | Course Link | Status | Note
 ### Part 03 - Advanced.
 
 <!--
-***List of Courses and Materials - Part xx:***
-
-Subject | Course Link | Status | Note
-:--: | :--: | :--: | :--:
-| **** | []() | N/Y |  |
+<h3>List of xxxx Courses and Materials - Part 03:</h3>
+***Main xxxx courses.***
+***Auxiliary xxxx courses.***
+***xxxx books***
 -->
 
 ##
@@ -129,11 +134,10 @@ Subject | Course Link | Status | Note
 ### Part 04 - Data Science.
 
 <!--
-***List of Courses and Materials - Part xx:***
-
-Subject | Course Link | Status | Note
-:--: | :--: | :--: | :--:
-| **** | []() | N/Y |  |
+<h3>List of xxxx Courses and Materials - Part 04:</h3>
+***Main xxxx courses.***
+***Auxiliary xxxx courses.***
+***xxxx books***
 -->
 	
 ##
