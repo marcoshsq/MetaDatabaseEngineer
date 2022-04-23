@@ -67,8 +67,11 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 ***Main mathematics courses.***
 
 * [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) - Studying...
+
 * [Precalculus - Specialization](https://www.coursera.org/specializations/precalculus-data-modelling) - NsY
+
 * [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) - NsY
+
 * [Analytic geometry](https://cursos.ime.unicamp.br/disciplinas/geometria-analitica/) - NsY
 
 ***Auxiliary mathematics courses.***
@@ -98,8 +101,11 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 ***Main Data Analytics courses.***
 
 * [Business Analytics - Specialization](https://www.coursera.org/specializations/business-analytics) - NsY
+
 * [Excel Skills for Data Analytics and Visualization](https://www.coursera.org/specializations/excel-data-analytics-visualization) - NsY
+
 * [Data Visualization with Tableau](https://www.coursera.org/specializations/data-visualization) - NsY
+
 * [Marketing Analytics](https://www.coursera.org/specializations/marketing-analytics) - NsY 
 
 
@@ -141,7 +147,8 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 * [CS50x](https://cs50.harvard.edu/x/2022/#how-to-take-this-course) - Introduction to Computer Science.
 
-* []() -
+* [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) - This course here is one of the most important because it is what will give a small glance at what data science is. - [Accomplished with Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
+
 * []() -
 
 ***Programming books***
