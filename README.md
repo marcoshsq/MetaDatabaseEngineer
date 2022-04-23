@@ -427,12 +427,91 @@ Soft Skills.
 
 ##
 
-<!--
-<h3>List of xxxx Courses and Materials - Part 03:</h3>
-***Main xxxx courses.***
-***Auxiliary xxxx courses.***
-***xxxx books***
+<h3>List of Mathematical Courses and Materials - Part 03:</h3>
+
+##
+
+#### Main mathematics courses.
+
+* []() - NsY
+
+* []() - NsY
+
+<!-- 
+Cursos auxiliares Math.
 -->
+
+#### Auxiliary mathematics courses.
+
+* []() - NsY
+
+* []() - NsY
+
+<!-- 
+Livros Math.
+-->
+
+#### Mathematics books
+
+* []() - NsY
+
+* []() - NsY
+
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
+
+##
+
+<!-- 
+Cursos princípais CS.
+-->
+
+<h3>List of Programming Courses and Materials - Part 03:</h3>
+
+##
+
+#### Main Programming courses
+
+* []() - NsY
+
+* []() - NsY
+
+<!-- 
+Cursos auxiliares CS.
+-->
+
+#### Auxiliary Programming courses
+
+* []() - NsY
+
+* []() - NsY
+
+<!-- 
+Livros CS.
+-->
+
+#### Programming books
+
+* []() - NsY
+
+* []() - NsY
+
+##
+
+<!-- 
+Soft Skills.
+-->
+
+#### Soft Skills FTW
+
+* []() - NsY
+
+* []() - NsY
+
 
 ##
 
@@ -441,6 +520,8 @@ Soft Skills.
 [Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
 	
 </div>
+
+<!--Fim da Parte 03-->
 
 ---
 
@@ -458,13 +539,92 @@ Soft Skills.
 
 ##
 
-<!--
-<h3>List of xxxx Courses and Materials - Part 04:</h3>
-***Main xxxx courses.***
-***Auxiliary xxxx courses.***
-***xxxx books***
+<h3>List of Mathematical Courses and Materials - Part 04:</h3>
+
+##
+
+#### Main mathematics courses.
+
+* []() - NsY
+
+* []() - NsY
+
+<!-- 
+Cursos auxiliares Math.
 -->
+
+#### Auxiliary mathematics courses.
+
+* []() - NsY
+
+* []() - NsY
+
+<!-- 
+Livros Math.
+-->
+
+#### Mathematics books
+
+* []() - NsY
+
+* []() - NsY
+
+
+<div align="right">
 	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
+
+##
+
+<!-- 
+Cursos princípais CS.
+-->
+
+<h3>List of Programming Courses and Materials - Part 04:</h3>
+
+##
+
+#### Main Programming courses
+
+* []() - NsY
+
+* []() - NsY
+
+<!-- 
+Cursos auxiliares CS.
+-->
+
+#### Auxiliary Programming courses
+
+* []() - NsY
+
+* []() - NsY
+
+<!-- 
+Livros CS.
+-->
+
+#### Programming books
+
+* []() - NsY
+
+* []() - NsY
+
+##
+
+<!-- 
+Soft Skills.
+-->
+
+#### Soft Skills FTW
+
+* []() - NsY
+
+* []() - NsY
+
+
 ##
 
 <div align="right">
@@ -472,6 +632,8 @@ Soft Skills.
 [Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
 	
 </div>
+
+<!--Fim da Parte 04-->
 
 ---
 
