@@ -33,7 +33,7 @@ Fim da seção cabeçalho.
 		+ [Mathematics](https://github.com/marcoshsq/My_Degree_in_Data_Science#list-of-mathematical-courses-and-materials---part-01)
 		+ [Data Analytics](https://github.com/marcoshsq/My_Degree_in_Data_Science#list-of-data-analytics-courses-and-materials---part-01)
 		+ [Programming](https://github.com/marcoshsq/My_Degree_in_Data_Science#list-of-programming-courses-and-materials---part-01)
-		+ [Soft Skills](https://github.com/marcoshsq/My_Degree_in_Data_Science#soft-skills-ftw)
+		+ [Soft Skills](https://github.com/marcoshsq/My_Degree_in_Data_Science#soft-skills-ftw---part-01)
 	+ [Part 02](https://github.com/marcoshsq/My_Degree_in_Data_Science#part-02---intermediate)
 		+ [Mathematics]()
 		+ [Data Analytics]()
@@ -611,19 +611,6 @@ Livros CS.
 * []() - NsY
 
 * []() - NsY
-
-##
-
-<!-- 
-Soft Skills.
--->
-
-#### Soft Skills FTW
-
-* []() - NsY
-
-* []() - NsY
-
 
 ##
 
