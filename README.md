@@ -140,7 +140,6 @@ Cursos princípais Math.
 
 * [Analytic geometry](https://cursos.ime.unicamp.br/disciplinas/geometria-analitica/) - NsY
 
-<br>
 <!-- 
 Cursos auxiliares Math.
 -->
@@ -153,7 +152,6 @@ Cursos auxiliares Math.
 
 * [Mathematics for Engineers - Specialization](https://www.coursera.org/specializations/mathematics-engineers) - A four course specialization with a capstone project A slightly more advanced course with a focus on engineering mathematics, but it teaches Matlab and Matrix algebra, in addition to having a final project that I really want to do!
 
-<br>
 <!-- 
 Livros Math.
 -->
@@ -197,8 +195,6 @@ Cursos princípais D.A.
 
 * [Marketing Analytics](https://www.coursera.org/specializations/marketing-analytics) - NsY 
 
-<br>
-
 <!-- 
 Cursos auxiliares D.A.
 -->
@@ -212,8 +208,6 @@ Cursos auxiliares D.A.
 * [Power BI](https://www.datascienceacademy.com.br/cursosgratuitos) - I chose tableau as my BI tool, but Power BI is just as important.
 
 * [Looker](https://www.coursera.org/specializations/creating-business-value-with-data-and-looker) - Getting the feet wet with the cloud.
-
-<br>
 
 <!-- 
 Livros D.A.
@@ -255,8 +249,6 @@ Cursos princípais CS.
 
 * [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) - Nsy
 
-<br>
-
 <!-- 
 Cursos auxiliares CS.
 -->
@@ -266,8 +258,6 @@ Cursos auxiliares CS.
 * [CS50x](https://cs50.harvard.edu/x/2022/#how-to-take-this-course) - Introduction to Computer Science.
 
 * [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) - This course here is one of the most important because it is what will give a small glance at what data science is. - [Accomplished with Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
-
-<br>
 
 <!-- 
 Livros CS.
@@ -295,7 +285,6 @@ Soft Skills.
 
 * [Data Analysis and Presentation Skills: the PwC Approach](https://www.coursera.org/specializations/pwc-analytics) - NsY
 
-
 ##
 
 <div align="right">
@@ -303,6 +292,8 @@ Soft Skills.
 [Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
 	
 </div>
+
+<!--Fim da Parte 01-->
 
 ---
 
@@ -324,13 +315,92 @@ Part 02 - contexto.
 
 ##
 
-<!--
-<h3>List of xxxx Courses and Materials - Part 02:</h3>
-***Main xxxx courses.***
-***Auxiliary xxxx courses.***
-***xxxx books***
+<h3>List of Mathematical Courses and Materials - Part 02:</h3>
+
+##
+
+#### Main mathematics courses.
+
+* []() - NsY
+
+* []() - NsY
+
+<!-- 
+Cursos auxiliares Math.
 -->
+
+#### Auxiliary mathematics courses.
+
+* []() - NsY
+
+* []() - NsY
+
+<!-- 
+Livros Math.
+-->
+
+#### Mathematics books
+
+* []() - NsY
+
+* []() - NsY
+
+
+<div align="right">
 	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
+
+##
+
+<!-- 
+Cursos princípais CS.
+-->
+
+<h3>List of Programming Courses and Materials - Part 02:</h3>
+
+##
+
+#### Main Programming courses
+
+* []() - NsY
+
+* []() - NsY
+
+<!-- 
+Cursos auxiliares CS.
+-->
+
+#### Auxiliary Programming courses
+
+* []() - NsY
+
+* []() - NsY
+
+<!-- 
+Livros CS.
+-->
+
+#### Programming books
+
+* []() - NsY
+
+* []() - NsY
+
+##
+
+<!-- 
+Soft Skills.
+-->
+
+#### Soft Skills FTW
+
+* []() - NsY
+
+* []() - NsY
+
+
 ##
 
 <div align="right">
@@ -338,6 +408,8 @@ Part 02 - contexto.
 [Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
 	
 </div>
+
+<!--Fim da Parte 02-->
 
 ---
 
