@@ -83,7 +83,7 @@ Part 01 - contexto.
 
 ***The way of the programmer!***
 
-Here's the funny thing about getting a junior data science job... You don't get it! The truth is, that there isn't a junior data science position, at least, so my goal in the first two parts of this roadmap is to land a Junior Data Analyst position.
+Here's the funny thing about getting a junior data science job... You don't get it! The truth is, that there isn't a junior data science position, so, my goal in the first two parts of this roadmap is to land a Junior Data Analyst position.
 
 So, looking through my background, I have a major in Civil engineering, beyond that, I've also taught programming classes during my time at university. This means I have a very good base in Mathematics, some knowledge of programming logic, and a little background in the IT field, so I'll not start from zero, which is pretty good.
 
