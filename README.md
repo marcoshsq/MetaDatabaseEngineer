@@ -65,14 +65,19 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 ***List of Courses and Materials - Part 01:***
 
 Subject | Course Link | Status | Note
-:--: | :-- | :--: | :--:
+:--: | :--: | :--: | :--:
 | **Math** | [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Studying |  |
 | **Math** | []() | N/Y |  |
 
+##
 
-***Auxiliary material for a good review in mathematics.***
+***Auxiliary material for a better review in mathematics.***
+
 * [Khan Academy](https://pt.khanacademy.org/) - It has great content on various fields of mathematics organized in a logical order.
-* [Algebra: Elementary to Advanced - Specialization](https://www.coursera.org/specializations/algebra-elementary-to-advanced) - This specialization has three courses: Equations & Inequalities, Functions & Applications, Polynomials and Roots. The focus of the course is pre-calculus.
+
+* [Algebra: Elementary to Advanced - Specialization](https://www.coursera.org/specializations/algebra-elementary-to-advanced) - This specialization has three courses: [Equations & Inequalities](https://www.coursera.org/learn/algebra-i?specialization=algebra-elementary-to-advanced), [Functions & Applications](https://www.coursera.org/learn/algebra-ii?specialization=algebra-elementary-to-advanced), [Polynomials and Roots](https://www.coursera.org/learn/polynomials-roots?specialization=algebra-elementary-to-advanced). The focus of the course is pre-calculus.
+
+* [Mathematics for Engineers - Specialization](https://www.coursera.org/specializations/mathematics-engineers) - A four course specialization with a capstone project A slightly more advanced course with a focus on engineering mathematics, but it teaches Matlab and Matrix algebra, in addition to having a final project that I really want to do!
 
 <!--
 <p align="center">
