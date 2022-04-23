@@ -141,15 +141,13 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 * [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) - NsY
 
-* 
+* [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) - Nsy
 
 ***Auxiliary Programming courses.***
 
 * [CS50x](https://cs50.harvard.edu/x/2022/#how-to-take-this-course) - Introduction to Computer Science.
 
 * [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) - This course here is one of the most important because it is what will give a small glance at what data science is. - [Accomplished with Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
-
-* []() -
 
 ***Programming books***
 
