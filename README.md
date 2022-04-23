@@ -118,7 +118,7 @@ Cursos princípais Math.
 
 <h3>List of Mathematical Courses and Materials - Part 01:</h3>
 
-***Main mathematics courses.***
+#### Main mathematics courses.
 
 * [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) - Course completed- [Accomplished with Certificate](https://coursera.org/share/ea8bc5ad902c2c057788fa8b7e4192a5)
 
@@ -133,7 +133,7 @@ Cursos princípais Math.
 Cursos auxiliares Math.
 -->
 
-***Auxiliary mathematics courses.***
+#### Auxiliary mathematics courses.
 
 * [Khan Academy](https://pt.khanacademy.org/) - It has great content on various fields of mathematics organized in a logical order.
 
@@ -146,7 +146,7 @@ Cursos auxiliares Math.
 Livros Math.
 -->
 
-***Mathematics books***
+#### Mathematics books
 
 * [Introduction to Mathematical Thinking](http://www.mat.ufrgs.br/~portosil/curso-Devlin.pdf) - By Keith Devlin.
 
@@ -173,7 +173,7 @@ Cursos princípais D.A.
 
 <h3>List of Data Analytics Courses and Materials - Part 01:</h3>
 
-***Main Data Analytics courses.***
+#### Main Data Analytics courses.
 
 * [Business Analytics - Specialization](https://www.coursera.org/specializations/business-analytics) - NsY
 
@@ -189,7 +189,7 @@ Cursos princípais D.A.
 Cursos auxiliares D.A.
 -->
 
-***Auxiliary Data Analytics courses.***
+#### Auxiliary Data Analytics courses.
 
 * [Advanced Business Analytics - Specialization](https://www.coursera.org/specializations/data-analytics-business) - This course has a more hands-on focus on BI, so I found the idea of it very interesting.
 
@@ -205,7 +205,7 @@ Cursos auxiliares D.A.
 Livros D.A.
 -->
 
-***Data Analytics books***
+#### Data Analytics books
 
 * [Storytelling with data](https://www.amazon.com.br/dp/8550804681/?coliid=IDSA4OIEEW2XL&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - By Cole Nussbaumer Knaflic
 
@@ -227,7 +227,7 @@ Cursos princípais CS.
 
 <h3>List of Programming Courses and Materials - Part 01:</h3>
 
-***Main Programming courses.***
+#### Main Programming courses
 
 * [How to Code Simple Data](https://www.edx.org/course/how-to-code-simple-data) - NsY
 
@@ -245,7 +245,7 @@ Cursos princípais CS.
 Cursos auxiliares CS.
 -->
 
-***Auxiliary Programming courses.***
+#### Auxiliary Programming courses
 
 * [CS50x](https://cs50.harvard.edu/x/2022/#how-to-take-this-course) - Introduction to Computer Science.
 
@@ -257,7 +257,7 @@ Cursos auxiliares CS.
 Livros CS.
 -->
 
-***Programming books***
+#### Programming books
 
 * [Python for Everybody](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf) - By Dr. Charles R. Severance
 
@@ -271,7 +271,7 @@ Livros CS.
 Soft Skills.
 -->
 
-***Soft Skills FTW***
+#### Soft Skills FTW
 
 * [Learning how to Learn](https://www.coursera.org/learn/learning-how-to-learn) - As much of this journey will be self-taught, this course was probably one of the best I've ever taken, and one of the most important in this curriculum. - [Accomplished with Certificate](https://www.coursera.org/account/accomplishments/certificate/4R9C3HRVVTKQ)
 
