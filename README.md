@@ -111,6 +111,32 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 ***Data Analytics books***
 
+* [Storytelling with data](https://www.amazon.com.br/dp/8550804681/?coliid=IDSA4OIEEW2XL&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - Cole Nussbaumer Knaflic
+
+* [Storytelling with Data: Let's Practice!](https://www.amazon.com.br/dp/1119621496/?coliid=IA49AHKR14NT4&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - Cole Nussbaumer Knaflic
+
+* [Business Intelligence e Análise de Dados para Gestão do Negócio](https://www.amazon.com.br/dp/8582605196/?coliid=ITWLW43WUISRY&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it_im) - Dursun Delen
+
+##
+
+<h3>List of Programming Courses and Materials - Part 01:</h3>
+
+***Main Programming courses.***
+
+* []() -
+* []() -
+* []() - 
+
+***Auxiliary Programming courses.***
+
+* []() -
+* []() -
+* []() -
+
+***Programming books***
+
+* []() -
+* []() -
 * []() -
 
 ##
