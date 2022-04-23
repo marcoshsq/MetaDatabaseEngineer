@@ -296,6 +296,18 @@ Part 02 - contexto.
 
 ### Part 02 - Intermediate.
 
+***Data, Data Everywhere!***
+
+<!--Escrever o contexto aqui u.u-->
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
+
+##
+
 <!--
 <h3>List of xxxx Courses and Materials - Part 02:</h3>
 ***Main xxxx courses.***
@@ -315,6 +327,18 @@ Part 02 - contexto.
 
 ### Part 03 - Advanced.
 
+***The S.H.O.D.A.N. Project.***
+
+<!--Escrever o contexto aqui u.u-->
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
+
+##
+
 <!--
 <h3>List of xxxx Courses and Materials - Part 03:</h3>
 ***Main xxxx courses.***
@@ -333,6 +357,18 @@ Part 02 - contexto.
 ---
 
 ### Part 04 - Data Science.
+
+***To those who prove worthy, paradise awaits!***
+
+<!--Escrever o contexto aqui u.u-->
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
+
+##
 
 <!--
 <h3>List of xxxx Courses and Materials - Part 04:</h3>
