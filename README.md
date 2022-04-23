@@ -118,6 +118,8 @@ Cursos princípais Math.
 
 <h3>List of Mathematical Courses and Materials - Part 01:</h3>
 
+##
+
 #### Main mathematics courses.
 
 * [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) - Course completed- [Accomplished with Certificate](https://coursera.org/share/ea8bc5ad902c2c057788fa8b7e4192a5)
@@ -173,6 +175,8 @@ Cursos princípais D.A.
 
 <h3>List of Data Analytics Courses and Materials - Part 01:</h3>
 
+##
+
 #### Main Data Analytics courses.
 
 * [Business Analytics - Specialization](https://www.coursera.org/specializations/business-analytics) - NsY
@@ -226,6 +230,8 @@ Cursos princípais CS.
 -->
 
 <h3>List of Programming Courses and Materials - Part 01:</h3>
+
+##
 
 #### Main Programming courses
 
