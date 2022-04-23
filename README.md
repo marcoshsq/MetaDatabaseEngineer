@@ -62,12 +62,17 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 ##
 
+<p align="center">
+
 ***List of Courses and Materials - Part 01:***
 
 Subject | Course Link | Status | Note
 :--: | :--: | :--: | :--:
 | **Math** | [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Studying |  |
 | **Math** | []() | N/Y |  |
+
+	
+</p>
 
 ##
 
