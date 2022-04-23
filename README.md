@@ -82,10 +82,14 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 ***Mathematics books***
 
 * [Introduction to Mathematical Thinking](http://www.mat.ufrgs.br/~portosil/curso-Devlin.pdf) - By Keith Devlin.
+
 * [Essentials of Discrete Mathematics](https://www.amazon.com.br/Essentials-Discrete-Mathematics-David-Hunter/dp/1284056244) - By David J. Hunter.
+
 * [Pre-Cálculo](https://www.amazon.com.br/Pre-C%C3%A1lculo-Valeria-Zuma-Medeiros/dp/8522107351) - By Valeria Zuma Medeiros.
+
 * [Elementary Linear Algebra: Applications](https://www.amazon.com.br/%C3%81lgebra-Linear-Aplica%C3%A7%C3%B5es-Howard-Anton/dp/8540701693/ref=asc_df_8540701693/?tag=googleshopp00-20&linkCode=df0&hvadid=379712528301&hvpos=&hvnetw=g&hvrand=12998920153216743409&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-810564893759&psc=1) - By Howard Anton
-* [Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com.br/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025) - Ronald Graham
+
+* [Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com.br/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025) - By Ronald Graham
 
 ##
 
@@ -111,11 +115,11 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 ***Data Analytics books***
 
-* [Storytelling with data](https://www.amazon.com.br/dp/8550804681/?coliid=IDSA4OIEEW2XL&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - Cole Nussbaumer Knaflic
+* [Storytelling with data](https://www.amazon.com.br/dp/8550804681/?coliid=IDSA4OIEEW2XL&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - By Cole Nussbaumer Knaflic
 
-* [Storytelling with Data: Let's Practice!](https://www.amazon.com.br/dp/1119621496/?coliid=IA49AHKR14NT4&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - Cole Nussbaumer Knaflic
+* [Storytelling with Data: Let's Practice!](https://www.amazon.com.br/dp/1119621496/?coliid=IA49AHKR14NT4&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - By Cole Nussbaumer Knaflic
 
-* [Business Intelligence e Análise de Dados para Gestão do Negócio](https://www.amazon.com.br/dp/8582605196/?coliid=ITWLW43WUISRY&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it_im) - Dursun Delen
+* [Business Intelligence e Análise de Dados para Gestão do Negócio](https://www.amazon.com.br/dp/8582605196/?coliid=ITWLW43WUISRY&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it_im) - By Dursun Delen
 
 ##
 
@@ -123,21 +127,30 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 ***Main Programming courses.***
 
-* []() -
-* []() -
-* []() - 
+* [How to Code Simple Data](https://www.edx.org/course/how-to-code-simple-data) - NsY
+
+* [How to Code Complex Data](https://www.edx.org/course/how-to-code-complex-data) - NsY
+
+* [Python for Everybody](https://www.coursera.org/specializations/python) - Studying...
+
+* [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) - NsY
+
+* 
 
 ***Auxiliary Programming courses.***
 
-* []() -
+* [CS50x](https://cs50.harvard.edu/x/2022/#how-to-take-this-course) - Introduction to Computer Science.
+
 * []() -
 * []() -
 
 ***Programming books***
 
-* []() -
-* []() -
-* []() -
+* [Python for Everybody](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf) - By Dr. Charles R. Severance
+
+* [Think Python](https://greenteapress.com/thinkpython/thinkpython.pdf) - By Allen Downey
+
+* [Python for Data Analysis](https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf) - By Wes McKinney
 
 ##
 
