@@ -34,9 +34,9 @@ Hi, my name is Marcos Henrique, I'm interested in becoming a data scientist. But
 
 This repository is a record of my studies, here are the courses I took, the order I followed, the certificates I got and the projects I developed.
 
-About the structure of this repository. It's divided into three parts. ``Roadmap``, ``List of Courses and books`` and ``Projects``.
+About the structure of this repository. It's divided into three parts. ``Roadmap``, ``Projects`` and ``References``.
 
-In the ``Roadmap`` section, the name gives the prize, it is the order in which I studied the courses. In the ``List of Courses and books`` section, I have listed all the relevant materials, courses, books and articles that I've studied. At last, most of the courses have capstone/guided projects, that are developed during the course. These projects are listed in the ``Projects`` section, at the end of this repository.
+In the ``Roadmap`` section, the name gives the prize, it is the order in which I studied the courses. I've also listed all the relevant materials, courses, books, and articles that I've studied. At last, most of the courses have capstone/guided projects. These projects are listed in the ``Projects`` section, at the end of this repository.
 
 About the courses I chose. I know that Data Science is divided into four pillars: ``Mathematics`` (AKA Statistics), ``Technology``, ``Domain Knowledge``, and ``Soft Skills``. My main focus here is Math and tech, as they are the longest part of the curriculum, I've searched for good Soft skills courses, and included some here, but for me, this kind of knowledge is only acquired by doing it. And different from programming, where you can learn to code in your house practicing, you won't learn how to publicly speak... well, without public speaking! But I included the ones I thought will help me develop some crucial knowledge.
 
