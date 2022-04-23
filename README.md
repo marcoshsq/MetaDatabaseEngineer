@@ -1,3 +1,9 @@
+<!-- 
+Essas Tgas são mais para mim me achar enquanto estiver editando esse arquivo.
+
+Cabeçalho da página.
+ -->
+
 <p align="center">
   <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
     <img src="https://mohdsaberi.net/img/icon/ds.png" alt="Developer Roadmap" width="120" height="120">
@@ -13,6 +19,10 @@
 </div>
 <br>
 
+<!-- 
+Fim da seção cabeçalho.
+-->
+ 
 ---
 
 ## Content summary.
@@ -27,6 +37,10 @@
 - [References](https://github.com/marcoshsq/My_Degree_in_Data_Science#references)
 
 ---
+
+<!-- 
+Seção sobre.
+-->
 
 ## About me and this repository.
 
@@ -46,9 +60,18 @@ The main guides I've followed to create this curriculum can be found in the ``Re
 
 [Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
 
+<!-- 
+Fim da seção sobre.
+-->
+
 ---
 
 ## Roadmap.
+
+<!-- 
+Part 01 - contexto.
+-->
+
 
 ### Part 01 - Fundamentals.
 
@@ -62,6 +85,10 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 ##
 
+<!-- 
+Cursos princípais Math.
+-->
+
 <h3>List of Mathematical Courses and Materials - Part 01:</h3>
 
 ***Main mathematics courses.***
@@ -74,6 +101,11 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 * [Analytic geometry](https://cursos.ime.unicamp.br/disciplinas/geometria-analitica/) - NsY
 
+<br>
+<!-- 
+Cursos auxiliares Math.
+-->
+
 ***Auxiliary mathematics courses.***
 
 * [Khan Academy](https://pt.khanacademy.org/) - It has great content on various fields of mathematics organized in a logical order.
@@ -81,6 +113,11 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 * [Algebra: Elementary to Advanced - Specialization](https://www.coursera.org/specializations/algebra-elementary-to-advanced) - This specialization has three courses: [Equations & Inequalities](https://www.coursera.org/learn/algebra-i?specialization=algebra-elementary-to-advanced), [Functions & Applications](https://www.coursera.org/learn/algebra-ii?specialization=algebra-elementary-to-advanced), [Polynomials and Roots](https://www.coursera.org/learn/polynomials-roots?specialization=algebra-elementary-to-advanced). The focus of the course is pre-calculus.
 
 * [Mathematics for Engineers - Specialization](https://www.coursera.org/specializations/mathematics-engineers) - A four course specialization with a capstone project A slightly more advanced course with a focus on engineering mathematics, but it teaches Matlab and Matrix algebra, in addition to having a final project that I really want to do!
+
+<br>
+<!-- 
+Livros Math.
+-->
 
 ***Mathematics books***
 
@@ -94,7 +131,13 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 * [Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com.br/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025) - By Ronald Graham
 
+<br>
+
 ##
+
+<!-- 
+Cursos princípais D.A.
+-->
 
 <h3>List of Data Analytics Courses and Materials - Part 01:</h3>
 
@@ -108,6 +151,11 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 * [Marketing Analytics](https://www.coursera.org/specializations/marketing-analytics) - NsY 
 
+<br>
+
+<!-- 
+Cursos auxiliares D.A.
+-->
 
 ***Auxiliary Data Analytics courses.***
 
@@ -119,6 +167,12 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 * [Looker](https://www.coursera.org/specializations/creating-business-value-with-data-and-looker) - Getting the feet wet with the cloud.
 
+<br>
+
+<!-- 
+Livros D.A.
+-->
+
 ***Data Analytics books***
 
 * [Storytelling with data](https://www.amazon.com.br/dp/8550804681/?coliid=IDSA4OIEEW2XL&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - By Cole Nussbaumer Knaflic
@@ -127,7 +181,13 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 * [Business Intelligence e Análise de Dados para Gestão do Negócio](https://www.amazon.com.br/dp/8582605196/?coliid=ITWLW43WUISRY&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it_im) - By Dursun Delen
 
+<br>
+
 ##
+
+<!-- 
+Cursos princípais CS.
+-->
 
 <h3>List of Programming Courses and Materials - Part 01:</h3>
 
@@ -143,11 +203,23 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 * [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) - Nsy
 
+<br>
+
+<!-- 
+Cursos auxiliares CS.
+-->
+
 ***Auxiliary Programming courses.***
 
 * [CS50x](https://cs50.harvard.edu/x/2022/#how-to-take-this-course) - Introduction to Computer Science.
 
 * [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) - This course here is one of the most important because it is what will give a small glance at what data science is. - [Accomplished with Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
+
+<br>
+
+<!-- 
+Livros CS.
+-->
 
 ***Programming books***
 
@@ -157,11 +229,17 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 * [Python for Data Analysis](https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf) - By Wes McKinney
 
+<br>
+
 ##
 
 [Return to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
 
 ---
+
+<!-- 
+Part 02 - contexto.
+-->
 
 ### Part 02 - Intermediate.
 
