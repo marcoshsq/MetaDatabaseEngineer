@@ -104,10 +104,10 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 * [Advanced Business Analytics - Specialization](https://www.coursera.org/specializations/data-analytics-business) - This course has a more hands-on focus on BI, so I found the idea of it very interesting.
 
 * [Excel Skills for Business](https://www.coursera.org/specializations/excel) - While the Excel Skills for Data Analytics - Specialization focuses on data analysis, this course aims to teach everything from basic to advanced Excel. - [Accomplished with Certificate](https://coursera.org/share/1a3f5b9c4ba4b9e4127ee4bd3f38f3d3)
-* []() -
-* []() -
-* []() -
-* []() -
+
+* [Power BI](https://www.datascienceacademy.com.br/cursosgratuitos) - I chose tableau as my BI tool, but Power BI is just as important.
+
+* [Looker](https://www.coursera.org/specializations/creating-business-value-with-data-and-looker) - Getting the feet wet with the cloud.
 
 ***Data Analytics books***
 
