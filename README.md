@@ -62,17 +62,13 @@ So my main focus in this first part (and part 02 as well), is to review some mat
 
 ##
 
-<p align="center">
-
 ***List of Courses and Materials - Part 01:***
 
 Subject | Course Link | Status | Note
 :--: | :--: | :--: | :--:
 | **Math** | [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Studying |  |
-| **Math** | []() | N/Y |  |
+| **Math** | [Precalculus - Specialization](https://www.coursera.org/specializations/precalculus-data-modelling) | N/Y |  |	
 
-	
-</p>
 
 ##
 
@@ -84,11 +80,11 @@ Subject | Course Link | Status | Note
 
 * [Mathematics for Engineers - Specialization](https://www.coursera.org/specializations/mathematics-engineers) - A four course specialization with a capstone project A slightly more advanced course with a focus on engineering mathematics, but it teaches Matlab and Matrix algebra, in addition to having a final project that I really want to do!
 
-<!--
-<p align="center">
-  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">	  
-  </a>
--->
+***Books***
+
+* [Introduction to Mathematical Thinking](http://www.mat.ufrgs.br/~portosil/curso-Devlin.pdf) - By Keith Devlin.
+* [Essentials of Discrete Mathematics](https://www.amazon.com.br/Essentials-Discrete-Mathematics-David-Hunter/dp/1284056244) - By David J. Hunter.
+* [Pre-Cálculo](https://www.amazon.com.br/Pre-C%C3%A1lculo-Valeria-Zuma-Medeiros/dp/8522107351) - By Valeria Zuma Medeiros.
 
 ##
 
@@ -97,11 +93,13 @@ Subject | Course Link | Status | Note
 ---
 
 ### Part 02 - Intermediate.
-	
+
 <!--
-<p align="center">
-  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">	  
-  </a>
+***List of Courses and Materials - Part xx:***
+
+Subject | Course Link | Status | Note
+:--: | :--: | :--: | :--:
+| **** | []() | N/Y |  |
 -->
 	
 ##
@@ -113,9 +111,11 @@ Subject | Course Link | Status | Note
 ### Part 03 - Advanced.
 
 <!--
-<p align="center">
-  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">	  
-  </a>
+***List of Courses and Materials - Part xx:***
+
+Subject | Course Link | Status | Note
+:--: | :--: | :--: | :--:
+| **** | []() | N/Y |  |
 -->
 
 ##
@@ -127,9 +127,11 @@ Subject | Course Link | Status | Note
 ### Part 04 - Data Science.
 
 <!--
-<p align="center">
-  <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">	  
-  </a>
+***List of Courses and Materials - Part xx:***
+
+Subject | Course Link | Status | Note
+:--: | :--: | :--: | :--:
+| **** | []() | N/Y |  |
 -->
 	
 ##
