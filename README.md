@@ -187,17 +187,17 @@ Cursos auxiliares D.A.
 
 * [Excel Skills for Business](https://www.coursera.org/specializations/excel) - While the Excel Skills for Data Analytics - Specialization focuses on data analysis, this course aims to teach everything from basic to advanced Excel. - [Accomplished with Certificate](https://coursera.org/share/1a3f5b9c4ba4b9e4127ee4bd3f38f3d3)
 
-* [Excel Skills for Business Forecasting](https://www.coursera.org/specializations/excel-skills-for-business-forecasting)
+* [Excel Skills for Business Forecasting](https://www.coursera.org/specializations/excel-skills-for-business-forecasting) - NsY
 
-* [Excel/VBA for Creative Problem Solving](https://www.coursera.org/specializations/excel-vba-creative-problem-solving)
+* [Excel/VBA for Creative Problem Solving](https://www.coursera.org/specializations/excel-vba-creative-problem-solving) - NsY
 
-* [Use Tableau for Your Data Science Workflow](https://www.coursera.org/specializations/tableau-for-data-science-workflows)
+* [Use Tableau for Your Data Science Workflow](https://www.coursera.org/specializations/tableau-for-data-science-workflows) - NsY
 
 * [Power BI](https://www.datascienceacademy.com.br/cursosgratuitos) - I chose tableau as my BI tool, but Power BI is just as important.
 
 * [Looker](https://www.coursera.org/specializations/creating-business-value-with-data-and-looker) - Getting the feet wet with the cloud.
 
-* [Marketing Analytics from Meta](https://www.coursera.org/professional-certificates/facebook-marketing-analytics?trk_ref=caCareerCard)
+* [Marketing Analytics from Meta](https://www.coursera.org/professional-certificates/facebook-marketing-analytics?trk_ref=caCareerCard) - NsY
 
 <!-- 
 Livros D.A.
@@ -245,13 +245,13 @@ Cursos auxiliares CS.
 
 #### Auxiliary Programming courses
 
-* [CS50x](https://cs50.harvard.edu/x/2022/#how-to-take-this-course) - Introduction to Computer Science.
+* [CS50x](https://cs50.harvard.edu/x/2022/#how-to-take-this-course) - Introduction to Computer Science. - NsY
 
 * [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) - This course here is one of the most important because it is what will give a small glance at what data science is. - [Accomplished with Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
 
-* [Python Data Products for Predictive Analytics](https://www.coursera.org/specializations/python-data-products-for-predictive-analytics)
+* [Python Data Products for Predictive Analytics](https://www.coursera.org/specializations/python-data-products-for-predictive-analytics) - NsY
 
-* [PostgreeSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody)
+* [PostgreeSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) - NsY
 
 <!-- 
 Livros CS.
@@ -264,6 +264,10 @@ Livros CS.
 * [Think Python](https://greenteapress.com/thinkpython/thinkpython.pdf) - By Allen Downey
 
 * [Python for Data Analysis](https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf) - By Wes McKinney
+
+* [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com.br/dp/B00JDMPOK2/?coliid=I2U74925X6ZEPU&colid=114FRETXG2OT3&psc=0&ref_=lv_ov_lig_dp_it) | Petzold Charles
+
+* [Introdução a Sistemas de Bancos de Dados](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Sistemas-Bancos-Dados-Date/dp/8535212736) | C. J. C.J. Date
 
 ##
 
