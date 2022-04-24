@@ -267,7 +267,7 @@ Livros CS.
 
 * [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com.br/dp/B00JDMPOK2/?coliid=I2U74925X6ZEPU&colid=114FRETXG2OT3&psc=0&ref_=lv_ov_lig_dp_it) | Petzold Charles
 
-* [Introdução a Sistemas de Bancos de Dados](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Sistemas-Bancos-Dados-Date/dp/8535212736) | C. J. C.J. Date
+* [Introdução a Sistemas de Bancos de Dados](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Sistemas-Bancos-Dados-Date/dp/8535212736) - By C. J. C.J. Date
 
 ##
 
@@ -282,6 +282,8 @@ Soft Skills.
 * [Solving Complex Problems](https://www.coursera.org/specializations/solving-complex-problems) - NsY
 
 * [Data Analysis and Presentation Skills: the PwC Approach](https://www.coursera.org/specializations/pwc-analytics) - NsY
+
+* [Strategic Management](https://www.coursera.org/specializations/strategic-management)
 
 ##
 
@@ -319,9 +321,11 @@ Part 02 - contexto.
 
 #### Main mathematics courses.
 
-* []() - NsY
+* [Differential Calculus through Data and Modeling](https://www.coursera.org/specializations/differential-calculus-data-modeling) - NsY
 
-* []() - NsY
+* [Integral Calculus through Data and Modeling](https://www.coursera.org/specializations/integral-calculus-data-modeling) - NsY
+
+* [Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) - NsY
 
 <!-- 
 Cursos auxiliares Math.
@@ -329,9 +333,11 @@ Cursos auxiliares Math.
 
 #### Auxiliary mathematics courses.
 
-* []() - NsY
+* [Cálculo I](https://cursos.ime.unicamp.br/disciplinas/calculo/) - NsY
 
-* []() - NsY
+* [Cálculo II](https://cursos.ime.unicamp.br/disciplinas/ma211-calculo-ii/) - NsY
+
+* [Probability](https://projects.iq.harvard.edu/stat110) - NsY
 
 <!-- 
 Livros Math.
@@ -339,10 +345,9 @@ Livros Math.
 
 #### Mathematics books
 
-* []() - NsY
+* [Cálculo 1](https://www.amazon.com.br/C%C3%A1lculo-vol-I-James-Stweart/dp/852212583X/ref=sr_1_1?keywords=calculo+james+stewart&qid=1647462250&s=books&sprefix=calculo%2Cstripbooks%2C205&sr=1-1&ufe=app_do%3Aamzn1.fos.4bb5663b-6f7d-4772-84fa-7c7f565ec65b) - By James Stweart
 
-* []() - NsY
-
+* [Cálculo 2](https://www.amazon.com.br/C%C3%A1lculo-vol-II-James-Stweart/dp/8522125848/ref=sr_1_2?keywords=calculo+james+stewart&qid=1647462250&s=books&sprefix=calculo%2Cstripbooks%2C205&sr=1-2&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12) - By James Stweart
 
 <div align="right">
 	
