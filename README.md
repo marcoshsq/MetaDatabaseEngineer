@@ -28,7 +28,7 @@ Fim da seção cabeçalho.
 ## Content summary.
 
 - [About](https://github.com/marcoshsq/My_Degree_in_Data_Science#about-me-and-this-repository)
-- [General Roadmap](https://github.com/marcoshsq/My_Degree_in_Data_Science#general-roadmap)
+- [Roadmap](https://github.com/marcoshsq/My_Degree_in_Data_Science#roadmap)
 	+ [Part 01](https://github.com/marcoshsq/My_Degree_in_Data_Science#part-01---fundamentals)
 		+ [Mathematics](https://github.com/marcoshsq/My_Degree_in_Data_Science#list-of-mathematical-courses-and-materials---part-01)
 		+ [Data Analytics](https://github.com/marcoshsq/My_Degree_in_Data_Science#list-of-data-analytics-courses-and-materials---part-01)
@@ -82,28 +82,10 @@ Fim da seção sobre.
 
 ---
 
-## General Roadmap.
-
-<div align="center">
-	<a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
-		
-
-
-</a>
-</div>
-
-<div align="right">
-	
-[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
-	
-</div>
-
+## Roadmap.
 <!-- 
 Part 01 - contexto.
 -->
-
-##
-
 ### Part 01 - Fundamentals.
 
 ***The way of the programmer!***
