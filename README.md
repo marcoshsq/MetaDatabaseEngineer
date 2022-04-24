@@ -284,9 +284,9 @@ Soft Skills.
 
 * [Data Analysis and Presentation Skills: the PwC Approach](https://www.coursera.org/specializations/pwc-analytics) - NsY
 
-* [Strategic Management](https://www.coursera.org/specializations/strategic-management)
+* [Strategic Management](https://www.coursera.org/specializations/strategic-management) - NsY
 
-* [Introduction to Logic and Critical Thinking](https://www.coursera.org/specializations/logic-critical-thinking-duke)
+* [Introduction to Logic and Critical Thinking](https://www.coursera.org/specializations/logic-critical-thinking-duke) - NsY
 
 ##
 
@@ -370,9 +370,13 @@ Cursos princípais CS.
 
 #### Main Programming courses
 
-* []() - NsY
+* [Programming Languages A](https://www.coursera.org/learn/programming-languages) - NsY
 
-* []() - NsY
+* [Programming Languages B](https://www.coursera.org/learn/programming-languages-part-b) - NsY
+
+* [Programming Languages C](https://www.coursera.org/learn/programming-languages-part-c) - NsY
+
+* [MongoDB](https://university.mongodb.com/learning_paths/developer)
 
 <!-- 
 Cursos auxiliares CS.
@@ -380,9 +384,17 @@ Cursos auxiliares CS.
 
 #### Auxiliary Programming courses
 
-* []() - NsY
+* [IT automation with Python](https://www.coursera.org/professional-certificates/google-it-automation) - NsY
 
-* []() - NsY
+* [Introduction to Operating Systems](https://www.coursera.org/specializations/codio-introduction-operating-systems) - NsY
+
+* [Computer Architecture](https://www.coursera.org/learn/comparch) - NsY
+
+* [Build a Modern Computer from First Principles: Nand to Tetris Part I](https://www.coursera.org/learn/build-a-computer) - NsY
+
+* [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) - NsY
+
+* [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) - NsY
 
 <!-- 
 Livros CS.
@@ -402,9 +414,9 @@ Soft Skills.
 
 <h3>Soft Skills FTW - Part 02:</h3>
 
-* []() - NsY
+*  [Be Your Best Creative Self](https://www.coursera.org/learn/be-your-best-creative-self) - NsY
 
-* []() - NsY
+* [Professional Success Skills](https://www.coursera.org/specializations/professional-success-skills) - NsY
 
 
 ##
@@ -514,9 +526,11 @@ Soft Skills.
 
 <h3>Soft Skills FTW - Part 03:</h3>
 
-* []() - NsY
+* [Futures Thinking](https://www.coursera.org/specializations/futures-thinking) - NsY
 
-* []() - NsY
+* [Comunicação efetiva](https://www.coursera.org/specializations/effective-business-communication) - NsY
+
+* [Branding: The Creative Journey](https://www.coursera.org/specializations/branding-the-creative-journey) - NsY
 
 
 ##
