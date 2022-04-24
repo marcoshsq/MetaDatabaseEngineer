@@ -187,9 +187,17 @@ Cursos auxiliares D.A.
 
 * [Excel Skills for Business](https://www.coursera.org/specializations/excel) - While the Excel Skills for Data Analytics - Specialization focuses on data analysis, this course aims to teach everything from basic to advanced Excel. - [Accomplished with Certificate](https://coursera.org/share/1a3f5b9c4ba4b9e4127ee4bd3f38f3d3)
 
+* [Excel Skills for Business Forecasting](https://www.coursera.org/specializations/excel-skills-for-business-forecasting)
+
+* [Excel/VBA for Creative Problem Solving](https://www.coursera.org/specializations/excel-vba-creative-problem-solving)
+
+* [Use Tableau for Your Data Science Workflow](https://www.coursera.org/specializations/tableau-for-data-science-workflows)
+
 * [Power BI](https://www.datascienceacademy.com.br/cursosgratuitos) - I chose tableau as my BI tool, but Power BI is just as important.
 
 * [Looker](https://www.coursera.org/specializations/creating-business-value-with-data-and-looker) - Getting the feet wet with the cloud.
+
+* [Marketing Analytics from Meta](https://www.coursera.org/professional-certificates/facebook-marketing-analytics?trk_ref=caCareerCard)
 
 <!-- 
 Livros D.A.
@@ -240,6 +248,10 @@ Cursos auxiliares CS.
 * [CS50x](https://cs50.harvard.edu/x/2022/#how-to-take-this-course) - Introduction to Computer Science.
 
 * [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) - This course here is one of the most important because it is what will give a small glance at what data science is. - [Accomplished with Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
+
+* [Python Data Products for Predictive Analytics](https://www.coursera.org/specializations/python-data-products-for-predictive-analytics)
+
+* [PostgreeSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody)
 
 <!-- 
 Livros CS.
