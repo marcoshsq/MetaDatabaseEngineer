@@ -89,12 +89,6 @@ Part 01 - contexto.
 
 ***The way of the programmer!***
 
-Here's the funny thing about getting a junior data science job... You don't get it! The truth is, that there isn't a junior data science position, so, my goal in the first two parts of this roadmap is to land a Junior Data Analyst position.
-
-So, looking through my background, I have a major in Civil engineering, beyond that, I've also taught programming classes during my time at university. This means I have a very good base in Mathematics, some knowledge of programming logic, and a little background in the IT field, so I'll not start from zero, which is pretty good.
-
-So my main focus in this first part (and part 02 as well), is to review some math concepts (Such as Linear Algebra, Matrices, and Discrete Mathematics). Also want to focus on programming.
-
 <div align="right">
 	
 [Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
@@ -307,12 +301,6 @@ Part 02 - contexto.
 
 ***Data, Data Everywhere!***
 
-Great, we survived part 01, which means we broke inertia!
-
-In part two I will continue with my math review, and I intend to start flirting with statistics!
-
-As for programming, now it's time to dive deeper!
-
 <div align="right">
 	
 [Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
@@ -444,12 +432,6 @@ Soft Skills.
 ### Part 03 - Advanced.
 
 ***The S.H.O.D.A.N. Project.***
-
-Okay, we're not going to create SHODAN, but now we can actually start data science properly. 
-
-Regarding math, the focus will be more on the statistics books.
-
-Beyond that, now I'm going to start studying things like Big Data and Cloud, Also... AI, uhuuu.
 
 <div align="right">
 	
