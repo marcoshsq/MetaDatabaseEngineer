@@ -352,6 +352,9 @@ Livros Math.
 
 * [Cálculo 2](https://www.amazon.com.br/C%C3%A1lculo-vol-II-James-Stweart/dp/8522125848/ref=sr_1_2?keywords=calculo+james+stewart&qid=1647462250&s=books&sprefix=calculo%2Cstripbooks%2C205&sr=1-2&ufe=app_do%3Aamzn1.fos.db68964d-7c0e-4bb2-a95c-e5cb9e32eb12) - By James Stweart
 
+* [Introduction to Linear Regression Analysis](https://www.amazon.com.br/Introduction-Linear-Regression-Analysis-822/dp/1119578728/ref=asc_df_1119578728/?tag=googleshopp00-20&linkCode=df0&hvadid=379765626380&hvpos=&hvnetw=g&hvrand=17497996431868903449&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-1102460833560&psc=1) - By Douglas C Montgomery
+
+* [Cálculo Numérico: Aspectos Teóricos e Computacionais](https://www.amazon.com.br/C%C3%A1lculo-num%C3%A9rico-aspectos-te%C3%B3ricos-computacionais/dp/8534602042/ref=asc_df_8534602042/?tag=googleshopp00-20&linkCode=df0&hvadid=379818118514&hvpos=&hvnetw=g&hvrand=2406457825278115913&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-1002925180232&psc=1) - By Marcia Gomes
 <div align="right">
 	
 [Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
@@ -370,13 +373,17 @@ Cursos princípais CS.
 
 #### Main Programming courses
 
+* [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python) - NsY
+
 * [Programming Languages A](https://www.coursera.org/learn/programming-languages) - NsY
 
 * [Programming Languages B](https://www.coursera.org/learn/programming-languages-part-b) - NsY
 
 * [Programming Languages C](https://www.coursera.org/learn/programming-languages-part-c) - NsY
 
-* [MongoDB](https://university.mongodb.com/learning_paths/developer)
+* [MongoDB](https://university.mongodb.com/learning_paths/developer) - NsY
+
+* [Data Warehousing](https://www.coursera.org/specializations/data-warehousing) - NsY
 
 <!-- 
 Cursos auxiliares CS.
@@ -402,9 +409,9 @@ Livros CS.
 
 #### Programming books
 
-* []() - NsY
+* [Data science para negócios](https://www.amazon.com.br/dp/8576089726/?coliid=I112E2HYFAHC80&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - By Tom Fawcett
 
-* []() - NsY
+* [Indicadores de desempenho](https://www.amazon.com.br/dp/8550801720/?coliid=I19YMC29ROQLF7&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it_im) - By Paulino G. Francischini
 
 ##
 
@@ -451,9 +458,9 @@ Soft Skills.
 
 #### Main mathematics courses.
 
-* []() - NsY
+* [Probabilistic graphical models](https://www.coursera.org/specializations/probabilistic-graphical-models) - NsY
 
-* []() - NsY
+* [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) - NsY
 
 <!-- 
 Cursos auxiliares Math.
@@ -461,9 +468,9 @@ Cursos auxiliares Math.
 
 #### Auxiliary mathematics courses.
 
-* []() - NsY
+* [Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) - NsY
 
-* []() - NsY
+* [Statistics with R](https://www.coursera.org/specializations/statistics) - NsY
 
 <!-- 
 Livros Math.
@@ -471,9 +478,23 @@ Livros Math.
 
 #### Mathematics books
 
-* []() - NsY
+* [Data Science Foundations: Data Structures and Algorithms](https://www.coursera.org/specializations/boulder-data-structures-algorithms) - By Sriram Sankaranarayanan
 
-* []() - NsY
+* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/Papers/ESLII.pdf) - By Trevor Hastie, Robert Tibshirani, Jerome Friedman
+
+* [An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) - By Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+
+* [Modern Statistics with R](http://www.modernstatisticswithr.com/_main.pdf) - By Måns Thulin
+
+* [Statistics and Machine Learning in Python](http://www.ru.ac.bd/stat/wp-content/uploads/sites/25/2019/03/207_05_Duchesnay_Statistics_Machine_Learning_Python_2019.pdf) - By Edouard Duchesnay
+
+* [Regression Models with computational support](https://www.ime.usp.br/~giapaula/texto_2013.pdf) - By Gilberto A. Paula
+
+* [Probabilidade: Um Curso Moderno com Aplicações](https://www.amazon.com.br/Probabilidade-Curso-Moderno-com-Aplica%C3%A7%C3%B5es/dp/8577806219) - By Sheldon Ross
+
+* [Introduction to the Theory of Statistics](https://www.amazon.com.br/Introduction-Theory-Statistics-Alexander-Mood/dp/0070854653) - By Alexander Mood 
+
+* [Matrix Algebra Useful for Statistics](https://www.wiley.com/en-us/Matrix+Algebra+Useful+for+Statistics%2C+2nd+Edition-p-9781118935149) - By John Wiley
 
 
 <div align="right">
@@ -488,31 +509,43 @@ Livros Math.
 Cursos princípais CS.
 -->
 
-<h3>List of Programming Courses and Materials - Part 03:</h3>
+<h3>List of Data Science Courses and Materials - Part 03:</h3>
 
 ##
 
-#### Main Programming courses
+#### Main Data Science courses
 
-* []() - NsY
+* [Data Mining](https://www.coursera.org/specializations/data-mining) - NsY
 
-* []() - NsY
+* [Data Science - By JHU](https://www.coursera.org/specializations/jhu-data-science) - NsY
+
+* [Big Data](https://www.coursera.org/specializations/big-data) - NsY
+
+* [Cloud Computing](https://www.coursera.org/specializations/cloud-computing) - NsY
+
+* [Machine Learning](https://www.coursera.org/learn/machine-learning) - NsY
+
+* [Machine Learning](https://www.coursera.org/specializations/machine-learning) - NsY
+
 
 <!-- 
 Cursos auxiliares CS.
 -->
 
-#### Auxiliary Programming courses
+#### Auxiliary Data Science courses
 
-* []() - NsY
+* [Modern Application Development with Python on AWS](https://www.coursera.org/specializations/aws-python-serverless-development) - NsY
 
-* []() - NsY
+* [Practical Data Science](https://www.coursera.org/specializations/practical-data-science) - NsY
+
+* [Creativity and A.I.](https://www.coursera.org/specializations/creativity-ai) - NsY
+
 
 <!-- 
 Livros CS.
 -->
 
-#### Programming books
+#### Data Science books
 
 * []() - NsY
 
@@ -565,9 +598,9 @@ Soft Skills.
 
 #### Main mathematics courses.
 
-* []() - NsY
+* [Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) - NsY
 
-* []() - NsY
+* [Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) - NsY
 
 <!-- 
 Cursos auxiliares Math.
@@ -575,9 +608,9 @@ Cursos auxiliares Math.
 
 #### Auxiliary mathematics courses.
 
-* []() - NsY
+* [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) - NsY
 
-* []() - NsY
+* [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) - NsY
 
 <!-- 
 Livros Math.
@@ -585,9 +618,11 @@ Livros Math.
 
 #### Mathematics books
 
-* []() - NsY
+* [Applied Nonparametric Statistical Methods](https://www.amazon.com.br/Applied-Nonparametric-Statistical-Methods-Sprent/dp/158488701X) - By Nigel C Smeeton
 
-* []() - NsY
+* [Markov Chain Monte Carlo: Stochastic Simulation for Bayesian Inference](https://www.amazon.com.br/Markov-Chain-Monte-Carlo-Stochastic/dp/1584885874) - By Dani Gamerman
+
+* [Bayesian Statistics](https://www.amazon.com.br/Bayesian-Statistics-Introduction-Peter-Lee/dp/1118332571/ref=asc_df_1118332571/?tag=googleshopp00-20&linkCode=df0&hvadid=379693248429&hvpos=&hvnetw=g&hvrand=18380072571890790399&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-563714594144&psc=1) - By Peter M. Lee
 
 
 <div align="right">
@@ -602,35 +637,35 @@ Livros Math.
 Cursos princípais CS.
 -->
 
-<h3>List of Programming Courses and Materials - Part 04:</h3>
+<h3>List of AI Courses and Materials - Part 04:</h3>
 
 ##
 
-#### Main Programming courses
+#### Main AI courses
 
-* []() - NsY
+* [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) - NsY
 
-* []() - NsY
+* [Deep Learning](https://www.coursera.org/specializations/deep-learning) - NsY
+
+* [First Principles of Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) - NsY
 
 <!-- 
 Cursos auxiliares CS.
 -->
 
-#### Auxiliary Programming courses
+#### Auxiliary AI courses
 
-* []() - NsY
+* [Self-Driving Cars](https://www.coursera.org/specializations/self-driving-cars) - NsY
 
-* []() - NsY
+* [Advanced Machine Learning on Google Cloud](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) - NsY
 
 <!-- 
 Livros CS.
 -->
 
-#### Programming books
+#### AI books
 
-* []() - NsY
-
-* []() - NsY
+* [Artificial Intelligence: A Modern Approach](https://www.amazon.com.br/dp/0136042597/?coliid=I1DADMS27UAR9G&colid=114FRETXG2OT3&psc=1&ref_=lv_ov_lig_dp_it) - By Peter Norvig
 
 ##
 
