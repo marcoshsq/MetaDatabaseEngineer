@@ -307,7 +307,11 @@ Part 02 - contexto.
 
 ***Data, Data Everywhere!***
 
-<!--Escrever o contexto aqui u.u-->
+Great, we survived part 01, which means we broke inertia!
+
+In part two I will continue with my math review, and I intend to start flirting with statistics!
+
+As for programming, now it's time to dive deeper!
 
 <div align="right">
 	
@@ -420,7 +424,7 @@ Soft Skills.
 
 <h3>Soft Skills FTW - Part 02:</h3>
 
-*  [Be Your Best Creative Self](https://www.coursera.org/learn/be-your-best-creative-self) - NsY
+* [Be Your Best Creative Self](https://www.coursera.org/learn/be-your-best-creative-self) - NsY
 
 * [Professional Success Skills](https://www.coursera.org/specializations/professional-success-skills) - NsY
 
@@ -441,7 +445,11 @@ Soft Skills.
 
 ***The S.H.O.D.A.N. Project.***
 
-<!--Escrever o contexto aqui u.u-->
+Okay, we're not going to create SHODAN, but now we can actually start data science properly. 
+
+Regarding math, the focus will be more on the statistics books.
+
+Beyond that, now I'm going to start studying things like Big Data and Cloud, Also... AI, uhuuu.
 
 <div align="right">
 	
