@@ -189,8 +189,6 @@ Cursos auxiliares D.A.
 
 * [Power BI](https://www.datascienceacademy.com.br/cursosgratuitos) - I chose tableau as my BI tool, but Power BI is just as important.
 
-* [Looker](https://www.coursera.org/specializations/creating-business-value-with-data-and-looker) - Getting the feet wet with the cloud.
-
 * [Marketing Analytics from Meta](https://www.coursera.org/professional-certificates/facebook-marketing-analytics?trk_ref=caCareerCard) - NsY
 
 <!-- 
