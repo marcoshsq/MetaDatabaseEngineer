@@ -177,20 +177,6 @@ Cursos auxiliares D.A.
 
 #### Auxiliary Data Analytics courses.
 
-* [Advanced Business Analytics - Specialization](https://www.coursera.org/specializations/data-analytics-business) - This course has a more hands-on focus on BI, so I found the idea of it very interesting.
-
-* [Excel Skills for Business](https://www.coursera.org/specializations/excel) - While the Excel Skills for Data Analytics - Specialization focuses on data analysis, this course aims to teach everything from basic to advanced Excel. - [Accomplished with Certificate](https://coursera.org/share/1a3f5b9c4ba4b9e4127ee4bd3f38f3d3)
-
-* [Excel Skills for Business Forecasting](https://www.coursera.org/specializations/excel-skills-for-business-forecasting) - NsY
-
-* [Excel/VBA for Creative Problem Solving](https://www.coursera.org/specializations/excel-vba-creative-problem-solving) - NsY
-
-* [Use Tableau for Your Data Science Workflow](https://www.coursera.org/specializations/tableau-for-data-science-workflows) - NsY
-
-* [Power BI](https://www.datascienceacademy.com.br/cursosgratuitos) - I chose tableau as my BI tool, but Power BI is just as important.
-
-* [Marketing Analytics from Meta](https://www.coursera.org/professional-certificates/facebook-marketing-analytics?trk_ref=caCareerCard) - NsY
-
 <!-- 
 Livros D.A.
 -->
