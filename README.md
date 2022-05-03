@@ -71,11 +71,59 @@ Fim da seção sobre.
 ***The way of the programmer!***
 
 ##
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
+
+##
 
 <!--Listar os cursos aqui u.u-->
 
-## Courses.
+## Courses. 
 
+<!--Introdução-->
+
+### Core Concepts.
+
+#### Mathematics
+
+Course link | Course Certificate
+:-- | :--
+
+#### Computer Science
+
+Course link | Course Certificate
+:-- | :--
+
+<!--Intermediário-->
+
+### Data Science.
+
+#### Mathematics
+
+Course link | Course Certificate
+:-- | :--
+
+#### Computer Science
+
+Course link | Course Certificate
+:-- | :--
+
+<!--Avançado-->
+
+### Advanced Stuff.
+
+#### Mathematics
+
+Course link | Course Certificate
+:-- | :--
+
+#### Computer Science
+
+Course link | Course Certificate
+:-- | :--
 
 
 <!--Fim da Parte Cursos-->
