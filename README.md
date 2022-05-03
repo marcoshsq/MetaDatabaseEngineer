@@ -29,6 +29,7 @@ Fim da seção cabeçalho.
 
 - [About](https://github.com/marcoshsq/My_Degree_in_Data_Science#about-me-and-this-repository)
 - [Roadmap](https://github.com/marcoshsq/My_Degree_in_Data_Science#roadmap)
+- [Courses](https://github.com/marcoshsq/My_Degree_in_Data_Science#courses)
 - [Projects](https://github.com/marcoshsq/My_Degree_in_Data_Science#projects-developed)
 - [References](https://github.com/marcoshsq/My_Degree_in_Data_Science#references)
 
@@ -73,7 +74,7 @@ Fim da seção sobre.
 
 <!--Listar os cursos aqui u.u-->
 
-### Courses:
+## Courses.
 
 
 
