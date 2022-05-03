@@ -87,12 +87,13 @@ Fim da seção sobre.
 
 ### Core Concepts.
 
-#### Mathematics
+#### COre Mathematics
 
 Course link | Course Certificate
 :-- | :--
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | [Certificate Link](https://coursera.org/share/ea8bc5ad902c2c057788fa8b7e4192a5)
 
-#### Computer Science
+#### Core Computer Science
 
 Course link | Course Certificate
 :-- | :--
@@ -109,12 +110,12 @@ Course link | Course Certificate
 
 ### Data Science.
 
-#### Mathematics
+#### Mathematics for Data Science
 
 Course link | Course Certificate
 :-- | :--
 
-#### Computer Science
+#### Computer Science for Data Science
 
 Course link | Course Certificate
 :-- | :--
@@ -131,12 +132,12 @@ Course link | Course Certificate
 
 ### Advanced Stuff.
 
-#### Mathematics
+#### Advanced Mathematics
 
 Course link | Course Certificate
 :-- | :--
 
-#### Computer Science
+#### Advanced Computer Science
 
 Course link | Course Certificate
 :-- | :--
