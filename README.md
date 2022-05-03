@@ -97,6 +97,14 @@ Course link | Course Certificate
 Course link | Course Certificate
 :-- | :--
 
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
+
 <!--Intermediário-->
 
 ### Data Science.
@@ -110,6 +118,14 @@ Course link | Course Certificate
 
 Course link | Course Certificate
 :-- | :--
+
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
 
 <!--Avançado-->
 
@@ -125,6 +141,13 @@ Course link | Course Certificate
 Course link | Course Certificate
 :-- | :--
 
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+	
+</div>
 
 <!--Fim da Parte Cursos-->
 
