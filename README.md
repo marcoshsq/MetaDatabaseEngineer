@@ -87,7 +87,7 @@ Fim da seção sobre.
 
 ### Core Concepts.
 
-#### COre Mathematics
+#### Core Mathematics
 
 Course link | Course Certificate
 :-- | :--
