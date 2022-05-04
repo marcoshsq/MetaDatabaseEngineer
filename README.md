@@ -30,7 +30,6 @@ Fim da seção cabeçalho.
 - [About](https://github.com/marcoshsq/My_Degree_in_Data_Science#about-me-and-this-repository)
 - [Roadmap](https://github.com/marcoshsq/My_Degree_in_Data_Science#roadmap)
 - [Courses](https://github.com/marcoshsq/My_Degree_in_Data_Science#courses)
-- [Projects](https://github.com/marcoshsq/My_Degree_in_Data_Science#projects-developed)
 - [References](https://github.com/marcoshsq/My_Degree_in_Data_Science#references)
 
 ---
@@ -43,13 +42,11 @@ Seção sobre.
 
 Hi, my name is Marcos Henrique, I'm interested in becoming a data scientist. But unfortunately, a proper college degree is quite expensive, and I'm not able to afford one at the moment, so, after researching different materials on the internet, roadmaps, YouTube videos, guides, articles, and different curriculums of university courses for bachelor in data science and statistics, I've decided to create my own curriculum with free materials.
 
-This repository is a record of my studies, here are the courses I took, the order I followed, the certificates I got and the projects I developed.
+This repository is a record of my studies, here are the courses I took, the order I followed, and the certificates I got.
 
-About the structure of this repository. It's divided into three parts. ``Roadmap``, ``Projects`` and ``References``.
+About the structure of this repository. It's divided into three parts. ``Roadmap``, ``Courses`` and ``References``.
 
-In the ``Roadmap`` section, the name gives the prize, it is the order in which I studied the courses. I've also listed all the relevant materials, courses, books, and articles that I've studied. At last, most of the courses have capstone/guided projects. These projects are listed in the ``Projects`` section, at the end of this repository.
-
-About the courses I chose. I know that Data Science is divided into four pillars: ``Mathematics`` (AKA Statistics), ``Technology``, ``Domain Knowledge``, and ``Soft Skills``. My main focus here is Math and tech, as they are the longest part of the curriculum, I've searched for good Soft skills courses, and included some here, but for me, this kind of knowledge is only acquired by doing it. And different from programming, where you can learn to code in your house practicing, you won't learn how to publicly speak... well, without public speaking! But I included the ones I thought will help me develop some crucial knowledge.
+About the courses I chose. I know that Data Science is divided into four pillars: ``Mathematics`` (AKA Statistics), ``Tech``, ``Domain Knowledge``, and ``Soft Skills``. My main focus here is Math and tech, as they are the longest part of the curriculum, I've included some good Soft skills courses, but for me, this kind of knowledge is only acquired by doing it. And different from programming, where you can learn to code in your house practicing, you won't learn how to publicly speak... well, without public speaking!
 
 The main guides I've followed to create this curriculum can be found in the ``References`` section, at the end of this ``README`` page.
 
@@ -151,28 +148,6 @@ Course link | Course Certificate
 </div>
 
 <!--Fim da Parte Cursos-->
-
-##
-
-<div align="right">
-	
-[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
-	
-</div>
-
----
-
-## Projects Developed.
-	
-- ***IBM: Data Science Specialization Projects*** - This repository contains the projects developed during the IBM Data Science Professional Certificate. - [Repository Link](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects)
-
-##
-
-<div align="right">
-	
-[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
-	
-</div>
 
 ---
 
