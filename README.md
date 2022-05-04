@@ -90,6 +90,7 @@ Course link | Course Certificate
 :-- | :--
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | [Certificate Link](https://coursera.org/share/ea8bc5ad902c2c057788fa8b7e4192a5)
 [Mathematics Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) | ---
+[Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | ---
 [PreCalculus](https://www.coursera.org/specializations/precalculus-data-modelling) | ---
 [Diferential Calculus](https://www.coursera.org/specializations/differential-calculus-data-modeling) | ---
 [Integral Calculus](https://www.coursera.org/specializations/integral-calculus-data-modeling) | ---
@@ -98,6 +99,12 @@ Course link | Course Certificate
 
 Course link | Course Certificate
 :-- | :--
+[Python](https://www.coursera.org/specializations/python) | ---
+[Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | ---
+[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | ---
+[Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | ---
+[PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) | ---
+
 
 ##
 
@@ -115,11 +122,22 @@ Course link | Course Certificate
 
 Course link | Course Certificate
 :-- | :--
+[Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | ---
+[Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | ---
+[Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | ---
+[Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | ---
+[Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) | ---
 
 #### Computer Science for Data Science
 
 Course link | Course Certificate
 :-- | :--
+[Data Science](https://www.coursera.org/specializations/jhu-data-science) | ---
+[Data Mining](https://www.coursera.org/specializations/data-mining) | ---
+[Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | ---
+[Big Data](https://www.coursera.org/specializations/big-data) | ---
+[Practical Data Science](https://www.coursera.org/specializations/practical-data-science) | ---
+[Machine Learning](https://www.coursera.org/learn/machine-learning) | ---
 
 ##
 
@@ -137,11 +155,17 @@ Course link | Course Certificate
 
 Course link | Course Certificate
 :-- | :--
+[Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | ---
+[Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | ---
 
 #### Advanced Computer Science
 
 Course link | Course Certificate
 :-- | :--
+[Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | ---
+[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | ---
+[Deep Learning](https://www.coursera.org/specializations/deep-learning) | ---
+[Advanced Machine Learning](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) | ---
 
 ##
 
