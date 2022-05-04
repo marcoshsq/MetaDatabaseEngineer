@@ -89,6 +89,10 @@ Fim da seção sobre.
 Course link | Course Certificate
 :-- | :--
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | [Certificate Link](https://coursera.org/share/ea8bc5ad902c2c057788fa8b7e4192a5)
+[Mathematics Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) | ---
+[PreCalculus](https://www.coursera.org/specializations/precalculus-data-modelling) | ---
+[Diferential Calculus](https://www.coursera.org/specializations/differential-calculus-data-modeling) | ---
+[Integral Calculus](https://www.coursera.org/specializations/integral-calculus-data-modeling) | ---
 
 #### Core Computer Science
 
