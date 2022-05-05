@@ -84,11 +84,13 @@ Fim da seção sobre.
 
 ### Core Concepts.
 
-#### Core Mathematics
+#### Core Mathematics | ~400h to accomplish!
 
 Course link | Course Certificate
 :-- | :--
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | [Certificate Link](https://coursera.org/share/ea8bc5ad902c2c057788fa8b7e4192a5)
+[Essential Algebra](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | ---
+[Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | ---
 [Mathematics Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) | ---
 [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | ---
 [PreCalculus](https://www.coursera.org/specializations/precalculus-data-modelling) | ---
