@@ -90,7 +90,7 @@ Fim da seção sobre.
 
 ### Core Concepts.
 
-#### Core Mathematics | ~500h to accomplish!
+#### Core Mathematics
 
 Course link | Course Certificate
 :-- | :--
@@ -103,7 +103,7 @@ Course link | Course Certificate
 [Diferential Calculus](https://www.coursera.org/specializations/differential-calculus-data-modeling) | ---
 [Integral Calculus](https://www.coursera.org/specializations/integral-calculus-data-modeling) | ---
 
-#### Core Computer Science | ~840h
+#### Core Computer Science
 
 Course link | Course Certificate
 :-- | :--
