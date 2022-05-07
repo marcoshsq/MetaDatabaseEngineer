@@ -110,6 +110,8 @@ Course link | Course Certificate
 [Python](https://www.coursera.org/specializations/python-3-programming) | ---
 [Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | ---
 [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | ---
+[Algorithms and Data Structures](https://www.coursera.org/specializations/data-structures-algorithms) | ---
+[Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) | ---
 [Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | ---
 [PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) | ---
 [Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | ---
