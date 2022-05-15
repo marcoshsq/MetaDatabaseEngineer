@@ -53,7 +53,7 @@ The main guides I've followed to create this curriculum can be found in the ``Re
 ##
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+[Go to the top](https://github.com/marcoshsq/Data_Science_Undergraduate_Curriculum#content-summary)
 	
 </div>
 
@@ -76,7 +76,7 @@ Fim da seção sobre.
 ##
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+[Go to the top](https://github.com/marcoshsq/Data_Science_Undergraduate_Curriculum#content-summary)
 	
 </div>
 
@@ -121,7 +121,7 @@ Course link | Course Certificate
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+[Go to the top](https://github.com/marcoshsq/Data_Science_Undergraduate_Curriculum#content-summary)
 	
 </div>
 
@@ -154,7 +154,7 @@ Course link | Course Certificate
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+[Go to the top](https://github.com/marcoshsq/Data_Science_Undergraduate_Curriculum#content-summary)
 	
 </div>
 
@@ -182,7 +182,7 @@ Course link | Course Certificate
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+[Go to the top](https://github.com/marcoshsq/Data_Science_Undergraduate_Curriculum#content-summary)
 	
 </div>
 
@@ -204,7 +204,7 @@ To build this bachelor's curriculum used these sources:
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/My_Degree_in_Data_Science#marcos-henriquedata-science-undergraduate-curriculum)
+[Go to the top](https://github.com/marcoshsq/Data_Science_Undergraduate_Curriculum#content-summary)
 	
 </div>
 
