@@ -73,7 +73,7 @@ Fim da seção sobre.
 #### Core Mathematics
 
 Course link | Type | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- |
+:-- | :-- | :-- | :-- | :-- |
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Course | Approximately 39 hours to complete. | [Certificate Link](https://coursera.org/share/ea8bc5ad902c2c057788fa8b7e4192a5)
 [Essential Algebra](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | ---
 [Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | ---
@@ -86,7 +86,7 @@ Course link | Type | Offered by | ETA | Course Certificate
 #### Core Computer Science
 
 Course link | Type | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- |
+:-- | :-- | :-- | :-- | :-- |
 [Python](https://www.coursera.org/specializations/python-3-programming) | ---
 [Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | ---
 [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | ---
@@ -112,7 +112,7 @@ Course link | Type | Offered by | ETA | Course Certificate
 #### Mathematics for Data Science
 
 Course link | Type | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- |
+:-- | :-- | :-- | :-- | :-- |
 [Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | ---
 [Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | ---
 [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | ---
@@ -122,7 +122,7 @@ Course link | Type | Offered by | ETA | Course Certificate
 #### Computer Science for Data Science
 
 Course link | Type | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- |
+:-- | :-- | :-- | :-- | :-- |
 [Data Science](https://www.coursera.org/specializations/jhu-data-science) | ---
 [Data Mining](https://www.coursera.org/specializations/data-mining) | ---
 [Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | ---
@@ -145,14 +145,14 @@ Course link | Type | Offered by | ETA | Course Certificate
 #### Advanced Mathematics
 
 Course link | Type | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- |
+:-- | :-- | :-- | :-- | :-- |
 [Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | ---
 [Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | ---
 
 #### Advanced Computer Science
 
 Course link | Type | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- |
+:-- | :-- | :-- | :-- | :-- |
 [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | ---
 [Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | ---
 [Deep Learning](https://www.coursera.org/specializations/deep-learning) | ---
