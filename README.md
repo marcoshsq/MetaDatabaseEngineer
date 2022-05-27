@@ -27,9 +27,9 @@ Fim da seção cabeçalho.
 
 ## Content summary.
 
-- [About](https://github.com/marcoshsq/Data_Science_Undergraduate_Curriculum#about-me-and-this-repository)
-- [Courses](https://github.com/marcoshsq/Data_Science_Undergraduate_Curriculum#courses)
-- [References](https://github.com/marcoshsq/Data_Science_Undergraduate_Curriculum#references)
+- [About](https://github.com/marcoshsq/DataScienceCurriculum#about-me-and-this-repository)
+- [Courses](https://github.com/marcoshsq/DataScienceCurriculum#courses)
+- [References](https://github.com/marcoshsq/DataScienceCurriculum#references)
 
 ---
 
@@ -52,7 +52,7 @@ The main guides I've followed to create this curriculum can be found in the ``Re
 ##
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/Data_Science_Undergraduate_Curriculum#content-summary)
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
 	
 </div>
 
@@ -101,7 +101,7 @@ Course link | Type | Offered by | ETA | Course Certificate
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/Data_Science_Undergraduate_Curriculum#content-summary)
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
 	
 </div>
 
@@ -134,7 +134,7 @@ Course link | Type | Offered by | ETA | Course Certificate
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/Data_Science_Undergraduate_Curriculum#content-summary)
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
 	
 </div>
 
@@ -162,7 +162,7 @@ Course link | Type | Offered by | ETA | Course Certificate
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/Data_Science_Undergraduate_Curriculum#content-summary)
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
 	
 </div>
 
@@ -184,7 +184,7 @@ To build this bachelor's curriculum used these sources:
 
 <div align="right">
 	
-[Go to the top](https://github.com/marcoshsq/Data_Science_Undergraduate_Curriculum#content-summary)
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
 	
 </div>
 
