@@ -28,7 +28,6 @@ Fim da seção cabeçalho.
 ## Content summary.
 
 - [About](https://github.com/marcoshsq/Data_Science_Undergraduate_Curriculum#about-me-and-this-repository)
-- [Roadmap](https://github.com/marcoshsq/Data_Science_Undergraduate_Curriculum#roadmap)
 - [Courses](https://github.com/marcoshsq/Data_Science_Undergraduate_Curriculum#courses)
 - [References](https://github.com/marcoshsq/Data_Science_Undergraduate_Curriculum#references)
 
@@ -62,25 +61,6 @@ Fim da seção sobre.
 -->
 
 ---
-
-## Roadmap.
-
-***The way of the programmer!***
-
-<div align="right">
-	
-![roadmap](https://user-images.githubusercontent.com/64812097/167068088-fdeabf9f-07be-4257-afc4-befec1a3cb22.png)
-	
-</div>
-
-##
-<div align="right">
-	
-[Go to the top](https://github.com/marcoshsq/Data_Science_Undergraduate_Curriculum#content-summary)
-	
-</div>
-
-##
 
 <!--Listar os cursos aqui u.u-->
 
