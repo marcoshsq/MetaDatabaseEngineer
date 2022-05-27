@@ -72,9 +72,9 @@ Fim da seção sobre.
 
 #### Core Mathematics
 
-Course link | Course Certificate
-:-- | :--
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | [Certificate Link](https://coursera.org/share/ea8bc5ad902c2c057788fa8b7e4192a5)
+Course link | Type | ETA | Course Certificate
+:-- | :-- | :-- | :-- |
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Course | Approximately 39 hours to complete. | [Certificate Link](https://coursera.org/share/ea8bc5ad902c2c057788fa8b7e4192a5)
 [Essential Algebra](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | ---
 [Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | ---
 [Mathematics Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) | ---
