@@ -39,7 +39,7 @@ Seção sobre.
 
 ## About me and this repository.
 
-Hi, my name is Marcos Henrique, I'm interested in becoming a data scientist. But unfortunately, a proper college degree is quite expensive, and I'm not able to afford one at the moment, so, after researching different materials on the internet, roadmaps, YouTube videos, guides, articles, and different curriculums of university courses for bachelor in data science and statistics, I've decided to create my own curriculum with free materials.
+Hi, my name is Marcos Henrique, I'm interested in becoming a Machine Learning Engineer. But unfortunately, a proper college degree is quite expensive, and I'm not able to afford one now, so, after researching different materials on the internet (roadmaps, YouTube videos, articles, etc.), I've decided to create my own curriculum with free materials.
 
 The main guides I've followed to create this curriculum can be found in the ``References`` section, at the end of this ``README`` page.
 
