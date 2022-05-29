@@ -75,7 +75,7 @@ Fim da seção sobre.
 Course link | Type | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Course | Stanford University | Approximately 39 hours to complete. | [Certificate Link](https://coursera.org/share/ea8bc5ad902c2c057788fa8b7e4192a5)
-[Essential Algebra](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | ---
+[Essential Algebra](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | Specialization | Johns Hopkins University | Approximately 35 hours to complete. | ---
 [Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | ---
 [Mathematics Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) | ---
 [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | ---
@@ -87,7 +87,7 @@ Course link | Type | Offered by | ETA | Course Certificate
 
 Course link | Type | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
-[Python](https://www.coursera.org/specializations/python-3-programming) | ---
+[Python](https://www.coursera.org/specializations/python-3-programming) | Michigan University | Approximately 120 hours to complete | ---
 [Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | ---
 [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | ---
 [Algorithms and Data Structures](https://www.coursera.org/specializations/data-structures-algorithms) | ---
