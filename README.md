@@ -146,7 +146,10 @@ Course link | Type | Offered by | ETA | Course Certificate
 
 Course link | Type | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
+[Game Theory I](https://www.coursera.org/learn/game-theory-1) | ---
+[Game Theory II](https://www.coursera.org/learn/game-theory-2) | ---
 [Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | ---
+[Bayesian Statistics for Modeling and Prediction](https://www.coursera.org/specializations/bayesian-statistics) | ---
 [Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | ---
 
 #### Advanced Computer Science
@@ -156,6 +159,8 @@ Course link | Type | Offered by | ETA | Course Certificate
 [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | ---
 [Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | ---
 [Deep Learning](https://www.coursera.org/specializations/deep-learning) | ---
+[DeepLearning.AI no TensorFlow](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | ---
+[MLOps](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | ---
 [Advanced Machine Learning](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) | ---
 
 ##
