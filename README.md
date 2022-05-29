@@ -41,12 +41,6 @@ Seção sobre.
 
 Hi, my name is Marcos Henrique, I'm interested in becoming a data scientist. But unfortunately, a proper college degree is quite expensive, and I'm not able to afford one at the moment, so, after researching different materials on the internet, roadmaps, YouTube videos, guides, articles, and different curriculums of university courses for bachelor in data science and statistics, I've decided to create my own curriculum with free materials.
 
-This repository is a record of my studies, here are the courses I took, the order I followed, and the certificates I got.
-
-About the structure of this repository. It's divided into three parts. ``Roadmap``, ``Courses`` and ``References``.
-
-About the courses I chose. I know that Data Science is divided into four pillars: ``Mathematics`` (AKA Statistics), ``Tech``, ``Domain Knowledge``, and ``Soft Skills``. My main focus here is Math and tech, as they are the longest part of the curriculum, I've included some good Soft skills courses, but for me, this kind of knowledge is only acquired by doing it. And different from programming, where you can learn to code in your house practicing, you won't learn how to publicly speak... well, without public speaking!
-
 The main guides I've followed to create this curriculum can be found in the ``References`` section, at the end of this ``README`` page.
 
 ##
