@@ -1,8 +1,6 @@
-<!-- 
-Essas Tgas são mais para mim me achar enquanto estiver editando esse arquivo.
+<!--Essas Tgas são mais para mim me achar enquanto estiver editando esse arquivo.-->
 
-Cabeçalho da página.
- -->
+<!--Cabeçalho da página. -->
 
 <p align="center">
   <a href="https://github.com/marcoshsq/My_Degree_in_Data_Science">
@@ -10,7 +8,7 @@ Cabeçalho da página.
   </a>
 </p>
   <h2 align="center">Marcos Henrique<br>Data Science Undergraduate Curriculum</h2>
-  <p align="center">Roadmap I created to become a Data Scientist</p>
+  <p align="center">Roadmap I created to become a Data Scientist!</p>
  <div align="center"> 
   <a href="https://twitter.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -19,9 +17,7 @@ Cabeçalho da página.
 </div>
 <br>
 
-<!-- 
-Fim da seção cabeçalho.
--->
+<!--Fim da seção cabeçalho.-->
  
 ---
 
@@ -38,9 +34,7 @@ Fim da seção cabeçalho.
 
 ---
 
-<!-- 
-Seção sobre.
--->
+<!--Seção sobre.-->
 
 ## About.
 
@@ -61,9 +55,7 @@ The main guides I've followed to create this curriculum can be found in the ``Re
 	
 </div>
 
-<!-- 
-Fim da seção sobre.
--->
+<!--Fim da seção sobre.-->
 
 ---
 
@@ -212,7 +204,7 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 
 ## Extra Bibliography.
 
-#### Introduction to Data Science.
+#### Mathematics.
 
 Placeholder | Placeholder
 :-- | :-- | 
