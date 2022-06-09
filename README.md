@@ -259,7 +259,7 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 - [Matrix Algebra Useful for Statistics](https://www.amazon.com.br/Matrix-Algebra-Useful-Statistics-Shayle/dp/1118935144) - Andre I Khuri
 - [Introduction to the Theory of Statistics](https://www.amazon.com.br/Introduction-Theory-Statistics-Alexander-Mood/dp/0070854653) - Alexander Mood 
 - [Interpretability of Computational Intelligence-Based Regression Models](https://www.amazon.com.br/Interpretability-Computational-Intelligence-Based-Regression-Models/dp/3319219413) - János Abonyi
-- 
+- [SQL for Smarties: Advanced SQL Programming](https://www.amazon.com.br/Joe-Celkos-SQL-Smarties-Programming/dp/0123820227) - Joe Celko
 
 ## References.
 
