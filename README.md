@@ -208,7 +208,16 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
+[Machine Learning](https://www.coursera.org/specializations/machine-learning) | Data Clustering Algorithms, Machine Learning, Classification Algorithms, Decision Tree, Python Programming, Machine Learning Concepts, Deep Learning, Linear Regression, Ridge Regression, Lasso (Statistics), Regression Analysis, Logistic Regression | University of Washington | Approximately 84 hours to complete. | --- | ---
+[Deep Learning](https://www.coursera.org/specializations/deep-learning) | Artificial Neural Network, Convolutional Neural Network, Tensorflow, Recurrent Neural Network, Transformers, Deep Learning, Backpropagation, Python Programming, Neural Network Architecture, Mathematical Optimization, hyperparameter tuning, Inductive Transfer | DeepLearning.AI | Approximately 200 hours to complete. | --- | ---
+[NLP](https://www.coursera.org/specializations/natural-language-processing) | Word2vec, Machine Translation, Sentiment Analysis, Transformers, Attention Models, Word Embeddings, Locality-Sensitive Hashing, Vector Space Models, Parts-of-Speech Tagging, N-gram Language Models, Autocorrect, Word Embedding | DeepLearning.AI | Approximately 128 hours to complete. | --- | ---
 []() |  |  | Approximately xx hours to complete. | --- | ---
+[]() |  |  | Approximately xx hours to complete. | --- | ---
+[]() |  |  | Approximately xx hours to complete. | --- | ---
+[]() |  |  | Approximately xx hours to complete. | --- | ---
+[]() |  |  | Approximately xx hours to complete. | --- | ---
+[]() |  |  | Approximately xx hours to complete. | --- | ---
+
 
 ##
 
