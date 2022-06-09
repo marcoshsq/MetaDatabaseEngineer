@@ -73,7 +73,7 @@ Fim da seção sobre.
 
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-IBM Data Science Professional Certificate | Data Science, Deep Learning, Machine Learning, Big Data, Data Mining, Github, Python Programming, Jupyter notebooks, Rstudio, Data Science Methodology, Data Analysis, Pandas | IBM through Coursera | Approximately 200 hours to complete. | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
+[BM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) | Data Science, Deep Learning, Machine Learning, Big Data, Data Mining, Github, Python Programming, Jupyter notebooks, Rstudio, Data Science Methodology, Data Analysis, Pandas | IBM through Coursera | Approximately 200 hours to complete. | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
 
 #### Mathematics I:
 
@@ -85,7 +85,7 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-| Python for Everybody | Json, Xml, Python Programming, Database (DBMS) | Michigan University through Coursera | Approximately 120 hours to complete. | [Repository](https://github.com/marcoshsq/Python4Everybody) | [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB) |
+[Python for Everybody](https://www.coursera.org/specializations/python) | Json, Xml, Python Programming, Database (DBMS) | Michigan University through Coursera | Approximately 120 hours to complete. | [Repository](https://github.com/marcoshsq/Python4Everybody) | [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB) |
 
 ##
 
