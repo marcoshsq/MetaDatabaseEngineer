@@ -114,7 +114,9 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-|  |  |  |  |  |
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | Logic Gate, Computer Architecture, Assembly Languages, Hardware Description Language (HDL) | Hebrew University of Jerusalem | Approximately 44 hours to complete. | --- | ---
+[Build a Modern Computer from First Principles: From Nand to Tetris II](https://www.coursera.org/learn/nand2tetris2) | Computer Architecture, Compiler Construction, Compiler, Operating System | Hebrew University of Jerusalem | Approximately 90 hours to complete. | --- | ---
+[Introduction to Operating Systems](https://www.coursera.org/specializations/codio-introduction-operating-systems) | Virtualization, Memoru Management, Concurrency, Persistence | CODIO | Approximately 50 hours to complete. | --- | ---
 
 #### Databases:
 
