@@ -83,9 +83,9 @@ Course link | Type | Offered by | ETA | Course Certificate
 
 #### Computer Science I:
 
-Course link | Type | Offered by | ETA | Course Certificate
+Course link | Skills | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
-|  |  |  |  |  |
+| Python for Everybody |  | Michigan University through Coursera | ~120h | [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB) |
 
 ##
 
