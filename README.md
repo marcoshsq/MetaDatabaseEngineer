@@ -46,6 +46,12 @@ Seção sobre.
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Data Science, minus general education.
 
+**This repository is structured as follows:**
+
+We have four parts, ``Introduction to Data Science``, ``Databases``, ``Cloud Computing`` , and ``Machine Learning``.
+
+Part 01 (``Introduction to Data Science``) has an overview, focusing on the introduction of the main concepts of the area. The second part focuses on database, while the third part is cloud and lastly, Artificial Intelligence. It is important to note that Mathematics and Computer Science are present in all four parts, especially math.
+
 The main guides I've followed to create this curriculum can be found in the ``References`` section, at the end of this ``README`` page.
 
 ##
