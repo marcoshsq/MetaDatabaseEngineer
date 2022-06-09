@@ -83,6 +83,9 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Number Theory, Real Analysis, Mathematical Logic, Language | Stanford University through Coursera | Approximately 39 hours to complete. | --- | [Certificate](https://www.coursera.org/account/accomplishments/verify/MFYQ2NNLB76F)
+[Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | Equations & Inequalities, Functions & Applications, Polynomials and Roots | Johns Hopkins through Coursera | Approximately 30 hours to complete. | --- | ---
+[Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | Differential Equations, Vector Calculus, Matrix Algebra, Numerical Analysis, Computational Fluid Dynamics (CFD) | University of Honk Kong | Approximately 120 hours to complete. | --- | ---
+[Mathematics for machine learning](https://www.coursera.org/specializations/mathematics-machine-learning) | Eigenvalues And Eigenvectors, Principal Component Analysis (PCA), Multivariable Calculus, Linear Algebra, Basis (Linear Algebra), Transformation Matrix, Linear Regression, Vector Calculus, Gradient Descent, Dimensionality Reduction, Python Programming | Imperial College | Approximately 64 hours to complete. | --- | ---
 
 #### Computer Science I:
 
@@ -110,7 +113,7 @@ Programming Languages: [Part A](https://www.coursera.org/learn/programming-langu
 
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-|  |  |  |  |  |
+[]() |  |  | Approximately xx hours to complete. | --- | ---
 
 #### Computer Science II:
 
@@ -124,7 +127,7 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-|  |  |  |  |  |
+[]() |  |  | Approximately xx hours to complete. | --- | ---
 
 ##
 
@@ -142,7 +145,7 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-|  |  |  |  |  |
+[]() |  |  | Approximately xx hours to complete. | --- | ---
 
 #### Computer Science III:
 
@@ -157,7 +160,7 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-|  |  |  |  |  |
+[]() |  |  | Approximately xx hours to complete. | --- | ---
 
 ##
 
@@ -175,19 +178,19 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-|  |  |  |  |  |
+[]() |  |  | Approximately xx hours to complete. | --- | ---
 
 #### Machine Learning & AI I:
 
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-|  |  |  |  |  |
+[]() |  |  | Approximately xx hours to complete. | --- | ---
 
 #### Machine Learning & AI II:
 
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-|  |  |  |  |  |
+[]() |  |  | Approximately xx hours to complete. | --- | ---
 
 ##
 
