@@ -86,7 +86,8 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
 [Python for Everybody](https://www.coursera.org/specializations/python) | Json, Xml, Python Programming, Database (DBMS) | Michigan University through Coursera | Approximately 120 hours to complete. | [Repository](https://github.com/marcoshsq/Python4Everybody) | [Certificate](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB) |
-[CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | Scratch, C, Arrays, Algorithms, Memory, Data Structures, Python, SQL, HTML, CSS, JavaScript, Flask | CS50 | --- | ---
+[CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | Scratch, C, Arrays, Algorithms, Memory, Data Structures, Python, SQL, HTML, CSS, JavaScript, Flask | CS50 | Approximately 100 hours to complete. | --- | ---
+[Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming) | Html, JavaScript, Cascading Style Sheets (CCS), Java Programming, Html5, Algorithms, Problem Solving, String (Computer Science), Data Structure, Cryptography, Hash Table, Programming Principles | Duke University through Coursera | Approximately 80 hours to complete. | --- | ---
 
 ##
 
