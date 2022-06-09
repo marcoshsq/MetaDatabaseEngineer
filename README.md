@@ -72,8 +72,8 @@ Fim da seção sobre.
 #### Data Science Basics:
 
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
-IBM Data Science Professional Certificate | Data Science, Deep Learning, Machine Learning, Big Data, Data Mining, Github, Python Programming, Jupyter notebooks, Rstudio, Data Science Methodology, Data Analysis, Pandas | IBM through Coursera | Approximately 200 hours to complete. | [Repository]() | [IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
+:-- | :-- | :-- | :-- | :-- | :-- |
+IBM Data Science Professional Certificate | Data Science, Deep Learning, Machine Learning, Big Data, Data Mining, Github, Python Programming, Jupyter notebooks, Rstudio, Data Science Methodology, Data Analysis, Pandas | IBM through Coursera | Approximately 200 hours to complete. | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
 
 #### Mathematics I:
 
