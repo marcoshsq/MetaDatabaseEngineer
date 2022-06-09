@@ -25,10 +25,10 @@
 
 - [About](https://github.com/marcoshsq/DataScienceCurriculum#about)
 - [Courses](https://github.com/marcoshsq/DataScienceCurriculum#courses)
-	- [Part 01 - Introduction to Data Science](https://github.com/marcoshsq/DataScienceCurriculum#introduction-to-data-science)
-	- [Part 02 - Databases](https://github.com/marcoshsq/DataScienceCurriculum#databases)
-	- [Part 03 - Cloud Computing](https://github.com/marcoshsq/DataScienceCurriculum#cloud-computing)
-	- [Part 04 - Machine Learning](https://github.com/marcoshsq/DataScienceCurriculum#machine-learning)
+	- [Part 01 - Introduction to Data Science](https://github.com/marcoshsq/DataScienceCurriculum#part-01---introduction-to-data-science)
+	- [Part 02 - Databases](https://github.com/marcoshsq/DataScienceCurriculum#part-02---databases)
+	- [Part 03 - Cloud Computing](https://github.com/marcoshsq/DataScienceCurriculum#part-03---cloud-computing)
+	- [Part 04 - Machine Learning](https://github.com/marcoshsq/DataScienceCurriculum#part-04---machine-learning)
 - [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
 - [References](https://github.com/marcoshsq/DataScienceCurriculum#references)
 
@@ -149,7 +149,7 @@ Course link | Some of the topics covered | Offered by | ETA | Repository if any 
 
 <!--Part 3-->
 
-### Cloud Computing.
+### Part 03 - Cloud Computing.
 
 #### Mathematics III:
 
@@ -194,7 +194,7 @@ Course link | Some of the topics covered | Offered by | ETA | Repository if any 
 
 <!--Part 4-->
 
-### Machine Learning.
+### Part 04 - Machine Learning.
 
 #### Mathematics IV:
 
