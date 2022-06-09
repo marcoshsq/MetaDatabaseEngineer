@@ -92,6 +92,7 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | Scratch, C, Arrays, Algorithms, Memory, Data Structures, Python, SQL, HTML, CSS, JavaScript, Flask | CS50 | Approximately 100 hours to complete. | --- | ---
 [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming) | Html, JavaScript, Cascading Style Sheets (CCS), Java Programming, Html5, Algorithms, Problem Solving, String (Computer Science), Data Structure, Cryptography, Hash Table, Programming Principles | Duke University through Coursera | Approximately 80 hours to complete. | --- | ---
 Programming Languages: [Part A](https://www.coursera.org/learn/programming-languages), [Part B](https://www.coursera.org/learn/programming-languages-part-b), [Part C](https://www.coursera.org/learn/programming-languages-part-c) | Recursion, Higher-Order Function, Pattern Matching, Functional Programming, Racket (Programming Language), Programming Language Concepts, Type System, Ruby (Programming Language), Programming Languages, Object-Oriented Programming (OOP), Subtyping | Washington University | Approximately 70 hours to complete. | --- | ---
+[The Unix Workbench](https://www.coursera.org/learn/unix) | Shell Script, Github, Bash (Unix Shell), Cloud Computing | Johns Hopkins through Coursera | Approximately 19 hours to complete. | --- | ---
 
 ##
 
