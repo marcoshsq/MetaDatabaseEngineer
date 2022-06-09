@@ -125,7 +125,13 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-[]() |  |  | Approximately xx hours to complete. | --- | ---
+[PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) | Json, Database (DBMS), Natural Language Processing, SQL | Michigan University through Coursera | Approximately 64 hours to complete. | --- | ---
+[Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | Database (DB) Design, Data Warehousing, NoSQL, database administration, SQL, Database (DBMS), Relational Models, Normalization, Entity–Relationship (E-R) Model, Data Science, Database Application, SQL (Structured Query Language) | Colorado Boulder | Approximately 100 hours to complete. | --- | ---
+[Big Data](https://www.youtube.com/watch?v=JXsGL6uCoU4&t=625s) | Big Data, Neo4j, Mongodb, Apache Spark, Apache Hadoop, Mapreduce, Cloudera, Data Model, Data Modeling, Data Management, Splunk, Machine Learning Concepts | UC San Diego | Approximately 96 hours to complete. | --- | ---
+[IBM - Data Engineer](https://www.coursera.org/professional-certificates/ibm-data-engineer) | Relational Database Management Syste (RDBMS), ETL & Data Pipelines, NoSQL and Big Data, Apache Spark, SQL, Data Science, Database (DBMS), NoSQL, Python Programming, Data Analysis, Pandas, Numpy | IBM | Approximately 200 hours to complete. | --- | ---
+[IT Fundamentals for Cybersecurity](https://www.coursera.org/specializations/it-fundamentals-cybersecurity) | Operating System Security, database vulnerabilities, Cybersecurity, networking basics, Cyber Attacks, Information Security (INFOSEC), IBM New Collar, Malware, Network Security, Sql Injection | IBM | Approximately xx hours to complete. | --- | ---
+[DataOps Methodology](https://www.coursera.org/learn/ibm-data-ops-methodology) | DataOps | IBM | Approximately 10 hours to complete. | --- | ---
+[Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | Data Warehousing | University of Colorado | Approximately 120 hours to complete. | --- | ---
 
 ##
 
