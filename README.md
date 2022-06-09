@@ -204,9 +204,9 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 
 ## Extra Bibliography.
 
-- [Essentials of Discrete Mathematics](https://www.amazon.com.br/Essentials-Discrete-Mathematics-David-Hunter/dp/1449604420) by David J. Hunter
-- []()
-- []()
+- [Essentials of Discrete Mathematics](https://www.amazon.com.br/Essentials-Discrete-Mathematics-David-Hunter/dp/1449604420) - David J. Hunter
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - MIT
+- [Free Code Camp](https://www.freecodecamp.org/) - (づ｡◕‿‿◕｡)づ
 
 ## References.
 
