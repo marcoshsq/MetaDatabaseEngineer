@@ -111,7 +111,11 @@ Programming Languages: [Part A](https://www.coursera.org/learn/programming-langu
 
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-[]() |  |  | Approximately xx hours to complete. | --- | ---
+[Precalculus through Data and Modelling](https://www.coursera.org/specializations/precalculus-data-modelling) | function analysis, vectors, regression, Data Analysis, Modelling | Johns Hopkins | Approximately 32 hours to complete. | --- | ---
+[Differential Calculus through Data and Modeling](https://www.coursera.org/specializations/differential-calculus-data-modeling) | function analysis, Mathematical Optimization, vectors, Data Analysis, Modelling | Johns Hopkins | Approximately 32 hours to complete. | --- | ---
+[Integral Calculus through Data and Modeling](https://www.coursera.org/specializations/integral-calculus-data-modeling) | Calculus, vectors. Data Analysis, Modeling, functional analysis | Johns Hopkins | Approximately 32 hours to complete. | --- | ---
+[An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | Bayes' Theorem, Normal Distribution, Probability, Conditional Probability | University of Zurich | Approximately 30 hours to complete. | --- | ---
+[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Statistics | Stanford | Approximately 15 hours to complete. | --- | ---
 
 #### Computer Science II:
 
