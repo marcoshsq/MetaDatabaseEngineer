@@ -135,7 +135,7 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
-#### Computer Science II:
+#### Computer Science III:
 
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
