@@ -120,7 +120,7 @@ Course link | Type | Offered by | ETA | Course Certificate
 	
 </div>
 
-<!--Avançado-->
+<!--Part 3-->
 
 ### Cloud Computing.
 
@@ -130,7 +130,47 @@ Course link | Type | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
+#### Computer Science II:
 
+Course link | Type | Offered by | ETA | Course Certificate
+:-- | :-- | :-- | :-- | :-- |
+|  |  |  |  |  |
+
+#### Cloud Applications:
+
+Course link | Type | Offered by | ETA | Course Certificate
+:-- | :-- | :-- | :-- | :-- |
+|  |  |  |  |  |
+
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+	
+</div>
+
+<!--Part 4-->
+
+### Machine Learning.
+
+#### Mathematics IV:
+
+Course link | Type | Offered by | ETA | Course Certificate
+:-- | :-- | :-- | :-- | :-- |
+|  |  |  |  |  |
+
+#### Machine Learning & AI I:
+
+Course link | Type | Offered by | ETA | Course Certificate
+:-- | :-- | :-- | :-- | :-- |
+|  |  |  |  |  |
+
+#### Machine Learning & AI II:
+
+Course link | Type | Offered by | ETA | Course Certificate
+:-- | :-- | :-- | :-- | :-- |
+|  |  |  |  |  |
 
 ##
 
