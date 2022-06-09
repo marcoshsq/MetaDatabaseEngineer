@@ -253,10 +253,17 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 - [Introduction to Linear Regression Analysis](https://www.amazon.com.br/Introduction-Regression-Analysis-Douglas-Montgomery/dp/0470542810) - Douglas C Montgomery
 - [The Elements of Statistical Learning](https://www.amazon.com.br/Elements-Statistical-Learning-Inference-Prediction/dp/0387848576) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
 - [Cálculo Numérico: Aspectos Teóricos e Computacionais](https://www.google.com/aclk?sa=L&ai=DChcSEwjPq5eQr6H4AhUVFdQBHagIDI0YABAIGgJvYQ&sig=AOD64_2Cx8Ab7n2JiHj9UtlPuCB_B4ik3w&ctype=5&q=&ved=2ahUKEwiqvIeQr6H4AhX0jJUCHRVPAFAQ9aACKAB6BAgBEEQ&adurl=) - Marcia Gomes
+- [Bayesian Statistics](https://www.amazon.com.br/Bayesian-Statistics-Introduction-Peter-Lee/dp/1118332571) - Peter M. Lee
+- [Markov Chain Monte Carlo: Stochastic Simulation for Bayesian Inference: Stochastic Simulation for Bayesian Inference](https://www.amazon.com.br/Markov-Chain-Monte-Carlo-Stochastic/dp/1584885874) - Dani Gamerman
+- [Applied Nonparametric Statistical Methods](https://www.amazon.com.br/Applied-Nonparametric-Statistical-Methods-Sprent/dp/158488701X) - Nigel C Smeeton
+- [Matrix Algebra Useful for Statistics](https://www.amazon.com.br/Matrix-Algebra-Useful-Statistics-Shayle/dp/1118935144) - Andre I Khuri
+- [Introduction to the Theory of Statistics](https://www.amazon.com.br/Introduction-Theory-Statistics-Alexander-Mood/dp/0070854653) - Alexander Mood 
+- [Interpretability of Computational Intelligence-Based Regression Models](https://www.amazon.com.br/Interpretability-Computational-Intelligence-Based-Regression-Models/dp/3319219413) - János Abonyi
+- 
 
 ## References.
 
-To build this bachelor's curriculum used these sources:
+To build this curriculum, I used these sources:
 
 - [OSSU Data Science](https://github.com/ossu/data-science#introduction-to-data-science) - Path to a free self-taught education in Data Science.
 - [AI Expert Roadmap](https://i.am.ai/roadmap/#data-science-roadmap) - Roadmap to becoming an AI Expert.
