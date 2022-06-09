@@ -60,21 +60,9 @@ Fim da seção sobre.
 
 ## Courses. 
 
-<!--Introdução-->
+<!--Part 1-->
 
 ### Introduction to Data Science.
-
-#### Mathematics I:
-
-Course link | Type | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
-|  |  |  |  |  |
-
-#### Computer Science:
-
-Course link | Type | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
-|  |  |  |  |  |
 
 #### Data Science Basics:
 
@@ -82,6 +70,17 @@ Course link | Type | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
+#### Mathematics I:
+
+Course link | Type | Offered by | ETA | Course Certificate
+:-- | :-- | :-- | :-- | :-- |
+|  |  |  |  |  |
+
+#### Computer Science I:
+
+Course link | Type | Offered by | ETA | Course Certificate
+:-- | :-- | :-- | :-- | :-- |
+|  |  |  |  |  |
 
 ##
 
@@ -91,30 +90,27 @@ Course link | Type | Offered by | ETA | Course Certificate
 	
 </div>
 
-<!--Intermediário-->
+<!--Part 2-->
 
-### Data Science.
+### Databases.
 
-#### Mathematics for Data Science
-
-Course link | Type | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
-[Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | ---
-[Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | ---
-[Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | ---
-[Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | ---
-[Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) | ---
-
-#### Computer Science for Data Science
+#### Mathematics II:
 
 Course link | Type | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
-[Data Science](https://www.coursera.org/specializations/jhu-data-science) | ---
-[Data Mining](https://www.coursera.org/specializations/data-mining) | ---
-[Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | ---
-[Big Data](https://www.coursera.org/specializations/big-data) | ---
-[Practical Data Science](https://www.coursera.org/specializations/practical-data-science) | ---
-[Machine Learning](https://www.coursera.org/learn/machine-learning) | ---
+|  |  |  |  |  |
+
+#### Computer Science II:
+
+Course link | Type | Offered by | ETA | Course Certificate
+:-- | :-- | :-- | :-- | :-- |
+|  |  |  |  |  |
+
+#### Databases:
+
+Course link | Type | Offered by | ETA | Course Certificate
+:-- | :-- | :-- | :-- | :-- |
+|  |  |  |  |  |
 
 ##
 
@@ -126,28 +122,15 @@ Course link | Type | Offered by | ETA | Course Certificate
 
 <!--Avançado-->
 
-### Advanced Stuff.
+### Cloud Computing.
 
-#### Advanced Mathematics
-
-Course link | Type | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
-[Game Theory I](https://www.coursera.org/learn/game-theory-1) | ---
-[Game Theory II](https://www.coursera.org/learn/game-theory-2) | ---
-[Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | ---
-[Bayesian Statistics for Modeling and Prediction](https://www.coursera.org/specializations/bayesian-statistics) | ---
-[Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | ---
-
-#### Advanced Computer Science
+#### Mathematics III:
 
 Course link | Type | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
-[Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) | ---
-[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | ---
-[Deep Learning](https://www.coursera.org/specializations/deep-learning) | ---
-[DeepLearning.AI no TensorFlow](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | ---
-[MLOps](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | ---
-[Advanced Machine Learning](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) | ---
+|  |  |  |  |  |
+
+
 
 ##
 
