@@ -74,6 +74,8 @@ Fim da seção sobre.
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
 [IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | Data Science, Deep Learning, Machine Learning, Big Data, Data Mining, Github, Python Programming, Jupyter notebooks, Rstudio, Data Science Methodology, Data Analysis, Pandas | IBM through Coursera | Approximately 200 hours to complete. | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
+[Data Science](https://www.coursera.org/specializations/jhu-data-science) | Github, Machine Learning, R Programming, Regression Analysis, Data Science, Rstudio, Data Analysis, Debugging, Data Manipulation, Regular Expression (REGEX), Data Cleansing, Cluster Analysis | Johns Hopkins through Coursera | Approximately 330 hours to complete. | --- | ---
+[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Data Analysis, Apache Spark, Delta Lake, SQL, Data Science, Sqlite, A/B Testing, Query String, Predictive Analytics, Presentation Skills, creating metrics, Exploratory Data Analysis | UC Davis | Approximately 80 hours to complete. | --- | ---
 
 #### Mathematics I:
 
