@@ -204,29 +204,9 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 
 ## Extra Bibliography.
 
-#### Mathematics.
-
-Placeholder | Placeholder
-:-- | :-- | 
-|  |  
-
-#### Databases.
-
-Placeholder | Placeholder
-:-- | :-- | 
-|  |  
-
-#### Cloud Computing.
-
-Placeholder | Placeholder
-:-- | :-- | 
-|  |  
-
-#### Machine Learning.
-
-Placeholder | Placeholder
-:-- | :-- | 
-|  |  
+- [Essentials of Discrete Mathematics](https://www.amazon.com.br/Essentials-Discrete-Mathematics-David-Hunter/dp/1449604420) by David J. Hunter
+- []()
+- []()
 
 ## References.
 
