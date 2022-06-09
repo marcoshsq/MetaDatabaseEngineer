@@ -85,7 +85,7 @@ Course link | Skills | Offered by | ETA | Course Certificate
 
 Course link | Skills | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
-| Python for Everybody | Json, Xml, Python Programming, Database (DBMS) | Michigan University through Coursera | ~120h | [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB) |
+| Python for Everybody | Json, Xml, Python Programming, Database (DBMS) | Michigan University through Coursera | Approximately 120 hours to complete. | [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB) |
 
 ##
 
