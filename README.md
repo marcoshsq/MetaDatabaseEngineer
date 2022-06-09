@@ -198,7 +198,11 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-[]() |  |  | Approximately xx hours to complete. | --- | ---
+[Creativity and A.I.](https://www.coursera.org/specializations/creativity-ai) | Design Thinking, Business Applications, Artificial Intelligence (A.I.), Applied Creativity, Computational Creativity, Machine Learning, Innovation Strategies, Theories of Creativity, Organizational Transformation | Parsons | Approximately 64 hours to complete. | --- | ---
+[AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) | Workflow of Machine Learning projects, AI terminology, AI strategy, Workflow of Data Science projects | DeepLearning.AI | Approximately 12 hours to complete. | --- | ---
+[AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | Artificial Intelligence (AI), Machine Learning, Management, Analytics, Fraud Prevention | Penn | Approximately 32 hours to complete. | --- | ---
+[CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) | Search, Knowledge, Uncertainty, Optimization, Learning, Neural Networks, Language | CS50x | Approximately 80 hours to complete. | --- | ---
+[Andrew NG - Machine Learning](https://www.coursera.org/learn/machine-learning) | Logistic Regression, Artificial Neural Network, Machine Learning (ML) Algorithms, Machine Learning | Stanford | Approximately 61 hours to complete. | --- | ---
 
 #### Machine Learning & AI II:
 
