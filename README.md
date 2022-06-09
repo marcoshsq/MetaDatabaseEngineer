@@ -27,7 +27,7 @@ Fim da seção cabeçalho.
 
 ## Content summary.
 
-- [About](https://github.com/marcoshsq/DataScienceCurriculum#about-me-and-this-repository)
+- [About](https://github.com/marcoshsq/DataScienceCurriculum#about)
 - [Courses](https://github.com/marcoshsq/DataScienceCurriculum#courses)
 - [References](https://github.com/marcoshsq/DataScienceCurriculum#references)
 
@@ -37,9 +37,9 @@ Fim da seção cabeçalho.
 Seção sobre.
 -->
 
-## About me and this repository.
+## About.
 
-Hi, my name is Marcos Henrique, I'm interested in becoming a Machine Learning Engineer. But unfortunately, a proper college degree is quite expensive, and I'm not able to afford one now, so, after researching different materials on the internet (roadmaps, YouTube videos, articles, etc.), I've decided to create my own curriculum with free materials.
+This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Data Science, minus general education.
 
 The main guides I've followed to create this curriculum can be found in the ``References`` section, at the end of this ``README`` page.
 
