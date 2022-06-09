@@ -155,11 +155,11 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
+[Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | Descriptive Statistics | Udacity | Approximately 2 months to complete. | --- | ---
+[Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) | Inferential Statistics | Udacity | Approximately 2 months to complete. | --- | ---
 [Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | Inference, Statistics, Data Science, Probability, central limit theorem, continuous random variables, Bayes' Theorem, discrete random variables | Colorado Boulder | Approximately 112 hours to complete. | --- | ---
 [Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | Linear Model, R Programming, Statistical Model, regression, Calculus, and probability theory, Linear Algebra | Colorado Boulder | Approximately 150 hours to complete. | --- | ---
 [Probability and Statistics: To p or not to p](https://www.coursera.org/learn/probability-statistics) | Statistics | University of London | Approximately 16 hours to complete. | --- | ---
-[Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | Descriptive Statistics | Udacity | Approximately 2 months to complete. | --- | ---
-[Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) | Inferential Statistics | Udacity | Approximately 2 months to complete. | --- | ---
 
 #### Computer Science III:
 
@@ -200,7 +200,9 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-[]() |  |  | Approximately xx hours to complete. | --- | ---
+[Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | Bayesian Statistics, Data Science, R Programming, Data Analysis, Statistics, Bayesian Inference, Gibbs Sampling, Markov Model, Mixture Model, Forecasting, Dynamic Linear Modeling, Time Series | Santa Cruz | Approximately 96 hours to complete. | --- | ---
+[Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | R Programming, Linear Regression, Statistical Hypothesis Testing, Statistics, Linear Algebra, Confidence Interval, Biostatistics | Johns Hopkins | Approximately 40 hours to complete. | --- | ---
+[Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | Inference, Bayesian Network, Belief Propagation, Graphical Model, Markov Random Field, Gibbs Sampling, Markov Chain Monte Carlo (MCMC), Algorithms, Expectation–Maximization (EM) Algorithm | Stanford | Approximately 180 hours to complete. | --- | ---
 
 #### Machine Learning & AI I:
 
