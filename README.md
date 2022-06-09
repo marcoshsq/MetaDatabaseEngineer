@@ -216,7 +216,10 @@ To build this bachelor's curriculum used these sources:
 - [AI Expert Roadmap](https://i.am.ai/roadmap/#data-science-roadmap) - Roadmap to becoming an AI Expert.
 - [Python Developer](https://roadmap.sh/python) - Python Roadmap.
 - [PostgreSQL](https://roadmap.sh/postgresql-dba) - PostgreSQL Roadmap for DBA.
-- [Statistics Curriculum](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55070&codhab=4&tipo=V) - The curriculum of a bachelor's degree in statistics by the University of São Paulo.
+- [Statistics Curriculum](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=55&codcur=55070&codhab=4&tipo=V) - BA in Statistics from the University of São Paulo, which I used to guide my studies.
+- [Database Curriculum](https://www.fiap.com.br/graduacao/tecnologo/banco-de-dados/) - Database Course from the Faculdade de Informática e Administração Paulista (FIAP).
+- [Cloud Computing Curriculum](https://www.fiap.com.br/graduacao/tecnologo/computacao-na-nuvem-cloud-engineering-architecture-machine-learning/) - Cloud computing curriculum from the Faculdade de Informática e Administração Paulista (FIAP).
+- [AI Curriculum](https://www.fiap.com.br/graduacao/tecnologo/inteligencia-artificial/) - AI curriculum from the Faculdade de Informática e Administração Paulista (FIAP).
 
 ##
 
