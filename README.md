@@ -148,7 +148,7 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
 [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) | Software Architecture, Java, Software Design Pattern, Object-Oriented Programming (OOP), Object-Oriented Design, Object-Oriented Analysis And Design, Unified Modeling Language (UML), Web Service, Microservices, Representational State Transfer (REST), Service-Oriented Architecture | Alberta | Approximately 60 hours to complete. | --- | ---
-[Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | --- | Princeton | Approximately 20 hours to complete. | --- | ---
+[Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Stacks and Queues, Symbol Tables. Theory of Computing, Turing Machines, Intractability, Computing Machines, Von Neumann Machines, Combinational Circuits, Central Processing Unit | Princeton | Approximately 20 hours to complete. | --- | ---
 [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | Data Structure, Algorithms, Java Programming | Princeton | Approximately 60 hours to complete. | --- | ---
 [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Graphs, Data Structure, Algorithms, Data Compression | Princeton | Approximately 60 hours to complete. | --- | ---
 
