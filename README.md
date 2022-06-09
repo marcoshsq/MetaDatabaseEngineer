@@ -79,7 +79,7 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 
 Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Number Theory, Real Analysis, Mathematical Logic, Language | Stanford University through Coursera | Approximately 39 hours to complete. | --- | [Certificate]() |
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Number Theory, Real Analysis, Mathematical Logic, Language | Stanford University through Coursera | Approximately 39 hours to complete. | --- | [Certificate](https://www.coursera.org/account/accomplishments/verify/MFYQ2NNLB76F)
 
 #### Computer Science I:
 
@@ -101,20 +101,20 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 
 #### Mathematics II:
 
-Course link | Skills | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
+Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
+:-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
 #### Computer Science II:
 
-Course link | Skills | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
+Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
+:-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
 #### Databases:
 
-Course link | Skills | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
+Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
+:-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
 ##
@@ -131,20 +131,20 @@ Course link | Skills | Offered by | ETA | Course Certificate
 
 #### Mathematics III:
 
-Course link | Skills | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
+Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
+:-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
 #### Computer Science II:
 
-Course link | Skills | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
+Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
+:-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
 #### Cloud Applications:
 
-Course link | Skills | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
+Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
+:-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
 ##
@@ -161,20 +161,20 @@ Course link | Skills | Offered by | ETA | Course Certificate
 
 #### Mathematics IV:
 
-Course link | Skills | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
+Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
+:-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
 #### Machine Learning & AI I:
 
-Course link | Skills | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
+Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
+:-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
 #### Machine Learning & AI II:
 
-Course link | Skills | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
+Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
+:-- | :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
 ##
