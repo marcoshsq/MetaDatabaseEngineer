@@ -62,33 +62,25 @@ Fim da seção sobre.
 
 <!--Introdução-->
 
-### Core Concepts.
+### Introduction to Data Science.
 
-#### Core Mathematics
-
-Course link | Type | Offered by | ETA | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Course | Stanford University | Approximately 39 hours to complete | [Certificate Link](https://coursera.org/share/ea8bc5ad902c2c057788fa8b7e4192a5)
-[Essential Algebra](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | Specialization | Johns Hopkins University | Approximately 35 hours to complete | ---
-[Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | ---
-[Mathematics Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) | ---
-[Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | ---
-[PreCalculus](https://www.coursera.org/specializations/precalculus-data-modelling) | ---
-[Diferential Calculus](https://www.coursera.org/specializations/differential-calculus-data-modeling) | ---
-[Integral Calculus](https://www.coursera.org/specializations/integral-calculus-data-modeling) | ---
-
-#### Core Computer Science
+#### Mathematics I:
 
 Course link | Type | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
-[Python](https://www.coursera.org/specializations/python-3-programming) | Specialization | Michigan University | Approximately 120 hours to complete | ---
-[Statistics with Python](https://www.coursera.org/specializations/statistics-with-python) | ---
-[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | ---
-[Algorithms and Data Structures](https://www.coursera.org/specializations/data-structures-algorithms) | ---
-[Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) | ---
-[Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | ---
-[PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) | ---
-[Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | ---
+|  |  |  |  |  |
+
+#### Computer Science:
+
+Course link | Type | Offered by | ETA | Course Certificate
+:-- | :-- | :-- | :-- | :-- |
+|  |  |  |  |  |
+
+#### Data Science Basics:
+
+Course link | Type | Offered by | ETA | Course Certificate
+:-- | :-- | :-- | :-- | :-- |
+|  |  |  |  |  |
 
 
 ##
