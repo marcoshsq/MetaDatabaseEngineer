@@ -211,13 +211,12 @@ Course link | Skills | Offered by | ETA | Repository if any | Course Certificate
 [Machine Learning](https://www.coursera.org/specializations/machine-learning) | Data Clustering Algorithms, Machine Learning, Classification Algorithms, Decision Tree, Python Programming, Machine Learning Concepts, Deep Learning, Linear Regression, Ridge Regression, Lasso (Statistics), Regression Analysis, Logistic Regression | University of Washington | Approximately 84 hours to complete. | --- | ---
 [Deep Learning](https://www.coursera.org/specializations/deep-learning) | Artificial Neural Network, Convolutional Neural Network, Tensorflow, Recurrent Neural Network, Transformers, Deep Learning, Backpropagation, Python Programming, Neural Network Architecture, Mathematical Optimization, hyperparameter tuning, Inductive Transfer | DeepLearning.AI | Approximately 200 hours to complete. | --- | ---
 [NLP](https://www.coursera.org/specializations/natural-language-processing) | Word2vec, Machine Translation, Sentiment Analysis, Transformers, Attention Models, Word Embeddings, Locality-Sensitive Hashing, Vector Space Models, Parts-of-Speech Tagging, N-gram Language Models, Autocorrect, Word Embedding | DeepLearning.AI | Approximately 128 hours to complete. | --- | ---
-[]() |  |  | Approximately xx hours to complete. | --- | ---
-[]() |  |  | Approximately xx hours to complete. | --- | ---
-[]() |  |  | Approximately xx hours to complete. | --- | ---
-[]() |  |  | Approximately xx hours to complete. | --- | ---
-[]() |  |  | Approximately xx hours to complete. | --- | ---
-[]() |  |  | Approximately xx hours to complete. | --- | ---
-
+[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | perception, features and boundaries, Object Recognition, Camera and imaging, 3d reconstruction, Fourier Transform, High-Dynamic-Range (HDR) Imaging, Image Formation, Convolution and Deconvolution, Working Principles of a Camera, Scale Space, Active Contours |  | Approximately 60 hours to complete. | --- | ---
+[TensorFlow](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | Computer Vision, Convolutional Neural Network, Machine Learning, Natural Language Processing, Tensorflow, Inductive Transfer, Augmentation, Dropouts, Tokenization, RNNs, Forecasting, Time Series | DeepLearning.AI | Approximately 80 hours to complete. | --- | ---
+[MLOps](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Managing Machine Learning Production Systems, Deployment Pipelines, Model Pipelines, Data Pipelines, Machine Learning Engineering for Production, Human-level Performance (HLP), Concept Drift, Model baseline, Project Scoping and Design, ML Deployment Challenges, ML Metadata, Convolutional Neural Network | DeepLearning.AI | Approximately 80 hours to complete. | --- | ---
+[GANs](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | Generator, Image-to-Image Translation, glossary of computer graphics, Discriminator, Generative Adversarial Networks, Controllable Generation, WGANs, Conditional Generation, Components of GANs, DCGANs, Bias in GANs, 
+StyleGANs | DeepLearning.AI | Approximately 80 hours to complete. | --- | ---
+[TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment) | Machine Learning, Tensorflow, advanced deployment, Object Detection, JavaScript, Convolutional Neural Network, TensorFlow.js, TensorFlow Lite, Mathematical Optimization, Artificial Neural Network, Extraction, Transformation And Loading (ETL), Data Pipelines | DeepLearning.AI | Approximately 80 hours to complete. | --- | ---
 
 ##
 
