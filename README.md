@@ -184,6 +184,32 @@ Course link | Type | Offered by | ETA | Course Certificate
 
 ---
 
+## Extra Bibliography.
+
+#### Introduction to Data Science.
+
+Placeholder | Placeholder
+:-- | :-- | 
+|  |  
+
+#### Databases.
+
+Placeholder | Placeholder
+:-- | :-- | 
+|  |  
+
+#### Cloud Computing.
+
+Placeholder | Placeholder
+:-- | :-- | 
+|  |  
+
+#### Machine Learning.
+
+Placeholder | Placeholder
+:-- | :-- | 
+|  |  
+
 ## References.
 
 To build this bachelor's curriculum used these sources:
