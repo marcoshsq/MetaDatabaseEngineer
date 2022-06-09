@@ -71,13 +71,13 @@ Fim da seção sobre.
 
 #### Data Science Basics:
 
-Course link | Type | Offered by | ETA | Course Certificate
+Course link | Skills | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
 #### Mathematics I:
 
-Course link | Type | Offered by | ETA | Course Certificate
+Course link | Skills | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
@@ -85,7 +85,7 @@ Course link | Type | Offered by | ETA | Course Certificate
 
 Course link | Skills | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
-| Python for Everybody |  | Michigan University through Coursera | ~120h | [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB) |
+| Python for Everybody | Json, Xml, Python Programming, Database (DBMS) | Michigan University through Coursera | ~120h | [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB) |
 
 ##
 
@@ -101,19 +101,19 @@ Course link | Skills | Offered by | ETA | Course Certificate
 
 #### Mathematics II:
 
-Course link | Type | Offered by | ETA | Course Certificate
+Course link | Skills | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
 #### Computer Science II:
 
-Course link | Type | Offered by | ETA | Course Certificate
+Course link | Skills | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
 #### Databases:
 
-Course link | Type | Offered by | ETA | Course Certificate
+Course link | Skills | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
@@ -131,19 +131,19 @@ Course link | Type | Offered by | ETA | Course Certificate
 
 #### Mathematics III:
 
-Course link | Type | Offered by | ETA | Course Certificate
+Course link | Skills | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
 #### Computer Science II:
 
-Course link | Type | Offered by | ETA | Course Certificate
+Course link | Skills | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
 #### Cloud Applications:
 
-Course link | Type | Offered by | ETA | Course Certificate
+Course link | Skills | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
@@ -161,19 +161,19 @@ Course link | Type | Offered by | ETA | Course Certificate
 
 #### Mathematics IV:
 
-Course link | Type | Offered by | ETA | Course Certificate
+Course link | Skills | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
 #### Machine Learning & AI I:
 
-Course link | Type | Offered by | ETA | Course Certificate
+Course link | Skills | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
 #### Machine Learning & AI II:
 
-Course link | Type | Offered by | ETA | Course Certificate
+Course link | Skills | Offered by | ETA | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
 |  |  |  |  |  |
 
