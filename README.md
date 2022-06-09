@@ -65,7 +65,7 @@ The main guides I've followed to create this curriculum can be found in the ``Re
 
 <!--Part 1-->
 
-### Introduction to Data Science.
+### Part 01 - Introduction to Data Science.
 
 #### Data Science Basics:
 
@@ -105,7 +105,7 @@ Programming Languages: [Part A](https://www.coursera.org/learn/programming-langu
 
 <!--Part 2-->
 
-### Databases.
+### Part 02 - Databases.
 
 #### Mathematics II:
 
