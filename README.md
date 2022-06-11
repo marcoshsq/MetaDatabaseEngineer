@@ -7,7 +7,7 @@
     <img src="https://mohdsaberi.net/img/icon/ds.png" alt="Developer Roadmap" width="120" height="120">
   </a>
 </p>
-  <h2 align="center">Marcos Henrique<br>Data Science Undergraduate Curriculum</h2>
+  <h2 align="center">Data Science Undergraduate Curriculum</h2>
   <p align="center">Roadmap I created to become a Data Scientist!</p>
  <div align="center"> 
   <a href="https://twitter.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
