@@ -85,7 +85,7 @@ Course link | Some of the topics covered | Offered by | ETA | Repository if any 
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Number Theory, Mathematical Logic, and etc. | Stanford University | Approximately 39 hours to complete. | --- | [Certificate](https://www.coursera.org/account/accomplishments/verify/MFYQ2NNLB76F)
 [Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | Equations, Inequalities, Functions, Polynomials | Johns Hopkins | Approximately 30 hours to complete. | --- | ---
 [Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | Differential Equations, Calculus, Matrix, CFD | University of Honk Kong | Approximately 120 hours to complete. | --- | ---
-[Mathematics for machine learning](https://www.coursera.org/specializations/mathematics-machine-learning) | Vector Calculus, Gradient Descent, Dimensionality Reduction | Imperial College | Approximately 64 hours to complete. | --- | ---
+[Mathematics for ML](https://www.coursera.org/specializations/mathematics-machine-learning) | Vector Calculus, Gradient Descent, Dimensionality Reduction | Imperial College | Approximately 64 hours to complete. | --- | ---
 
 #### Computer Science I:
 
@@ -113,10 +113,10 @@ Programming Languages: [Part A](https://www.coursera.org/learn/programming-langu
 
 Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-[Precalculus through Data and Modelling](https://www.coursera.org/specializations/precalculus-data-modelling) | vectors, regression, Modelling | Johns Hopkins | Approximately 32 hours to complete. | --- | ---
-[Differential Calculus through Data and Modeling](https://www.coursera.org/specializations/differential-calculus-data-modeling) | Mathematical Optimization, vectors, Data Analysis | Johns Hopkins | Approximately 32 hours to complete. | --- | ---
-[Integral Calculus through Data and Modeling](https://www.coursera.org/specializations/integral-calculus-data-modeling) | Calculus, Modeling, functional analysis | Johns Hopkins | Approximately 32 hours to complete. | --- | ---
-[An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | Bayes' Theorem, Normal Distribution, Probability | University of Zurich | Approximately 30 hours to complete. | --- | ---
+[Precalculus](https://www.coursera.org/specializations/precalculus-data-modelling) | vectors, regression, Modelling | Johns Hopkins | Approximately 32 hours to complete. | --- | ---
+[Differential Calculus](https://www.coursera.org/specializations/differential-calculus-data-modeling) | Mathematical Optimization, vectors, Data Analysis | Johns Hopkins | Approximately 32 hours to complete. | --- | ---
+[Integral Calculus](https://www.coursera.org/specializations/integral-calculus-data-modeling) | Calculus, Modeling, functional analysis | Johns Hopkins | Approximately 32 hours to complete. | --- | ---
+[Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | Bayes' Theorem, Normal Distribution, Probability | University of Zurich | Approximately 30 hours to complete. | --- | ---
 [Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Statistics | Stanford | Approximately 15 hours to complete. | --- | ---
 
 #### Computer Science II:
@@ -132,12 +132,12 @@ Course link | Some of the topics covered | Offered by | ETA | Repository if any 
 
 Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-[PostgreSQL for Everybody](https://www.coursera.org/specializations/postgresql-for-everybody) | Json, Database (DBMS), Natural Language Processing, SQL | Michigan University through Coursera | Approximately 64 hours to complete. | --- | ---
-[Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | Database (DB) Design, Data Warehousing, NoSQL, database administration, SQL, Database (DBMS), Relational Models, Normalization, Entity–Relationship (E-R) Model, Data Science, Database Application, SQL (Structured Query Language) | Colorado Boulder | Approximately 100 hours to complete. | --- | ---
-[Data Mining Foundations and Practice](https://www.coursera.org/specializations/data-mining-foundations-practice) | work through the data mining pipeline, data mining project design and implementation, apply and evaluate data mining methods  | Colorado Boulder | Approximately 80 hours to complete. | --- | ---
-[Big Data](https://www.youtube.com/watch?v=JXsGL6uCoU4&t=625s) | Big Data, Neo4j, Mongodb, Apache Spark, Apache Hadoop, Mapreduce, Cloudera, Data Model, Data Modeling, Data Management, Splunk, Machine Learning Concepts | UC San Diego | Approximately 96 hours to complete. | --- | ---
-[IBM - Data Engineer](https://www.coursera.org/professional-certificates/ibm-data-engineer) | Relational Database Management Syste (RDBMS), ETL & Data Pipelines, NoSQL and Big Data, Pandas, Numpy | IBM | Approximately 200 hours to complete. | --- | ---
-[IT Fundamentals for Cybersecurity](https://www.coursera.org/specializations/it-fundamentals-cybersecurity) | Operating System Security, database vulnerabilities, Cybersecurity, networking basics, Cyber Attacks, Information Security (INFOSEC), IBM New Collar, Malware, Network Security, Sql Injection | IBM | Approximately 64 hours to complete. | --- | ---
+[PostgreSQL](https://www.coursera.org/specializations/postgresql-for-everybody) | Json, Database (DBMS), NLP, SQL | Michigan University | Approximately 64 hours to complete. | --- | ---
+[Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | Database (DB) Design, Data Warehousing, NoSQL, database administration, Relational Models, Entity–Relationship (E-R) Model | Colorado Boulder | Approximately 100 hours to complete. | --- | ---
+[Data Mining](https://www.coursera.org/specializations/data-mining-foundations-practice) | Data mining project design and implementation | Colorado Boulder | Approximately 80 hours to complete. | --- | ---
+[Big Data](https://www.youtube.com/watch?v=JXsGL6uCoU4&t=625s) | Neo4j, Mongodb, Apache Spark, Apache Hadoop, Mapreduce, Cloudera, Splunk | UC San Diego | Approximately 96 hours to complete. | --- | ---
+[IBM - Data Engineer](https://www.coursera.org/professional-certificates/ibm-data-engineer) | RDBMS, ETL & Data Pipelines, NoSQL | IBM | Approximately 200 hours to complete. | --- | ---
+[IT Fundamentals for Cybersecurity](https://www.coursera.org/specializations/it-fundamentals-cybersecurity) | Operating System Security, Database vulnerabilities, Cybersecurity, networking basics, Cyber Attacks, INFOSEC Malware | IBM | Approximately 64 hours to complete. | --- | ---
 [DataOps Methodology](https://www.coursera.org/learn/ibm-data-ops-methodology) | DataOps | IBM | Approximately 10 hours to complete. | --- | ---
 [Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | Data Warehousing | University of Colorado | Approximately 120 hours to complete. | --- | ---
 
