@@ -73,10 +73,10 @@ The main guides I've followed to create this curriculum can be found in the ``Re
 
 Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-[IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | Deep Learning, Machine Learning, Big Data, Data Analysis, and etc. | IBM through Coursera | Approximately 200 hours to complete. | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
-[Data Science](https://www.coursera.org/specializations/jhu-data-science) | Regression Analysis, Data Manipulation, Regular Expression, Data Cleansing, and etc. | Johns Hopkins through Coursera | Approximately 330 hours to complete. | --- | ---
-[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Apache Spark, Delta Lake, SQL, Sqlite, A/B Testing, Query String, Predictive Analytics, and etc. | UC Davis | Approximately 80 hours to complete. | --- | ---
-[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | Text Mining, Pandas, Matplotlib, Numpy, Data Cleansing, Data Virtualization, Scikit-Learn, NLTK, and etc. | Michigan University through Coursera | Approximately 140 hours to complete. | --- | --- 
+[IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | Machine Learning, Python, SQL, and etc. | IBM | Approximately 200 hours to complete. | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
+[Data Science](https://www.coursera.org/specializations/jhu-data-science) | Statistics, R, Data Analysis, and etc. | Johns Hopkins | Approximately 330 hours to complete. | --- | ---
+[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Apache Spark, SQL, Sqlite, and etc. | UC Davis | Approximately 80 hours to complete. | --- | ---
+[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | Pandas, Matplotlib, Numpy, Scikit-Learn, NLTK, and etc. | Michigan University through Coursera | Approximately 140 hours to complete. | --- | --- 
 
 #### Mathematics I:
 
