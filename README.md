@@ -123,8 +123,8 @@ Course link | Some of the topics covered | Offered by | ETA | Repository if any 
 
 Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | Logic Gate, Computer Architecture, Assembly Languages | Hebrew University of Jerusalem | Approximately 44 hours to complete. | --- | ---
-[Build a Modern Computer from First Principles: From Nand to Tetris II](https://www.coursera.org/learn/nand2tetris2) | Computer Architecture, Compiler, Operating System | Hebrew University of Jerusalem | Approximately 90 hours to complete. | --- | ---
+[Build a Modern Computer Part 01](https://www.coursera.org/learn/build-a-computer) | Logic Gate, Computer Architecture, Assembly Languages | Hebrew University of Jerusalem | Approximately 44 hours to complete. | --- | ---
+[Build a Modern Computer Part 02](https://www.coursera.org/learn/nand2tetris2) | Computer Architecture, Compiler, Operating System | Hebrew University of Jerusalem | Approximately 90 hours to complete. | --- | ---
 [Introduction to Operating Systems](https://www.coursera.org/specializations/codio-introduction-operating-systems) | Virtualization, Concurrency, Persistence | CODIO | Approximately 50 hours to complete. | --- | ---
  
 
@@ -137,7 +137,7 @@ Course link | Some of the topics covered | Offered by | ETA | Repository if any 
 [Data Mining](https://www.coursera.org/specializations/data-mining-foundations-practice) | Data mining project design and implementation | Colorado Boulder | Approximately 80 hours to complete. | --- | ---
 [Big Data](https://www.youtube.com/watch?v=JXsGL6uCoU4&t=625s) | Neo4j, Mongodb, Apache Spark, Apache Hadoop, Mapreduce, Cloudera, Splunk | UC San Diego | Approximately 96 hours to complete. | --- | ---
 [IBM - Data Engineer](https://www.coursera.org/professional-certificates/ibm-data-engineer) | RDBMS, ETL & Data Pipelines, NoSQL | IBM | Approximately 200 hours to complete. | --- | ---
-[IT Fundamentals for Cybersecurity](https://www.coursera.org/specializations/it-fundamentals-cybersecurity) | Operating System Security, Database vulnerabilities, Cybersecurity, networking basics, Cyber Attacks, INFOSEC Malware | IBM | Approximately 64 hours to complete. | --- | ---
+[IT Fundamentals for Cybersecurity](https://www.coursera.org/specializations/it-fundamentals-cybersecurity) | OS Security, Database vulnerabilities, INFOSEC Malware | IBM | Approximately 64 hours to complete. | --- | ---
 [DataOps Methodology](https://www.coursera.org/learn/ibm-data-ops-methodology) | DataOps | IBM | Approximately 10 hours to complete. | --- | ---
 [Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | Data Warehousing | University of Colorado | Approximately 120 hours to complete. | --- | ---
 
@@ -159,32 +159,32 @@ Course link | Some of the topics covered | Offered by | ETA | Repository if any 
 :-- | :-- | :-- | :-- | :-- | :-- |
 [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | Descriptive Statistics | Udacity | Approximately 2 months to complete. | --- | ---
 [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) | Inferential Statistics | Udacity | Approximately 2 months to complete. | --- | ---
-[Data Science Foundations: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | Inference, Statistics, Data Science, Probability, central limit theorem, continuous random variables, Bayes' Theorem, discrete random variables | Colorado Boulder | Approximately 112 hours to complete. | --- | ---
-[Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | Linear Model, R Programming, Statistical Model, regression, Calculus, and probability theory, Linear Algebra | Colorado Boulder | Approximately 150 hours to complete. | --- | ---
+[Data Science: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | Probability, Bayes' Theorem, discrete random variables | Colorado Boulder | Approximately 112 hours to complete. | --- | ---
+[Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | Linear Model, R Programming, Statistical Model | Colorado Boulder | Approximately 150 hours to complete. | --- | ---
 [Probability and Statistics: To p or not to p](https://www.coursera.org/learn/probability-statistics) | Statistics | University of London | Approximately 16 hours to complete. | --- | ---
 
 #### Computer Science III:
 
 Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-[Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) | Software Architecture, Java, Software Design Pattern, Object-Oriented Programming (OOP), Object-Oriented Design, Object-Oriented Analysis And Design | Alberta | Approximately 60 hours to complete. | --- | ---
-[Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Stacks and Queues, Symbol Tables. Theory of Computing, Turing Machines, Intractability, Computing Machines, Von Neumann Machines, Combinational Circuits, Central Processing Unit | Princeton | Approximately 20 hours to complete. | --- | ---
+[Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) | Software Architecture, Design Pattern, OOP, Object-Oriented Analysis And Design | Alberta | Approximately 60 hours to complete. | --- | ---
+[Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Stacks and Queues, Symbol Tables, Theory of Computing, Turing Machines, Intractability, Combinational Circuits | Princeton | Approximately 20 hours to complete. | --- | ---
 [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | Data Structure, Algorithms, Java Programming | Princeton | Approximately 60 hours to complete. | --- | ---
-[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Graphs, Data Structure, Algorithms, Data Compression | Princeton | Approximately 60 hours to complete. | --- | ---
+[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Graphs, Data Compression | Princeton | Approximately 60 hours to complete. | --- | ---
 
 #### Cloud Applications:
 
 Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-[DevOps](https://www.coursera.org/professional-certificates/devops-and-software-engineering) | Cloud Native, Devops, CI/CD, Application development, Software Engineering, Cloud Computing, Agile Software Development, Scrum Methodology | IBM | Approximately 180 hours to complete. | --- | ---
-[AWS Fundamentals](https://www.coursera.org/specializations/aws-fundamentals) | Compute, Cloud Computing Security, AWS cloud, Networking, Storage, aws, Information Privacy, Cloud Management, security, Cloud Applications, AWS Lambda, Amazon Lex | AWS | Approximately 32 hours to complete. | --- | ---
-[Modern Application Development with Python on AWS](https://www.coursera.org/specializations/aws-python-serverless-development) | Amazon Dynamodb, Cloud Computing Architecture, Serverless Computing, Application development, Compute, Cloud Computing Security, AWS cloud, Networking, Storage, NoSQL Database, Cryptography, Workload  | AWS | Approximately 60 hours to complete. | --- | ---
-[Building Cloud Computing Solutions at Scale](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale) | Cloud Platforms, Cloud API, Machine Learning, Cloud Databases, Cloud Computing, Github, Devops | Duke | Approximately 64 hours to complete. | --- | ---
-[Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | Software-Defined Networking, Distributed Computing, Big Data, Cloud Computing, Distributed Algorithm, C++, NoSQL, Cloud Infrastructure, Cloud Applications, Cloud Storage, Graphs, Machine Learning | Illinois | Approximately 128 hours to complete. | --- | ---
-[Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science) | Natural Language Processing with BERT, ML Pipelines and ML Operations (MLOps), A/B Testing and Model Deployment, Exploratory Data Analysis, ML Pipelines and MLOps, Model Training and Deployment with BERT, Model Debugging and Evaluation | AWS | Approximately 60 hours to complete. | --- | ---
-[Introduction to IOT](https://www.coursera.org/specializations/iot) | Arduino, Python Programming, Internet Of Things (IOT), Raspberry Pi, Microcontroller, Embedded System Design, Wireshark, C Programming, Debugging, Computer Programming, Application Programming Interfaces (API) | UCI | Approximately 72 hours to complete. | --- | ---
-[Hands-on Internet of Things](https://www.coursera.org/specializations/uiuc-iot) | Python Programming, Device Programming, Raspberry Pi, Machine Learning, Internet, Internet Of Things (IOT), Wireless, Front And Back Ends, Service Discovery | Illinois | Approximately 64 hours to complete. | --- | ---
-[Project Management](https://www.coursera.org/professional-certificates/google-project-management) | Organizational Culture, Career Development, Strategic Thinking, Change Management, Project Management, Stakeholder Management, Business Writing, Project Charter, Project Planning, Risk Management, Task Estimation, Procurement | Google | Approximately 240 hours to complete. | --- | ---
+[DevOps](https://www.coursera.org/professional-certificates/devops-and-software-engineering) | Devops, CI/CD, Cloud Computing, Agile, Scrum | IBM | Approximately 180 hours to complete. | --- | ---
+[AWS Fundamentals](https://www.coursera.org/specializations/aws-fundamentals) | Compute, Cloud Computing Security, AWS cloud, Networking, Amazon Lex | AWS | Approximately 32 hours to complete. | --- | ---
+[Python on AWS](https://www.coursera.org/specializations/aws-python-serverless-development) | Amazon Dynamodb, Cloud Computing Architecture, Serverless Computing, Application development, Compute | AWS | Approximately 60 hours to complete. | --- | ---
+[Building Cloud Computing Solutions at Scale](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale) | Cloud Platforms, Cloud API, Machine Learning | Duke | Approximately 64 hours to complete. | --- | ---
+[Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | Software-Defined Networking, Distributed Computing, Big Data, Cloud Computing, Distributed Algorithm, C++ | Illinois | Approximately 128 hours to complete. | --- | ---
+[Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science) | Natural Language Processing with BERT, ML Pipelines and ML Operations (MLOps), ML Pipelines and MLOps, Model Training and Deployment with BERT, Model Debugging and Evaluation | AWS | Approximately 60 hours to complete. | --- | ---
+[Introduction to IOT](https://www.coursera.org/specializations/iot) | Arduino, Python Programming, Embedded System Design, Wireshark, C Programming, Debugging, Computer Programming, Application Programming Interfaces (API) | UCI | Approximately 72 hours to complete. | --- | ---
+[Hands-on Internet of Things](https://www.coursera.org/specializations/uiuc-iot) | Machine Learning, Internet, Internet Of Things (IOT), Wireless, Front And Back Ends, Service Discovery | Illinois | Approximately 64 hours to complete. | --- | ---
+[Project Management](https://www.coursera.org/professional-certificates/google-project-management) | Organizational Culture, Career Development, Strategic Thinking, Change Management, Project Management, Task Estimation, Procurement | Google | Approximately 240 hours to complete. | --- | ---
 
 ##
 
@@ -202,8 +202,8 @@ Course link | Some of the topics covered | Offered by | ETA | Repository if any 
 
 Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-[Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | Bayesian Statistics, Data Science, R Programming, Data Analysis, Statistics, Bayesian Inference, Gibbs Sampling, Markov Model, Mixture Model, Forecasting, Dynamic Linear Modeling, Time Series | Santa Cruz | Approximately 96 hours to complete. | --- | ---
-[Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | R Programming, Linear Regression, Statistical Hypothesis Testing, Statistics, Linear Algebra, Confidence Interval, Biostatistics | Johns Hopkins | Approximately 40 hours to complete. | --- | ---
+[Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | Bayesian Statistics, Data Science, Statistics, Bayesian Inference, Gibbs Sampling, Markov Model, Time Series | Santa Cruz | Approximately 96 hours to complete. | --- | ---
+[Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | Statistical Hypothesis Testing, Statistics, Linear Algebra, Confidence Interval, Biostatistics | Johns Hopkins | Approximately 40 hours to complete. | --- | ---
 [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | Inference, Bayesian Network, Belief Propagation, Graphical Model, Markov Random Field, Gibbs Sampling, Markov Chain Monte Carlo (MCMC), Algorithms, Expectation–Maximization (EM) Algorithm | Stanford | Approximately 180 hours to complete. | --- | ---
 
 #### Machine Learning & AI I:
