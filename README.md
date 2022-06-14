@@ -76,26 +76,26 @@ Course link | Some of the topics covered | Offered by | ETA | Repository if any 
 [IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | Machine Learning, Python, SQL, and etc. | IBM | Approximately 200 hours to complete. | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
 [Data Science](https://www.coursera.org/specializations/jhu-data-science) | Statistics, R, Data Analysis, and etc. | Johns Hopkins | Approximately 330 hours to complete. | --- | ---
 [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Apache Spark, SQL, Sqlite, and etc. | UC Davis | Approximately 80 hours to complete. | --- | ---
-[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | Pandas, Matplotlib, Numpy, Scikit-Learn, NLTK, and etc. | Michigan University through Coursera | Approximately 140 hours to complete. | --- | --- 
+[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | Pandas, Matplotlib, Numpy, Scikit-Learn, NLTK, and etc. | Michigan University | Approximately 140 hours to complete. | --- | --- 
 
 #### Mathematics I:
 
 Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Number Theory, Real Analysis, Mathematical Logic, and etc. | Stanford University through Coursera | Approximately 39 hours to complete. | --- | [Certificate](https://www.coursera.org/account/accomplishments/verify/MFYQ2NNLB76F)
-[Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | Equations & Inequalities, Functions & Applications, Polynomials and Roots | Johns Hopkins through Coursera | Approximately 30 hours to complete. | --- | ---
-[Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | Differential Equations, Vector Calculus, Matrix Algebra, Computational Fluid Dynamics (CFD) | University of Honk Kong | Approximately 120 hours to complete. | --- | ---
-[Mathematics for machine learning](https://www.coursera.org/specializations/mathematics-machine-learning) | Vector Calculus, Gradient Descent, Dimensionality Reduction, Python Programming | Imperial College | Approximately 64 hours to complete. | --- | ---
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Number Theory, Mathematical Logic, and etc. | Stanford University | Approximately 39 hours to complete. | --- | [Certificate](https://www.coursera.org/account/accomplishments/verify/MFYQ2NNLB76F)
+[Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | Equations, Inequalities, Functions, Polynomials | Johns Hopkins | Approximately 30 hours to complete. | --- | ---
+[Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | Differential Equations, Calculus, Matrix, CFD | University of Honk Kong | Approximately 120 hours to complete. | --- | ---
+[Mathematics for machine learning](https://www.coursera.org/specializations/mathematics-machine-learning) | Vector Calculus, Gradient Descent, Dimensionality Reduction | Imperial College | Approximately 64 hours to complete. | --- | ---
 
 #### Computer Science I:
 
 Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-[Python for Everybody](https://www.coursera.org/specializations/python) | Json, Xml, Python Programming, Database (DBMS) | Michigan University through Coursera | Approximately 120 hours to complete. | [Repository](https://github.com/marcoshsq/Python4Everybody) | [Certificate](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB) |
-[CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | Data Structures, Python, SQL, HTML, CSS, JavaScript, Flask | CS50 | Approximately 100 hours to complete. | --- | ---
-[Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming) | Html, JavaScript, Cascading Style Sheets (CCS), Java Programming, Html5, Algorithms, Problem Solving, String (Computer Science), Data Structure | Duke University through Coursera | Approximately 80 hours to complete. | --- | ---
+[Python for Everybody](https://www.coursera.org/specializations/python) | Json, Xml, Python | Michigan University | Approximately 120 hours to complete. | [Repository](https://github.com/marcoshsq/Python4Everybody) | [Certificate](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB) |
+[CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | Python, SQL, HTML, CSS, JavaScript, Flask | CS50 | Approximately 100 hours to complete. | --- | ---
+[Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming) | JavaScript, CCS, Java, Html5, Algorithms, Data Structure | Duke University  | Approximately 80 hours to complete. | --- | ---
 Programming Languages: [Part A](https://www.coursera.org/learn/programming-languages), [Part B](https://www.coursera.org/learn/programming-languages-part-b), [Part C](https://www.coursera.org/learn/programming-languages-part-c) | Recursion, Higher-Order Function, Pattern Matching, Functional Programming | Washington University | Approximately 70 hours to complete. | --- | ---
-[The Unix Workbench](https://www.coursera.org/learn/unix) | Shell Script, Github, Bash (Unix Shell), Cloud Computing | Johns Hopkins through Coursera | Approximately 19 hours to complete. | --- | ---
+[The Unix Workbench](https://www.coursera.org/learn/unix) | Shell Script, Github, Bash, Cloud | Johns Hopkins | Approximately 19 hours to complete. | --- | ---
 
 ##
 
@@ -113,19 +113,19 @@ Programming Languages: [Part A](https://www.coursera.org/learn/programming-langu
 
 Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-[Precalculus through Data and Modelling](https://www.coursera.org/specializations/precalculus-data-modelling) | function analysis, vectors, regression, Data Analysis, Modelling | Johns Hopkins | Approximately 32 hours to complete. | --- | ---
-[Differential Calculus through Data and Modeling](https://www.coursera.org/specializations/differential-calculus-data-modeling) | function analysis, Mathematical Optimization, vectors, Data Analysis, Modelling | Johns Hopkins | Approximately 32 hours to complete. | --- | ---
-[Integral Calculus through Data and Modeling](https://www.coursera.org/specializations/integral-calculus-data-modeling) | Calculus, vectors. Data Analysis, Modeling, functional analysis | Johns Hopkins | Approximately 32 hours to complete. | --- | ---
-[An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | Bayes' Theorem, Normal Distribution, Probability, Conditional Probability | University of Zurich | Approximately 30 hours to complete. | --- | ---
+[Precalculus through Data and Modelling](https://www.coursera.org/specializations/precalculus-data-modelling) | vectors, regression, Modelling | Johns Hopkins | Approximately 32 hours to complete. | --- | ---
+[Differential Calculus through Data and Modeling](https://www.coursera.org/specializations/differential-calculus-data-modeling) | Mathematical Optimization, vectors, Data Analysis | Johns Hopkins | Approximately 32 hours to complete. | --- | ---
+[Integral Calculus through Data and Modeling](https://www.coursera.org/specializations/integral-calculus-data-modeling) | Calculus, Modeling, functional analysis | Johns Hopkins | Approximately 32 hours to complete. | --- | ---
+[An Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | Bayes' Theorem, Normal Distribution, Probability | University of Zurich | Approximately 30 hours to complete. | --- | ---
 [Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Statistics | Stanford | Approximately 15 hours to complete. | --- | ---
 
 #### Computer Science II:
 
 Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | Logic Gate, Computer Architecture, Assembly Languages, Hardware Description Language (HDL) | Hebrew University of Jerusalem | Approximately 44 hours to complete. | --- | ---
-[Build a Modern Computer from First Principles: From Nand to Tetris II](https://www.coursera.org/learn/nand2tetris2) | Computer Architecture, Compiler Construction, Compiler, Operating System | Hebrew University of Jerusalem | Approximately 90 hours to complete. | --- | ---
-[Introduction to Operating Systems](https://www.coursera.org/specializations/codio-introduction-operating-systems) | Virtualization, Memoru Management, Concurrency, Persistence | CODIO | Approximately 50 hours to complete. | --- | ---
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | Logic Gate, Computer Architecture, Assembly Languages | Hebrew University of Jerusalem | Approximately 44 hours to complete. | --- | ---
+[Build a Modern Computer from First Principles: From Nand to Tetris II](https://www.coursera.org/learn/nand2tetris2) | Computer Architecture, Compiler, Operating System | Hebrew University of Jerusalem | Approximately 90 hours to complete. | --- | ---
+[Introduction to Operating Systems](https://www.coursera.org/specializations/codio-introduction-operating-systems) | Virtualization, Concurrency, Persistence | CODIO | Approximately 50 hours to complete. | --- | ---
  
 
 #### Databases:
