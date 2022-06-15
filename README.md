@@ -111,35 +111,35 @@ Programming Languages: [Part A](https://www.coursera.org/learn/programming-langu
 
 #### Mathematics II:
 
-Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
-:-- | :-- | :-- | :-- | :-- | :-- |
-[Precalculus](https://www.coursera.org/specializations/precalculus-data-modelling) | vectors, regression, Modelling | Johns Hopkins | Approximately 32 hours to complete. | --- | ---
-[Differential Calculus](https://www.coursera.org/specializations/differential-calculus-data-modeling) | Mathematical Optimization, vectors, Data Analysis | Johns Hopkins | Approximately 32 hours to complete. | --- | ---
-[Integral Calculus](https://www.coursera.org/specializations/integral-calculus-data-modeling) | Calculus, Modeling, functional analysis | Johns Hopkins | Approximately 32 hours to complete. | --- | ---
-[Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | Bayes' Theorem, Normal Distribution, Probability | University of Zurich | Approximately 30 hours to complete. | --- | ---
-[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Statistics | Stanford | Approximately 15 hours to complete. | --- | ---
+Course link | Offered by | ETA | Repository if any | Course Certificate
+:-- | :-- | :-- | :-- | :-- |
+[Precalculus](https://www.coursera.org/specializations/precalculus-data-modelling) | Johns Hopkins | ~32h to complete. | --- | ---
+[Differential Calculus](https://www.coursera.org/specializations/differential-calculus-data-modeling) | Johns Hopkins | ~32h to complete. | --- | ---
+[Integral Calculus](https://www.coursera.org/specializations/integral-calculus-data-modeling) | Johns Hopkins | ~32h to complete. | --- | ---
+[Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | University of Zurich | ~30h to complete. | --- | ---
+[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Stanford | ~15h to complete. | --- | ---
 
 #### Computer Science II:
 
-Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
-:-- | :-- | :-- | :-- | :-- | :-- |
-[Build a Modern Computer Part 01](https://www.coursera.org/learn/build-a-computer) | Logic Gate, Computer Architecture, Assembly Languages | Hebrew University of Jerusalem | Approximately 44 hours to complete. | --- | ---
-[Build a Modern Computer Part 02](https://www.coursera.org/learn/nand2tetris2) | Computer Architecture, Compiler, Operating System | Hebrew University of Jerusalem | Approximately 90 hours to complete. | --- | ---
-[Introduction to Operating Systems](https://www.coursera.org/specializations/codio-introduction-operating-systems) | Virtualization, Concurrency, Persistence | CODIO | Approximately 50 hours to complete. | --- | ---
+Course link | Offered by | ETA | Repository if any | Course Certificate
+:-- | :-- | :-- | :-- | :-- |
+[Build a Modern Computer Part 01](https://www.coursera.org/learn/build-a-computer) | Hebrew University of Jerusalem | ~44h to complete. | --- | ---
+[Build a Modern Computer Part 02](https://www.coursera.org/learn/nand2tetris2) | Hebrew University of Jerusalem | ~90h to complete. | --- | ---
+[Introduction to Operating Systems](https://www.coursera.org/specializations/codio-introduction-operating-systems) | CODIO | ~50h to complete. | --- | ---
  
 
 #### Databases:
 
-Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
-:-- | :-- | :-- | :-- | :-- | :-- |
-[PostgreSQL](https://www.coursera.org/specializations/postgresql-for-everybody) | Json, Database (DBMS), NLP, SQL | Michigan University | Approximately 64 hours to complete. | --- | ---
-[Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | Database (DB) Design, Data Warehousing, NoSQL, database administration, Relational Models, Entity–Relationship (E-R) Model | Colorado Boulder | Approximately 100 hours to complete. | --- | ---
-[Data Mining](https://www.coursera.org/specializations/data-mining-foundations-practice) | Data mining project design and implementation | Colorado Boulder | Approximately 80 hours to complete. | --- | ---
-[Big Data](https://www.youtube.com/watch?v=JXsGL6uCoU4&t=625s) | Neo4j, Mongodb, Apache Spark, Apache Hadoop, Mapreduce, Cloudera, Splunk | UC San Diego | Approximately 96 hours to complete. | --- | ---
-[IBM - Data Engineer](https://www.coursera.org/professional-certificates/ibm-data-engineer) | RDBMS, ETL & Data Pipelines, NoSQL | IBM | Approximately 200 hours to complete. | --- | ---
-[IT Fundamentals for Cybersecurity](https://www.coursera.org/specializations/it-fundamentals-cybersecurity) | OS Security, Database vulnerabilities, INFOSEC Malware | IBM | Approximately 64 hours to complete. | --- | ---
-[DataOps Methodology](https://www.coursera.org/learn/ibm-data-ops-methodology) | DataOps | IBM | Approximately 10 hours to complete. | --- | ---
-[Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | Data Warehousing | University of Colorado | Approximately 120 hours to complete. | --- | ---
+Course link | Offered by | ETA | Repository if any | Course Certificate
+:-- | :-- | :-- | :-- | :-- |
+[PostgreSQL](https://www.coursera.org/specializations/postgresql-for-everybody) | Michigan University | ~64h to complete. | --- | ---
+[Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | Colorado Boulder | ~100h to complete. | --- | ---
+[Data Mining](https://www.coursera.org/specializations/data-mining-foundations-practice) | Colorado Boulder | ~80h to complete. | --- | ---
+[Big Data](https://www.youtube.com/watch?v=JXsGL6uCoU4&t=625s) | UC San Diego | ~96h to complete. | --- | ---
+[IBM - Data Engineer](https://www.coursera.org/professional-certificates/ibm-data-engineer) | IBM | ~200h to complete. | --- | ---
+[IT Fundamentals for Cybersecurity](https://www.coursera.org/specializations/it-fundamentals-cybersecurity) | IBM | ~64h to complete. | --- | ---
+[DataOps Methodology](https://www.coursera.org/learn/ibm-data-ops-methodology) | IBM | ~10h to complete. | --- | ---
+[Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | University of Colorado | ~120h to complete. | --- | ---
 
 ##
 
