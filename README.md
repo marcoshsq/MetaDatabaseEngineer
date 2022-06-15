@@ -72,7 +72,7 @@ The main guides I've followed to create this curriculum can be found in the ``Re
 #### Data Science Basics:
 
 Course link | Offered by | ETA | Repository if any | Course Certificate
-:-- | :-- | :-- | :-- | :-- | :-- |
+:-- | :-- | :-- | :-- | :-- |
 [IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM | Approximately 200 hours to complete. | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
 [Data Science](https://www.coursera.org/specializations/jhu-data-science) | Johns Hopkins | Approximately 330 hours to complete. | --- | ---
 [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | UC Davis | Approximately 80 hours to complete. | --- | ---
@@ -81,7 +81,7 @@ Course link | Offered by | ETA | Repository if any | Course Certificate
 #### Mathematics I:
 
 Course link | Offered by | ETA | Repository if any | Course Certificate
-:-- | :-- | :-- | :-- | :-- | :-- |
+:-- | :-- | :-- | :-- | :-- |
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford University | Approximately 39 hours to complete. | --- | [Certificate](https://www.coursera.org/account/accomplishments/verify/MFYQ2NNLB76F)
 [Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | Johns Hopkins | Approximately 30 hours to complete. | --- | ---
 [Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | University of Honk Kong | Approximately 120 hours to complete. | --- | ---
@@ -90,7 +90,7 @@ Course link | Offered by | ETA | Repository if any | Course Certificate
 #### Computer Science I:
 
 Course link | Offered by | ETA | Repository if any | Course Certificate
-:-- | :-- | :-- | :-- | :-- | :-- |
+:-- | :-- | :-- | :-- | :-- |
 [Python for Everybody](https://www.coursera.org/specializations/python) | Michigan University | Approximately 120 hours to complete. | [Repository](https://github.com/marcoshsq/Python4Everybody) | [Certificate](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB) |
 [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | CS50 | Approximately 100 hours to complete. | --- | ---
 [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming) | Duke University  | Approximately 80 hours to complete. | --- | ---
