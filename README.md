@@ -71,31 +71,31 @@ The main guides I've followed to create this curriculum can be found in the ``Re
 
 #### Data Science Basics:
 
-Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
+Course link | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-[IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | Machine Learning, Python, SQL, and etc. | IBM | Approximately 200 hours to complete. | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
-[Data Science](https://www.coursera.org/specializations/jhu-data-science) | Statistics, R, Data Analysis, and etc. | Johns Hopkins | Approximately 330 hours to complete. | --- | ---
-[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Apache Spark, SQL, Sqlite, and etc. | UC Davis | Approximately 80 hours to complete. | --- | ---
-[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | Pandas, Matplotlib, Numpy, Scikit-Learn, NLTK, and etc. | Michigan University | Approximately 140 hours to complete. | --- | --- 
+[IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM | Approximately 200 hours to complete. | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
+[Data Science](https://www.coursera.org/specializations/jhu-data-science) | Johns Hopkins | Approximately 330 hours to complete. | --- | ---
+[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | UC Davis | Approximately 80 hours to complete. | --- | ---
+[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | Michigan University | Approximately 140 hours to complete. | --- | --- 
 
 #### Mathematics I:
 
-Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
+Course link | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Number Theory, Mathematical Logic, and etc. | Stanford University | Approximately 39 hours to complete. | --- | [Certificate](https://www.coursera.org/account/accomplishments/verify/MFYQ2NNLB76F)
-[Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | Equations, Inequalities, Functions, Polynomials | Johns Hopkins | Approximately 30 hours to complete. | --- | ---
-[Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | Differential Equations, Calculus, Matrix, CFD | University of Honk Kong | Approximately 120 hours to complete. | --- | ---
-[Mathematics for ML](https://www.coursera.org/specializations/mathematics-machine-learning) | Vector Calculus, Gradient Descent, Dimensionality Reduction | Imperial College | Approximately 64 hours to complete. | --- | ---
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford University | Approximately 39 hours to complete. | --- | [Certificate](https://www.coursera.org/account/accomplishments/verify/MFYQ2NNLB76F)
+[Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | Johns Hopkins | Approximately 30 hours to complete. | --- | ---
+[Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | University of Honk Kong | Approximately 120 hours to complete. | --- | ---
+[Mathematics for ML](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College | Approximately 64 hours to complete. | --- | ---
 
 #### Computer Science I:
 
-Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
+Course link | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- | :-- |
-[Python for Everybody](https://www.coursera.org/specializations/python) | Json, Xml, Python | Michigan University | Approximately 120 hours to complete. | [Repository](https://github.com/marcoshsq/Python4Everybody) | [Certificate](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB) |
-[CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | Python, SQL, HTML, CSS, JavaScript, Flask | CS50 | Approximately 100 hours to complete. | --- | ---
-[Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming) | JavaScript, CCS, Java, Html5, Algorithms, Data Structure | Duke University  | Approximately 80 hours to complete. | --- | ---
-Programming Languages: [Part A](https://www.coursera.org/learn/programming-languages), [Part B](https://www.coursera.org/learn/programming-languages-part-b), [Part C](https://www.coursera.org/learn/programming-languages-part-c) | Recursion, Higher-Order Function, Pattern Matching, Functional Programming | Washington University | Approximately 70 hours to complete. | --- | ---
-[The Unix Workbench](https://www.coursera.org/learn/unix) | Shell Script, Github, Bash, Cloud | Johns Hopkins | Approximately 19 hours to complete. | --- | ---
+[Python for Everybody](https://www.coursera.org/specializations/python) | Michigan University | Approximately 120 hours to complete. | [Repository](https://github.com/marcoshsq/Python4Everybody) | [Certificate](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB) |
+[CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | CS50 | Approximately 100 hours to complete. | --- | ---
+[Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming) | Duke University  | Approximately 80 hours to complete. | --- | ---
+Programming Languages: [Part A](https://www.coursera.org/learn/programming-languages), [Part B](https://www.coursera.org/learn/programming-languages-part-b), [Part C](https://www.coursera.org/learn/programming-languages-part-c) | Washington University | Approximately 70 hours to complete. | --- | ---
+[The Unix Workbench](https://www.coursera.org/learn/unix) | Johns Hopkins | Approximately 19 hours to complete. | --- | ---
 
 ##
 
