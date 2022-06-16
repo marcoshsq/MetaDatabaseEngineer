@@ -87,16 +87,6 @@ Course link | Offered by | ETA | Repository if any | Course Certificate
 [Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | University of Honk Kong | ~120h to complete. | --- | ---
 [Mathematics for ML](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College | ~64h to complete. | --- | ---
 
-#### Computer Science I:
-
-Course link | Offered by | ETA | Repository if any | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
-[Python for Everybody](https://www.coursera.org/specializations/python) | Michigan University | ~120h to complete. | [Repository](https://github.com/marcoshsq/Python4Everybody) | [Certificate](https://www.coursera.org/account/accomplishments/specialization/2T9578E32DVB) |
-[CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2022/) | CS50 | ~100h to complete. | --- | ---
-[Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming) | Duke University  | ~80h to complete. | --- | ---
-Programming Languages: [Part A](https://www.coursera.org/learn/programming-languages), [Part B](https://www.coursera.org/learn/programming-languages-part-b), [Part C](https://www.coursera.org/learn/programming-languages-part-c) | Washington University | ~70h to complete. | --- | ---
-[The Unix Workbench](https://www.coursera.org/learn/unix) | Johns Hopkins | ~19h to complete. | --- | ---
-
 ##
 
 <div align="right">
@@ -118,14 +108,6 @@ Course link | Offered by | ETA | Repository if any | Course Certificate
 [Integral Calculus](https://www.coursera.org/specializations/integral-calculus-data-modeling) | Johns Hopkins | ~32h to complete. | --- | ---
 [Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | University of Zurich | ~30h to complete. | --- | ---
 [Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Stanford | ~15h to complete. | --- | ---
-
-#### Computer Science II:
-
-Course link | Offered by | ETA | Repository if any | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
-[Build a Modern Computer Part 01](https://www.coursera.org/learn/build-a-computer) | Hebrew University of Jerusalem | ~44h to complete. | --- | ---
-[Build a Modern Computer Part 02](https://www.coursera.org/learn/nand2tetris2) | Hebrew University of Jerusalem | ~90h to complete. | --- | ---
-[Introduction to Operating Systems](https://www.coursera.org/specializations/codio-introduction-operating-systems) | CODIO | ~50h to complete. | --- | ---
  
 
 #### Databases:
@@ -162,15 +144,6 @@ Course link | Some of the topics covered | Offered by | ETA | Repository if any 
 [Data Science: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | Probability, Bayes' Theorem, discrete random variables | Colorado Boulder | Approximately 112 hours to complete. | --- | ---
 [Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | Linear Model, R Programming, Statistical Model | Colorado Boulder | Approximately 150 hours to complete. | --- | ---
 [Probability and Statistics: To p or not to p](https://www.coursera.org/learn/probability-statistics) | Statistics | University of London | Approximately 16 hours to complete. | --- | ---
-
-#### Computer Science III:
-
-Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
-:-- | :-- | :-- | :-- | :-- | :-- |
-[Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture) | Software Architecture, Design Pattern, OOP, Object-Oriented Analysis And Design | Alberta | Approximately 60 hours to complete. | --- | ---
-[Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Stacks and Queues, Symbol Tables, Theory of Computing, Turing Machines, Intractability, Combinational Circuits | Princeton | Approximately 20 hours to complete. | --- | ---
-[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) | Data Structure, Algorithms, Java Programming | Princeton | Approximately 60 hours to complete. | --- | ---
-[Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) | Graphs, Data Compression | Princeton | Approximately 60 hours to complete. | --- | ---
 
 #### Cloud Applications:
 
