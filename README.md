@@ -118,7 +118,6 @@ Course link | Offered by | ETA | Repository if any | Course Certificate
 [Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | Colorado Boulder | ~100h to complete. | --- | ---
 [Data Mining](https://www.coursera.org/specializations/data-mining-foundations-practice) | Colorado Boulder | ~80h to complete. | --- | ---
 [Big Data](https://www.youtube.com/watch?v=JXsGL6uCoU4&t=625s) | UC San Diego | ~96h to complete. | --- | ---
-[IBM - Data Engineer](https://www.coursera.org/professional-certificates/ibm-data-engineer) | IBM | ~200h to complete. | --- | ---
 [IT Fundamentals for Cybersecurity](https://www.coursera.org/specializations/it-fundamentals-cybersecurity) | IBM | ~64h to complete. | --- | ---
 [DataOps Methodology](https://www.coursera.org/learn/ibm-data-ops-methodology) | IBM | ~10h to complete. | --- | ---
 [Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | University of Colorado | ~120h to complete. | --- | ---
@@ -153,7 +152,6 @@ Course link | Some of the topics covered | Offered by | ETA | Repository if any 
 [AWS Fundamentals](https://www.coursera.org/specializations/aws-fundamentals) | Compute, Cloud Computing Security, AWS cloud, Networking, Amazon Lex | AWS | Approximately 32 hours to complete. | --- | ---
 [Python on AWS](https://www.coursera.org/specializations/aws-python-serverless-development) | Amazon Dynamodb, Cloud Computing Architecture, Serverless Computing, Application development, Compute | AWS | Approximately 60 hours to complete. | --- | ---
 [Building Cloud Computing Solutions at Scale](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale) | Cloud Platforms, Cloud API, Machine Learning | Duke | Approximately 64 hours to complete. | --- | ---
-[Cloud Computing](https://www.coursera.org/specializations/cloud-computing) | Software-Defined Networking, Distributed Computing, Big Data, Cloud Computing, Distributed Algorithm, C++ | Illinois | Approximately 128 hours to complete. | --- | ---
 [Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science) | Natural Language Processing with BERT, ML Pipelines and ML Operations (MLOps), ML Pipelines and MLOps, Model Training and Deployment with BERT, Model Debugging and Evaluation | AWS | Approximately 60 hours to complete. | --- | ---
 [Introduction to IOT](https://www.coursera.org/specializations/iot) | Arduino, Python Programming, Embedded System Design, Wireshark, C Programming, Debugging, Computer Programming, Application Programming Interfaces (API) | UCI | Approximately 72 hours to complete. | --- | ---
 [Hands-on Internet of Things](https://www.coursera.org/specializations/uiuc-iot) | Machine Learning, Internet, Internet Of Things (IOT), Wireless, Front And Back Ends, Service Discovery | Illinois | Approximately 64 hours to complete. | --- | ---
