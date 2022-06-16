@@ -31,7 +31,7 @@
 	- [Cloud Computing](https://github.com/marcoshsq/DataScienceCurriculum#cloud-computing)
 	- [Machine Learning](https://github.com/marcoshsq/DataScienceCurriculum#machine-learning)
 - [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
-- [Important Notes]()
+- [Important Notes](https://github.com/marcoshsq/DataScienceCurriculum#important-notes)
 - [References](https://github.com/marcoshsq/DataScienceCurriculum#references)
 
 ---
