@@ -25,11 +25,11 @@
 
 - [About](https://github.com/marcoshsq/DataScienceCurriculum#about)
 - [Courses](https://github.com/marcoshsq/DataScienceCurriculum#courses)
-	- [Introduction](https://github.com/marcoshsq/DataScienceCurriculum#part-01---introduction-to-data-science)
-	- [Mathematics]()
-	- [Databases](https://github.com/marcoshsq/DataScienceCurriculum#part-02---databases)
-	- [Cloud Computing](https://github.com/marcoshsq/DataScienceCurriculum#part-03---cloud-computing)
-	- [Machine Learning](https://github.com/marcoshsq/DataScienceCurriculum#part-04---machine-learning)
+	- [Introduction](https://github.com/marcoshsq/DataScienceCurriculum#introduction)
+	- [Mathematics](https://github.com/marcoshsq/DataScienceCurriculum#mathematics)
+	- [Databases](https://github.com/marcoshsq/DataScienceCurriculum#databases)
+	- [Cloud Computing](https://github.com/marcoshsq/DataScienceCurriculum#cloud-computing)
+	- [Machine Learning](https://github.com/marcoshsq/DataScienceCurriculum#machine-learning)
 - [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
 - [References](https://github.com/marcoshsq/DataScienceCurriculum#references)
 
@@ -58,15 +58,10 @@ The main guides I've followed to create this curriculum can be found in the ``Re
 	
 </div>
 
-<!--Fim da seção sobre.-->
 
 ---
 
-<!--Listar os cursos aqui u.u-->
-
 ## Courses. 
-
-<!--Part 1-->
 
 ### Introduction:
 
