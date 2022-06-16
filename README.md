@@ -45,19 +45,17 @@ In total, the curriculum has about ~5,000 hours of course content, plus supporti
 
 **This repository is structured as follows:**
 
-We have four parts, ``Introduction to Data Science``, ``Databases``, ``Cloud Computing`` , and ``Machine Learning``.
-
-Part one (``Introduction to Data Science``) has an overview, focusing on the introduction of the main concepts of the area. The second part focuses on database, while the third part is cloud and lastly, Artificial Intelligence. It is important to note that Mathematics is the main focus, so it's present in all four parts.
+We have five parts, ``Introduction``, ``Mathematics``, ``Databases``, ``Cloud Computing`` , and ``Machine Learning``.
 
 The main guides I've followed to create this curriculum can be found in the ``References`` section, at the end of this ``README`` page.
 
 ##
+
 <div align="right">
 	
 [Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
 	
 </div>
-
 
 ---
 
@@ -71,6 +69,14 @@ Courses | Repository if any | Certificate
 [Data Science](https://www.coursera.org/specializations/jhu-data-science) | --- | ---
 [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | --- | ---
 [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | --- | --- 
+
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+	
+</div>
 
 ### Mathematics:
 
@@ -93,7 +99,14 @@ Courses | Repository if any | Certificate
 [Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | --- | ---
 [Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | --- | ---
 [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | --- | ---
- 
+
+##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+	
+</div>
 
 ### Databases:
 
@@ -109,6 +122,12 @@ Courses | Repository if any | Certificate
 
 ##
 
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+	
+</div>
+
 ### Cloud Applications:
 
 Courses | Repository if any | Certificate
@@ -122,6 +141,12 @@ Courses | Repository if any | Certificate
 [Hands-on Internet of Things](https://www.coursera.org/specializations/uiuc-iot) | --- | ---
 
 ##
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+	
+</div>
 
 ### Machine Learning & AI:
 
