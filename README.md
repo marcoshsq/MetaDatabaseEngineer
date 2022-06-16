@@ -159,10 +159,10 @@ Courses | Repository if any | Certificate
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
+[CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) | --- | ---
 [Creativity and A.I.](https://www.coursera.org/specializations/creativity-ai) | --- | ---
 [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) | --- | ---
 [AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | --- | ---
-[CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) | --- | ---
 [Machine Learning](https://www.coursera.org/specializations/machine-learning) | --- | ---
 [Deep Learning](https://www.coursera.org/specializations/deep-learning) | --- | ---
 [NLP](https://www.coursera.org/specializations/natural-language-processing) | --- | ---
