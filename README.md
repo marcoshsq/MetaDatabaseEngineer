@@ -27,7 +27,7 @@
 - [Courses](https://github.com/marcoshsq/DataScienceCurriculum#courses)
 	- [Introduction](https://github.com/marcoshsq/DataScienceCurriculum#introduction)
 	- [Mathematics](https://github.com/marcoshsq/DataScienceCurriculum#mathematics)
-	- [Statistics & Probability]()
+	- [Statistics & Probability](https://github.com/marcoshsq/DataScienceCurriculum#statistics--probability)
 	- [Databases](https://github.com/marcoshsq/DataScienceCurriculum#databases)
 	- [Cloud Computing](https://github.com/marcoshsq/DataScienceCurriculum#cloud-applications)
 	- [Machine Learning](https://github.com/marcoshsq/DataScienceCurriculum#machine-learning--ai)
