@@ -81,9 +81,9 @@ Courses | Repository if any | Certificate
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford University | ~39h to complete. | --- | [Certificate](https://www.coursera.org/account/accomplishments/verify/MFYQ2NNLB76F)
-[Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | Johns Hopkins | ~30h to complete. | --- | ---
-[Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | University of Honk Kong | ~120h to complete. | --- | ---
+[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | --- | [Certificate](https://www.coursera.org/account/accomplishments/verify/MFYQ2NNLB76F)
+[Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | --- | ---
+[Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | --- | ---
 [Mathematics for ML](https://www.coursera.org/specializations/mathematics-machine-learning) | --- | ---
 [Precalculus](https://www.coursera.org/specializations/precalculus-data-modelling) | --- | ---
 [Differential Calculus](https://www.coursera.org/specializations/differential-calculus-data-modeling) | --- | ---
