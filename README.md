@@ -43,8 +43,6 @@
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate curriculum for Data Science, minus general education.
 
-In total, the curriculum has about ~5,000 hours of course content, plus supporting material like books and extra documents for reference. Therefore, this whole curriculum can be completed in about five years with a dedication of 20 hours/week.
-
 **This repository is structured as follows:**
 
 We have five parts, ``Introduction``, ``Mathematics``, ``Statistics``, ``Databases``, ``Cloud Computing`` , and ``Machine Learning``.
