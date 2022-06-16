@@ -27,6 +27,7 @@
 - [Courses](https://github.com/marcoshsq/DataScienceCurriculum#courses)
 	- [Introduction](https://github.com/marcoshsq/DataScienceCurriculum#introduction)
 	- [Mathematics](https://github.com/marcoshsq/DataScienceCurriculum#mathematics)
+	- [Statistics & Probability]()
 	- [Databases](https://github.com/marcoshsq/DataScienceCurriculum#databases)
 	- [Cloud Computing](https://github.com/marcoshsq/DataScienceCurriculum#cloud-applications)
 	- [Machine Learning](https://github.com/marcoshsq/DataScienceCurriculum#machine-learning--ai)
@@ -46,7 +47,7 @@ In total, the curriculum has about ~5,000 hours of course content, plus supporti
 
 **This repository is structured as follows:**
 
-We have five parts, ``Introduction``, ``Mathematics``, ``Databases``, ``Cloud Computing`` , and ``Machine Learning``.
+We have five parts, ``Introduction``, ``Mathematics``, ``Statistics``, ``Databases``, ``Cloud Computing`` , and ``Machine Learning``.
 
 The main guides I've followed to create this curriculum can be found in the ``References`` section, at the end of this ``README`` page.
 
@@ -90,6 +91,11 @@ Courses | Repository if any | Certificate
 [Precalculus](https://www.coursera.org/specializations/precalculus-data-modelling) | --- | ---
 [Differential Calculus](https://www.coursera.org/specializations/differential-calculus-data-modeling) | --- | ---
 [Integral Calculus](https://www.coursera.org/specializations/integral-calculus-data-modeling) | --- | ---
+
+### Statistics & Probability:
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--: 
 [Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | --- | ---
 [Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | --- | ---
 [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | --- | ---
