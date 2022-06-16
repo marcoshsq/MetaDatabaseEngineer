@@ -200,6 +200,12 @@ Courses | Repository if any | Certificate
 - [Interpretability of Computational Intelligence-Based Regression Models](https://www.amazon.com.br/Interpretability-Computational-Intelligence-Based-Regression-Models/dp/3319219413) - János Abonyi
 - [SQL for Smarties: Advanced SQL Programming](https://www.amazon.com.br/Joe-Celkos-SQL-Smarties-Programming/dp/0123820227) - Joe Celko
 
+## Important Notes.
+
+In addition to this repository, which focuses on data science, I am also studying Computer Science. Which can be found in this repository.
+
+- [Computer Science Curriculum](https://github.com/marcoshsq/ComputerScienceCurriculum)
+
 ## References.
 
 To build this curriculum, I used these sources:
