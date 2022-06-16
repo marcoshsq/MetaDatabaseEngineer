@@ -31,6 +31,7 @@
 	- [Cloud Computing](https://github.com/marcoshsq/DataScienceCurriculum#cloud-computing)
 	- [Machine Learning](https://github.com/marcoshsq/DataScienceCurriculum#machine-learning)
 - [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
+- [Important Notes]()
 - [References](https://github.com/marcoshsq/DataScienceCurriculum#references)
 
 ---
@@ -112,13 +113,13 @@ Courses | Repository if any | Certificate
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
-[PostgreSQL](https://www.coursera.org/specializations/postgresql-for-everybody) | Michigan University | ~64h to complete. | --- | ---
-[Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | Colorado Boulder | ~100h to complete. | --- | ---
-[Data Mining](https://www.coursera.org/specializations/data-mining-foundations-practice) | Colorado Boulder | ~80h to complete. | --- | ---
-[Big Data](https://www.youtube.com/watch?v=JXsGL6uCoU4&t=625s) | UC San Diego | ~96h to complete. | --- | ---
-[IT Fundamentals for Cybersecurity](https://www.coursera.org/specializations/it-fundamentals-cybersecurity) | IBM | ~64h to complete. | --- | ---
-[DataOps Methodology](https://www.coursera.org/learn/ibm-data-ops-methodology) | IBM | ~10h to complete. | --- | ---
-[Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | University of Colorado | ~120h to complete. | --- | ---
+[PostgreSQL](https://www.coursera.org/specializations/postgresql-for-everybody) | --- | ---
+[Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | --- | ---
+[Data Mining](https://www.coursera.org/specializations/data-mining-foundations-practice) | --- | ---
+[Big Data](https://www.youtube.com/watch?v=JXsGL6uCoU4&t=625s) | --- | ---
+[IT Fundamentals for Cybersecurity](https://www.coursera.org/specializations/it-fundamentals-cybersecurity) | --- | ---
+[DataOps Methodology](https://www.coursera.org/learn/ibm-data-ops-methodology) | --- | ---
+[Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | --- | ---
 
 ##
 
