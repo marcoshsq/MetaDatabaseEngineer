@@ -67,50 +67,36 @@ The main guides I've followed to create this curriculum can be found in the ``Re
 
 <!--Part 1-->
 
-### Part 01 - Introduction to Data Science.
+### Introduction:
 
-#### Data Science Basics:
+Courses | Repository if any | Certificate
+:-- | :--: | :--: 
+[IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
+[Data Science](https://www.coursera.org/specializations/jhu-data-science) | --- | ---
+[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | --- | ---
+[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | --- | --- 
 
-Course link | Offered by | ETA | Repository if any | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
-[IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM | ~200h to complete. | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
-[Data Science](https://www.coursera.org/specializations/jhu-data-science) | Johns Hopkins | ~330h to complete. | --- | ---
-[Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | UC Davis | ~80h to complete. | --- | ---
-[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | Michigan University | ~140h to complete. | --- | --- 
-
-#### Mathematics I:
+### Mathematics I:
 
 Course link | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford University | ~39h to complete. | --- | [Certificate](https://www.coursera.org/account/accomplishments/verify/MFYQ2NNLB76F)
 [Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | Johns Hopkins | ~30h to complete. | --- | ---
 [Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | University of Honk Kong | ~120h to complete. | --- | ---
-[Mathematics for ML](https://www.coursera.org/specializations/mathematics-machine-learning) | Imperial College | ~64h to complete. | --- | ---
-
-##
-
-<div align="right">
-	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
-	
-</div>
-
-<!--Part 2-->
-
-### Part 02 - Databases.
-
-#### Mathematics II:
-
-Course link | Offered by | ETA | Repository if any | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
-[Precalculus](https://www.coursera.org/specializations/precalculus-data-modelling) | Johns Hopkins | ~32h to complete. | --- | ---
-[Differential Calculus](https://www.coursera.org/specializations/differential-calculus-data-modeling) | Johns Hopkins | ~32h to complete. | --- | ---
-[Integral Calculus](https://www.coursera.org/specializations/integral-calculus-data-modeling) | Johns Hopkins | ~32h to complete. | --- | ---
-[Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | University of Zurich | ~30h to complete. | --- | ---
-[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | Stanford | ~15h to complete. | --- | ---
+[Mathematics for ML](https://www.coursera.org/specializations/mathematics-machine-learning) | --- | ---
+[Precalculus](https://www.coursera.org/specializations/precalculus-data-modelling) | --- | ---
+[Differential Calculus](https://www.coursera.org/specializations/differential-calculus-data-modeling) | --- | ---
+[Integral Calculus](https://www.coursera.org/specializations/integral-calculus-data-modeling) | --- | ---
+[Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | --- | ---
+[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | --- | ---
+[Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | --- | ---
+[Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) | --- | ---
+[Data Science: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | --- | ---
+[Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | --- | ---
+[Probability and Statistics: To p or not to p](https://www.coursera.org/learn/probability-statistics) | --- | ---
  
 
-#### Databases:
+### Databases:
 
 Course link | Offered by | ETA | Repository if any | Course Certificate
 :-- | :-- | :-- | :-- | :-- |
@@ -124,26 +110,6 @@ Course link | Offered by | ETA | Repository if any | Course Certificate
 
 ##
 
-<div align="right">
-	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
-	
-</div>
-
-<!--Part 3-->
-
-### Part 03 - Cloud Computing.
-
-#### Mathematics III:
-
-Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
-:-- | :-- | :-- | :-- | :-- | :-- |
-[Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | Descriptive Statistics | Udacity | Approximately 2 months to complete. | --- | ---
-[Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) | Inferential Statistics | Udacity | Approximately 2 months to complete. | --- | ---
-[Data Science: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | Probability, Bayes' Theorem, discrete random variables | Colorado Boulder | Approximately 112 hours to complete. | --- | ---
-[Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | Linear Model, R Programming, Statistical Model | Colorado Boulder | Approximately 150 hours to complete. | --- | ---
-[Probability and Statistics: To p or not to p](https://www.coursera.org/learn/probability-statistics) | Statistics | University of London | Approximately 16 hours to complete. | --- | ---
-
 #### Cloud Applications:
 
 Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
@@ -155,7 +121,7 @@ Course link | Some of the topics covered | Offered by | ETA | Repository if any 
 [Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science) | Natural Language Processing with BERT, ML Pipelines and ML Operations (MLOps), ML Pipelines and MLOps, Model Training and Deployment with BERT, Model Debugging and Evaluation | AWS | Approximately 60 hours to complete. | --- | ---
 [Introduction to IOT](https://www.coursera.org/specializations/iot) | Arduino, Python Programming, Embedded System Design, Wireshark, C Programming, Debugging, Computer Programming, Application Programming Interfaces (API) | UCI | Approximately 72 hours to complete. | --- | ---
 [Hands-on Internet of Things](https://www.coursera.org/specializations/uiuc-iot) | Machine Learning, Internet, Internet Of Things (IOT), Wireless, Front And Back Ends, Service Discovery | Illinois | Approximately 64 hours to complete. | --- | ---
-[Project Management](https://www.coursera.org/professional-certificates/google-project-management) | Organizational Culture, Career Development, Strategic Thinking, Change Management, Project Management, Task Estimation, Procurement | Google | Approximately 240 hours to complete. | --- | ---
+
 
 ##
 
