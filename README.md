@@ -25,10 +25,11 @@
 
 - [About](https://github.com/marcoshsq/DataScienceCurriculum#about)
 - [Courses](https://github.com/marcoshsq/DataScienceCurriculum#courses)
-	- [Part 01 - Introduction to Data Science](https://github.com/marcoshsq/DataScienceCurriculum#part-01---introduction-to-data-science)
-	- [Part 02 - Databases](https://github.com/marcoshsq/DataScienceCurriculum#part-02---databases)
-	- [Part 03 - Cloud Computing](https://github.com/marcoshsq/DataScienceCurriculum#part-03---cloud-computing)
-	- [Part 04 - Machine Learning](https://github.com/marcoshsq/DataScienceCurriculum#part-04---machine-learning)
+	- [Introduction](https://github.com/marcoshsq/DataScienceCurriculum#part-01---introduction-to-data-science)
+	- [Mathematics]()
+	- [Databases](https://github.com/marcoshsq/DataScienceCurriculum#part-02---databases)
+	- [Cloud Computing](https://github.com/marcoshsq/DataScienceCurriculum#part-03---cloud-computing)
+	- [Machine Learning](https://github.com/marcoshsq/DataScienceCurriculum#part-04---machine-learning)
 - [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
 - [References](https://github.com/marcoshsq/DataScienceCurriculum#references)
 
@@ -76,10 +77,10 @@ Courses | Repository if any | Certificate
 [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | --- | ---
 [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | --- | --- 
 
-### Mathematics I:
+### Mathematics:
 
-Course link | Offered by | ETA | Repository if any | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
+Courses | Repository if any | Certificate
+:-- | :--: | :--: 
 [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | Stanford University | ~39h to complete. | --- | [Certificate](https://www.coursera.org/account/accomplishments/verify/MFYQ2NNLB76F)
 [Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | Johns Hopkins | ~30h to complete. | --- | ---
 [Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | University of Honk Kong | ~120h to complete. | --- | ---
@@ -94,12 +95,15 @@ Course link | Offered by | ETA | Repository if any | Course Certificate
 [Data Science: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | --- | ---
 [Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | --- | ---
 [Probability and Statistics: To p or not to p](https://www.coursera.org/learn/probability-statistics) | --- | ---
+[Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | --- | ---
+[Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | --- | ---
+[Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | --- | ---
  
 
 ### Databases:
 
-Course link | Offered by | ETA | Repository if any | Course Certificate
-:-- | :-- | :-- | :-- | :-- |
+Courses | Repository if any | Certificate
+:-- | :--: | :--: 
 [PostgreSQL](https://www.coursera.org/specializations/postgresql-for-everybody) | Michigan University | ~64h to complete. | --- | ---
 [Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | Colorado Boulder | ~100h to complete. | --- | ---
 [Data Mining](https://www.coursera.org/specializations/data-mining-foundations-practice) | Colorado Boulder | ~80h to complete. | --- | ---
@@ -110,61 +114,36 @@ Course link | Offered by | ETA | Repository if any | Course Certificate
 
 ##
 
-#### Cloud Applications:
+### Cloud Applications:
 
-Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
-:-- | :-- | :-- | :-- | :-- | :-- |
-[DevOps](https://www.coursera.org/professional-certificates/devops-and-software-engineering) | Devops, CI/CD, Cloud Computing, Agile, Scrum | IBM | Approximately 180 hours to complete. | --- | ---
-[AWS Fundamentals](https://www.coursera.org/specializations/aws-fundamentals) | Compute, Cloud Computing Security, AWS cloud, Networking, Amazon Lex | AWS | Approximately 32 hours to complete. | --- | ---
-[Python on AWS](https://www.coursera.org/specializations/aws-python-serverless-development) | Amazon Dynamodb, Cloud Computing Architecture, Serverless Computing, Application development, Compute | AWS | Approximately 60 hours to complete. | --- | ---
-[Building Cloud Computing Solutions at Scale](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale) | Cloud Platforms, Cloud API, Machine Learning | Duke | Approximately 64 hours to complete. | --- | ---
-[Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science) | Natural Language Processing with BERT, ML Pipelines and ML Operations (MLOps), ML Pipelines and MLOps, Model Training and Deployment with BERT, Model Debugging and Evaluation | AWS | Approximately 60 hours to complete. | --- | ---
-[Introduction to IOT](https://www.coursera.org/specializations/iot) | Arduino, Python Programming, Embedded System Design, Wireshark, C Programming, Debugging, Computer Programming, Application Programming Interfaces (API) | UCI | Approximately 72 hours to complete. | --- | ---
-[Hands-on Internet of Things](https://www.coursera.org/specializations/uiuc-iot) | Machine Learning, Internet, Internet Of Things (IOT), Wireless, Front And Back Ends, Service Discovery | Illinois | Approximately 64 hours to complete. | --- | ---
-
+Courses | Repository if any | Certificate
+:-- | :--: | :--: 
+[DevOps](https://www.coursera.org/professional-certificates/devops-and-software-engineering) | --- | ---
+[AWS Fundamentals](https://www.coursera.org/specializations/aws-fundamentals) | --- | ---
+[Python on AWS](https://www.coursera.org/specializations/aws-python-serverless-development) | --- | ---
+[Building Cloud Computing Solutions at Scale](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale) | --- | ---
+[Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science) | --- | ---
+[Introduction to IOT](https://www.coursera.org/specializations/iot) | --- | ---
+[Hands-on Internet of Things](https://www.coursera.org/specializations/uiuc-iot) | --- | ---
 
 ##
 
-<div align="right">
-	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
-	
-</div>
+### Machine Learning & AI:
 
-<!--Part 4-->
-
-### Part 04 - Machine Learning.
-
-#### Mathematics IV:
-
-Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
-:-- | :-- | :-- | :-- | :-- | :-- |
-[Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | Bayesian Statistics, Data Science, Statistics, Bayesian Inference, Gibbs Sampling, Markov Model, Time Series | Santa Cruz | Approximately 96 hours to complete. | --- | ---
-[Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | Statistical Hypothesis Testing, Statistics, Linear Algebra, Confidence Interval, Biostatistics | Johns Hopkins | Approximately 40 hours to complete. | --- | ---
-[Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | Inference, Bayesian Network, Belief Propagation, Graphical Model, Markov Random Field, Gibbs Sampling, Markov Chain Monte Carlo (MCMC), Algorithms, Expectation–Maximization (EM) Algorithm | Stanford | Approximately 180 hours to complete. | --- | ---
-
-#### Machine Learning & AI I:
-
-Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
-:-- | :-- | :-- | :-- | :-- | :-- |
-[Creativity and A.I.](https://www.coursera.org/specializations/creativity-ai) | Design Thinking, Business Applications, Artificial Intelligence (A.I.), Applied Creativity, Computational Creativity, Machine Learning, Innovation Strategies, Theories of Creativity, Organizational Transformation | Parsons | Approximately 64 hours to complete. | --- | ---
-[AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) | Workflow of Machine Learning projects, AI terminology, AI strategy, Workflow of Data Science projects | DeepLearning.AI | Approximately 12 hours to complete. | --- | ---
-[AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | Artificial Intelligence (AI), Machine Learning, Management, Analytics, Fraud Prevention | Penn | Approximately 32 hours to complete. | --- | ---
-[CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) | Search, Knowledge, Uncertainty, Optimization, Learning, Neural Networks, Language | CS50x | Approximately 80 hours to complete. | --- | ---
-[Andrew NG - Machine Learning](https://www.coursera.org/learn/machine-learning) | Logistic Regression, Artificial Neural Network, Machine Learning (ML) Algorithms, Machine Learning | Stanford | Approximately 61 hours to complete. | --- | ---
-
-#### Machine Learning & AI II:
-
-Course link | Some of the topics covered | Offered by | ETA | Repository if any | Course Certificate
-:-- | :-- | :-- | :-- | :-- | :-- |
-[Machine Learning](https://www.coursera.org/specializations/machine-learning) | Data Clustering Algorithms, Machine Learning, Classification Algorithms, Decision Tree, Python Programming, Machine Learning Concepts, Deep Learning, Linear Regression, Ridge Regression, Lasso (Statistics), Regression Analysis, Logistic Regression | University of Washington | Approximately 84 hours to complete. | --- | ---
-[Deep Learning](https://www.coursera.org/specializations/deep-learning) | Artificial Neural Network, Convolutional Neural Network, Tensorflow, Recurrent Neural Network, Transformers, Deep Learning, Backpropagation, Python Programming, Neural Network Architecture, Mathematical Optimization, hyperparameter tuning, Inductive Transfer | DeepLearning.AI | Approximately 200 hours to complete. | --- | ---
-[NLP](https://www.coursera.org/specializations/natural-language-processing) | Word2vec, Machine Translation, Sentiment Analysis, Transformers, Attention Models, Word Embeddings, Locality-Sensitive Hashing, Vector Space Models, Parts-of-Speech Tagging, N-gram Language Models, Autocorrect, Word Embedding | DeepLearning.AI | Approximately 128 hours to complete. | --- | ---
-[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | perception, features and boundaries, Object Recognition, Camera and imaging, 3d reconstruction, Fourier Transform, High-Dynamic-Range (HDR) Imaging, Image Formation, Convolution and Deconvolution, Working Principles of a Camera, Scale Space, Active Contours | Columbia | Approximately 60 hours to complete. | --- | ---
-[TensorFlow](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | Computer Vision, Convolutional Neural Network, Machine Learning, Natural Language Processing, Tensorflow, Inductive Transfer, Augmentation, Dropouts, Tokenization, RNNs, Forecasting, Time Series | DeepLearning.AI | Approximately 80 hours to complete. | --- | ---
-[MLOps](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Managing Machine Learning Production Systems, Deployment Pipelines, Model Pipelines, Data Pipeline, Convolutional Neural Network | DeepLearning.AI | Approximately 80 hours to complete. | --- | ---
-[GANs](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | Generator, Image-to-Image Translation, glossary of computer graphics, Discriminator, Generative Adversarial Networks, Controllable Generation, WGANs, Conditional Generation, Components of GANs, DCGANs, Bias in GANs, StyleGANs | DeepLearning.AI | Approximately 80 hours to complete. | --- | ---
-[TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment) | Convolutional Neural Network, TensorFlow.js, TensorFlow Lite, Mathematical Optimization, Artificial Neural Network, Extraction, Transformation And Loading (ETL), Data Pipelines | DeepLearning.AI | Approximately 80 hours to complete. | --- | ---
+Courses | Repository if any | Certificate
+:-- | :--: | :--: 
+[Creativity and A.I.](https://www.coursera.org/specializations/creativity-ai) | --- | ---
+[AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) | --- | ---
+[AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | --- | ---
+[CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) | --- | ---
+[Machine Learning](https://www.coursera.org/specializations/machine-learning) | --- | ---
+[Deep Learning](https://www.coursera.org/specializations/deep-learning) | --- | ---
+[NLP](https://www.coursera.org/specializations/natural-language-processing) | --- | ---
+[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | --- | ---
+[TensorFlow](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | --- | ---
+[MLOps](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | --- | ---
+[GANs](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | --- | ---
+[TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment) | --- | ---
 
 ##
 
