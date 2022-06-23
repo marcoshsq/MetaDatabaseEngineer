@@ -121,8 +121,6 @@ Courses | Repository if any | Certificate
 [Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | --- | ---
 [Data Mining](https://www.coursera.org/specializations/data-mining-foundations-practice) | --- | ---
 [Big Data](https://www.youtube.com/watch?v=JXsGL6uCoU4&t=625s) | --- | ---
-[IT Fundamentals for Cybersecurity](https://www.coursera.org/specializations/it-fundamentals-cybersecurity) | --- | ---
-[DataOps Methodology](https://www.coursera.org/learn/ibm-data-ops-methodology) | --- | ---
 [Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | --- | ---
 
 ##
@@ -142,8 +140,6 @@ Courses | Repository if any | Certificate
 [Python on AWS](https://www.coursera.org/specializations/aws-python-serverless-development) | --- | ---
 [Building Cloud Computing Solutions at Scale](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale) | --- | ---
 [Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science) | --- | ---
-[Introduction to IOT](https://www.coursera.org/specializations/iot) | --- | ---
-[Hands-on Internet of Things](https://www.coursera.org/specializations/uiuc-iot) | --- | ---
 
 ##
 
