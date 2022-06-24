@@ -92,11 +92,10 @@ In addition to the main courses of this curriculum, other materials such as arti
 ### Books.
 
 - [Essentials of Discrete Mathematics](https://shre.ink/l0s) - David J. Hunter
-- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - MIT
-- [Free Code Camp](https://www.freecodecamp.org/) - (づ｡◕‿‿◕｡)づ
-- [Calculus I](https://www.amazon.com.br/C%C3%A1lculo-vol-I-James-Stweart/dp/852212583X/ref=asc_df_852212583X/?tag=googleshopp00-20&linkCode=df0&hvadid=379818118514&hvpos=&hvnetw=g&hvrand=1064004436831362437&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-573058824395&psc=1) - James Stweart
-- [Calculus II](https://www.amazon.com.br/C%C3%A1lculo-vol-II-James-Stweart/dp/8522125848/ref=asc_df_8522125848/?tag=googleshopp00-20&linkCode=df0&hvadid=379707181411&hvpos=&hvnetw=g&hvrand=1064004436831362437&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-809985353409&psc=1) - James Stweart
-- [Pré-cálculo](https://www.amazon.com.br/Pr%C3%A9-c%C3%A1lculo-Val%C3%A9ria-Medeiros/dp/8522116121/ref=asc_df_8522116121/?tag=googleshopp00-20&linkCode=df0&hvadid=379818118514&hvpos=&hvnetw=g&hvrand=7907783000344245737&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-1002925179032&psc=1) - Valeria Zuma Medeiros
+- [Pre-Calculus](https://shre.ink/lD0) - Valeria Zuma Medeiros
+- [Calculus I](https://shre.ink/l0d) - James Stweart
+- [Calculus II](https://shre.ink/lD4) - James Stweart
+
 - [Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com.br/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025) - Ronald Graham
 - [Elementary Linear Algebra](https://www.amazon.com.br/Elementary-Linear-Algebra-Applications-Version/dp/1118434412) - Howard Anton
 - [Geometria Analítica: Um Tratamento Vetorial](https://www.amazon.com.br/Geometria-anal%C3%ADtica-um-tratamento-vetorial/dp/8587918915/ref=asc_df_8587918915/?tag=googleshopp00-20&linkCode=df0&hvadid=379816198799&hvpos=&hvnetw=g&hvrand=12310348212396508958&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-811917897015&psc=1) - Ivan De Camargo
@@ -110,6 +109,10 @@ In addition to the main courses of this curriculum, other materials such as arti
 - [Introduction to the Theory of Statistics](https://www.amazon.com.br/Introduction-Theory-Statistics-Alexander-Mood/dp/0070854653) - Alexander Mood 
 - [Interpretability of Computational Intelligence-Based Regression Models](https://www.amazon.com.br/Interpretability-Computational-Intelligence-Based-Regression-Models/dp/3319219413) - János Abonyi
 - [SQL for Smarties: Advanced SQL Programming](https://www.amazon.com.br/Joe-Celkos-SQL-Smarties-Programming/dp/0123820227) - Joe Celko
+
+### Complementary course.
+
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - MIT
 
 ## Important Notes.
 
