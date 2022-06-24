@@ -46,7 +46,9 @@ work in progress...
 
 ---
 
-## Courses. 
+## Main Curriculum.
+
+Work in progress... 
 
 ### Introduction:
 
@@ -85,13 +87,14 @@ So, let's go to part two. (づ｡◕‿‿◕｡)づ
 
 ##
 
+Work in progress...
+
+
 <div align="right">
 	
 [Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
 	
 </div>
-
-
 
 ##
 
