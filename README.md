@@ -52,13 +52,18 @@ work in progress...
 
 This first section is an introduction to the area of data science and some tools used, my objective is to understand what data science is, where it is applied and what are their methodologies.
 
-This first specialization offered by IBM has ten courses, with around 200 hours to complete. In addition to offering an excellent high-level overview of the field of Data Science, it also introduced some tools like ``Github``, ``Python`` and some libraries (Pandas, Numpy, Matplotlib e etc), ``Jupyter notebooks``, ``SQL``, and some more concepts like ``Machine Learning``, ``Deep Learning``.
+This first specialization offered by IBM has ten courses, with around 200 hours to complete. In addition to offering an excellent high-level overview of the field of Data Science, it also introduced some tools like ``Github``, ``Python``, and some libraries (Pandas, Numpy, Matplotlib e etc.), ``Jupyter notebooks``, ``SQL``, and some more concepts like ``Machine Learning``, ``Deep Learning``.
 
 It was a great introductory course. And below is the link to my certificate of completion, and also the link to the repository with the projects developed.
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
 [IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
+
+This second specialization offered by Johns Hopkins University is a more “punk” version of the previous one, with a greater focus on math, especially statistics. This specialization is longer, with around 300 hours to complete, and among the skills taught are ``Data Manipulation``, ``R Programming``, ``Regression Analysis``, ``Cluster Analysis``, ``Data Cleansing``, ``Rstudio``, and etc.
+
+
+
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
