@@ -92,16 +92,16 @@ In addition to the main courses of this curriculum, other materials such as arti
 ### Books.
 
 - [Essentials of Discrete Mathematics](https://shre.ink/l0s) - David J. Hunter
+- [Concrete Mathematics: A Foundation for Computer Science](https://shre.ink/lDJ) - Ronald Graham
 - [Pre-Calculus](https://shre.ink/lD0) - Valeria Zuma Medeiros
 - [Calculus I](https://shre.ink/l0d) - James Stweart
 - [Calculus II](https://shre.ink/lD4) - James Stweart
+- [Cálculo Numérico: Aspectos Teóricos e Computacionais](https://shre.ink/lDN) - Marcia Gomes
+- [Elementary Linear Algebra](https://shre.ink/lDO) - Howard Anton
+- [Geometria Analítica: Um Tratamento Vetorial](https://shre.ink/lDw) - Ivan De Camargo 
+- [The Elements of Statistical Learning](https://shre.ink/lDR) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
+- [Introduction to Linear Regression Analysis](https://shre.ink/lDF) - Douglas C Montgomery
 
-- [Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com.br/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025) - Ronald Graham
-- [Elementary Linear Algebra](https://www.amazon.com.br/Elementary-Linear-Algebra-Applications-Version/dp/1118434412) - Howard Anton
-- [Geometria Analítica: Um Tratamento Vetorial](https://www.amazon.com.br/Geometria-anal%C3%ADtica-um-tratamento-vetorial/dp/8587918915/ref=asc_df_8587918915/?tag=googleshopp00-20&linkCode=df0&hvadid=379816198799&hvpos=&hvnetw=g&hvrand=12310348212396508958&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-811917897015&psc=1) - Ivan De Camargo
-- [Introduction to Linear Regression Analysis](https://www.amazon.com.br/Introduction-Regression-Analysis-Douglas-Montgomery/dp/0470542810) - Douglas C Montgomery
-- [The Elements of Statistical Learning](https://www.amazon.com.br/Elements-Statistical-Learning-Inference-Prediction/dp/0387848576) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
-- [Cálculo Numérico: Aspectos Teóricos e Computacionais](https://www.google.com/aclk?sa=L&ai=DChcSEwjPq5eQr6H4AhUVFdQBHagIDI0YABAIGgJvYQ&sig=AOD64_2Cx8Ab7n2JiHj9UtlPuCB_B4ik3w&ctype=5&q=&ved=2ahUKEwiqvIeQr6H4AhX0jJUCHRVPAFAQ9aACKAB6BAgBEEQ&adurl=) - Marcia Gomes
 - [Bayesian Statistics](https://www.amazon.com.br/Bayesian-Statistics-Introduction-Peter-Lee/dp/1118332571) - Peter M. Lee
 - [Markov Chain Monte Carlo: Stochastic Simulation for Bayesian Inference](https://www.amazon.com.br/Markov-Chain-Monte-Carlo-Stochastic/dp/1584885874) - Dani Gamerman
 - [Applied Nonparametric Statistical Methods](https://www.amazon.com.br/Applied-Nonparametric-Statistical-Methods-Sprent/dp/158488701X) - Nigel C Smeeton
