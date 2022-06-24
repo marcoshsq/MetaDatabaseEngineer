@@ -89,7 +89,7 @@ Courses | Repository if any | Certificate
 
 In addition to the main courses of this curriculum, other materials such as articles and books were used, which are referenced in this section.
 
-### Books.
+### Mathematics Books.
 
 - [Essentials of Discrete Mathematics](https://shre.ink/l0s) - David J. Hunter
 - [Concrete Mathematics: A Foundation for Computer Science](https://shre.ink/lDJ) - Ronald Graham
@@ -99,20 +99,28 @@ In addition to the main courses of this curriculum, other materials such as arti
 - [Cálculo Numérico: Aspectos Teóricos e Computacionais](https://shre.ink/lDN) - Marcia Gomes
 - [Elementary Linear Algebra](https://shre.ink/lDO) - Howard Anton
 - [Geometria Analítica: Um Tratamento Vetorial](https://shre.ink/lDw) - Ivan De Camargo 
+- [Introduction to the Theory of Statistics](https://shre.ink/lDZ) - Alexander Mood
+- [Matrix Algebra Useful for Statistics](https://shre.ink/lDG) - Andre I Khuri
 - [The Elements of Statistical Learning](https://shre.ink/lDR) - Trevor Hastie, Robert Tibshirani, Jerome Friedman
 - [Introduction to Linear Regression Analysis](https://shre.ink/lDF) - Douglas C Montgomery
+- [Bayesian Statistics](https://shre.ink/lDX) - Peter M. Lee
+- [Markov Chain Monte Carlo: Stochastic Simulation for Bayesian Inference](https://shre.ink/lDv) - Dani Gamerman
+- [Applied Nonparametric Statistical Methods](https://shre.ink/lDu) - Nigel C Smeeton
+- [Interpretability of Computational Intelligence-Based Regression Models](https://shre.ink/lD3) - János Abonyi
 
-- [Bayesian Statistics](https://www.amazon.com.br/Bayesian-Statistics-Introduction-Peter-Lee/dp/1118332571) - Peter M. Lee
-- [Markov Chain Monte Carlo: Stochastic Simulation for Bayesian Inference](https://www.amazon.com.br/Markov-Chain-Monte-Carlo-Stochastic/dp/1584885874) - Dani Gamerman
-- [Applied Nonparametric Statistical Methods](https://www.amazon.com.br/Applied-Nonparametric-Statistical-Methods-Sprent/dp/158488701X) - Nigel C Smeeton
-- [Matrix Algebra Useful for Statistics](https://www.amazon.com.br/Matrix-Algebra-Useful-Statistics-Shayle/dp/1118935144) - Andre I Khuri
-- [Introduction to the Theory of Statistics](https://www.amazon.com.br/Introduction-Theory-Statistics-Alexander-Mood/dp/0070854653) - Alexander Mood 
-- [Interpretability of Computational Intelligence-Based Regression Models](https://www.amazon.com.br/Interpretability-Computational-Intelligence-Based-Regression-Models/dp/3319219413) - János Abonyi
-- [SQL for Smarties: Advanced SQL Programming](https://www.amazon.com.br/Joe-Celkos-SQL-Smarties-Programming/dp/0123820227) - Joe Celko
+### CS related books.
+
+- [SQL for Smarties: Advanced SQL Programming](https://shre.ink/lD9) - Joe Celko
 
 ### Complementary course.
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - MIT
+
+<div align="right">
+	
+[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
+	
+</div>
 
 ## Important Notes.
 
