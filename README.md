@@ -50,7 +50,7 @@ work in progress...
 
 ### Introduction:
 
-This first section is an introduction to the area of data science and some tools used, my objective is to understand what data science is, where it is applied and what its methodologies are.
+This first section is an introduction to the area of data science and some tools used, my objective is to understand what data science is, where it is applied and what are their methodologies.
 
 This first specialization offered by IBM has ten courses, with around 200 hours to complete. In addition to offering an excellent high-level overview of the field of Data Science, it also introduced some tools like ``Github``, ``Python`` and some libraries (Pandas, Numpy, Matplotlib e etc), ``Jupyter notebooks``, ``SQL``, and some more concepts like ``Machine Learning``, ``Deep Learning``.
 
