@@ -8,7 +8,6 @@
   </a>
 </p>
   <h2 align="center">Data Science Undergraduate Curriculum</h2>
-  <p align="center">This is a curated list of free courses from reputable universities like MIT, Stanford, and Johns Hopkins University that satisfy the same requirements as an undergraduate curriculum for Data Science, minus general education.</p>
  <div align="center"> 
   <a href="https://twitter.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -23,17 +22,7 @@
 
 ## Content summary.
 
-- [About](https://github.com/marcoshsq/DataScienceCurriculum#about)
-- [Courses](https://github.com/marcoshsq/DataScienceCurriculum#courses)
-	- [Introduction](https://github.com/marcoshsq/DataScienceCurriculum#introduction)
-	- [Mathematics](https://github.com/marcoshsq/DataScienceCurriculum#mathematics)
-	- [Statistics & Probability](https://github.com/marcoshsq/DataScienceCurriculum#statistics--probability)
-	- [Databases](https://github.com/marcoshsq/DataScienceCurriculum#databases)
-	- [Cloud Computing](https://github.com/marcoshsq/DataScienceCurriculum#cloud-applications)
-	- [Machine Learning](https://github.com/marcoshsq/DataScienceCurriculum#machine-learning--ai)
-- [Extra Bibliography](https://github.com/marcoshsq/DataScienceCurriculum#extra-bibliography)
-- [Important Notes](https://github.com/marcoshsq/DataScienceCurriculum#important-notes)
-- [References](https://github.com/marcoshsq/DataScienceCurriculum#references)
+work in progress...
 
 ---
 
@@ -41,13 +30,11 @@
 
 ## About.
 
-
-
-**This repository is structured as follows:**
-
-We have five parts, ``Introduction``, ``Mathematics``, ``Statistics``, ``Databases``, ``Cloud Computing`` , and ``Machine Learning``.
+This is a curated list of free courses from reputable universities like MIT, Stanford, and Johns Hopkins University that satisfy the same requirements as an undergraduate curriculum for Data Science, minus general education.
 
 The main guides I've followed to create this curriculum can be found in the ``References`` section, at the end of this ``README`` page.
+
+work in progress...
 
 ##
 
@@ -66,9 +53,15 @@ The main guides I've followed to create this curriculum can be found in the ``Re
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
 [IBM - Data Science](https://www.coursera.org/professional-certificates/ibm-data-science) | [Repository](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) | [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/DM7GE3CAPYLW)
-[Data Science](https://www.coursera.org/specializations/jhu-data-science) | --- | ---
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--: 
+[Data Science by JHU](https://www.coursera.org/specializations/jhu-data-science) | --- | ---
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | --- | ---
 [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | --- | ---
-[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | --- | --- 
 
 ##
 
@@ -78,93 +71,7 @@ Courses | Repository if any | Certificate
 	
 </div>
 
-### Mathematics:
 
-Courses | Repository if any | Certificate
-:-- | :--: | :--: 
-[Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | --- | [Certificate](https://www.coursera.org/account/accomplishments/verify/MFYQ2NNLB76F)
-[Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | --- | ---
-[Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | --- | ---
-[Mathematics for ML](https://www.coursera.org/specializations/mathematics-machine-learning) | --- | ---
-[Precalculus](https://www.coursera.org/specializations/precalculus-data-modelling) | --- | ---
-[Differential Calculus](https://www.coursera.org/specializations/differential-calculus-data-modeling) | --- | ---
-[Integral Calculus](https://www.coursera.org/specializations/integral-calculus-data-modeling) | --- | ---
-
-### Statistics & Probability:
-
-Courses | Repository if any | Certificate
-:-- | :--: | :--: 
-[Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability) | --- | ---
-[Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) | --- | ---
-[Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) | --- | ---
-[Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201) | --- | ---
-[Data Science: Statistical Inference](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications) | --- | ---
-[Statistical Modeling for Data Science Applications](https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications) | --- | ---
-[Probability and Statistics: To p or not to p](https://www.coursera.org/learn/probability-statistics) | --- | ---
-[Bayesian Statistics](https://www.coursera.org/specializations/bayesian-statistics) | --- | ---
-[Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) | --- | ---
-[Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) | --- | ---
-
-##
-
-<div align="right">
-	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
-	
-</div>
-
-### Databases:
-
-Courses | Repository if any | Certificate
-:-- | :--: | :--: 
-[PostgreSQL](https://www.coursera.org/specializations/postgresql-for-everybody) | --- | ---
-[Databases for Data Scientists](https://www.coursera.org/specializations/databases-for-data-scientists) | --- | ---
-[Data Mining](https://www.coursera.org/specializations/data-mining-foundations-practice) | --- | ---
-[Big Data](https://www.youtube.com/watch?v=JXsGL6uCoU4&t=625s) | --- | ---
-[Data Warehousing](https://www.coursera.org/specializations/data-warehousing) | --- | ---
-
-##
-
-<div align="right">
-	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
-	
-</div>
-
-### Cloud Applications:
-
-Courses | Repository if any | Certificate
-:-- | :--: | :--: 
-[DevOps](https://www.coursera.org/professional-certificates/devops-and-software-engineering) | --- | ---
-[AWS Fundamentals](https://www.coursera.org/specializations/aws-fundamentals) | --- | ---
-[Python on AWS](https://www.coursera.org/specializations/aws-python-serverless-development) | --- | ---
-[Building Cloud Computing Solutions at Scale](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale) | --- | ---
-[Practical Data Science on the AWS Cloud](https://www.coursera.org/specializations/practical-data-science) | --- | ---
-
-##
-
-<div align="right">
-	
-[Go to the top](https://github.com/marcoshsq/DataScienceCurriculum#content-summary)
-	
-</div>
-
-### Machine Learning & AI:
-
-Courses | Repository if any | Certificate
-:-- | :--: | :--: 
-[CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) | --- | ---
-[Creativity and A.I.](https://www.coursera.org/specializations/creativity-ai) | --- | ---
-[AI for Everyone](https://www.coursera.org/learn/ai-for-everyone) | --- | ---
-[AI For Business](https://www.coursera.org/specializations/ai-for-business-wharton) | --- | ---
-[Machine Learning](https://www.coursera.org/specializations/machine-learning) | --- | ---
-[Deep Learning](https://www.coursera.org/specializations/deep-learning) | --- | ---
-[NLP](https://www.coursera.org/specializations/natural-language-processing) | --- | ---
-[Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) | --- | ---
-[TensorFlow](https://www.coursera.org/professional-certificates/tensorflow-in-practice) | --- | ---
-[MLOps](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | --- | ---
-[GANs](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | --- | ---
-[TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment) | --- | ---
 
 ##
 
