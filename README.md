@@ -32,7 +32,7 @@ work in progress...
 
 This is a curated list of free courses from reputable universities like MIT, Stanford, and Johns Hopkins University that satisfy the same requirements as an undergraduate curriculum for Data Science, minus general education.
 
-The main guides I've followed to create this curriculum can be found in the ``References`` section, at the end of this ``README`` page.
+To build this curriculum I've consulted different sources which can be found in the ``References`` section at the end of this ``README`` page.
 
 work in progress...
 
@@ -87,6 +87,8 @@ Courses | Repository if any | Certificate
 
 ## Extra Bibliography.
 
+In addition to the main courses of this curriculum, other materials such as articles and books were used, which are referenced in this section.
+
 - [Essentials of Discrete Mathematics](https://www.amazon.com.br/Essentials-Discrete-Mathematics-David-Hunter/dp/1449604420) - David J. Hunter
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - MIT
 - [Free Code Camp](https://www.freecodecamp.org/) - (づ｡◕‿‿◕｡)づ
@@ -109,13 +111,11 @@ Courses | Repository if any | Certificate
 
 ## Important Notes.
 
-In addition to this repository, which focuses on data science, I am also studying Computer Science. Which can be found in this repository.
-
-- [Computer Science Curriculum](https://github.com/marcoshsq/ComputerScienceCurriculum)
+work in progress...
 
 ## References.
 
-To build this curriculum, I used these sources:
+Sources consulted for the construction of this curriculum.
 
 - [OSSU Data Science](https://github.com/ossu/data-science#introduction-to-data-science) - Path to a free self-taught education in Data Science.
 - [AI Expert Roadmap](https://i.am.ai/roadmap/#data-science-roadmap) - Roadmap to becoming an AI Expert.
