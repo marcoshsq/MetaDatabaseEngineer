@@ -77,6 +77,12 @@ Courses | Repository if any | Certificate
 [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python) | --- | ---
 [Learn SQL Basics for Data Science](https://www.coursera.org/specializations/learn-sql-basics-data-science) | --- | ---
 
+Wow, quite a lot, and this was just the introduction, by my count this beginning has about 700~800 hours of content. But that's about it, Data Science is a very demanding area, and I haven't even gotten into Mathematics yet.
+
+But concluding the intro section, my goal was to learn the basics of the field, its applications, and tools, and I believe that these courses, 29 in total, helped me with that.
+
+So, let's go to part two. (づ｡◕‿‿◕｡)づ
+
 ##
 
 <div align="right">
