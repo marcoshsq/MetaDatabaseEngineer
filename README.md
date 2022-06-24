@@ -91,7 +91,7 @@ In addition to the main courses of this curriculum, other materials such as arti
 
 ### Books.
 
-- [Essentials of Discrete Mathematics](https://tinyurl.com/32y2t57u) - David J. Hunter
+- [Essentials of Discrete Mathematics](https://shre.ink/l0s) - David J. Hunter
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - MIT
 - [Free Code Camp](https://www.freecodecamp.org/) - (づ｡◕‿‿◕｡)づ
 - [Calculus I](https://www.amazon.com.br/C%C3%A1lculo-vol-I-James-Stweart/dp/852212583X/ref=asc_df_852212583X/?tag=googleshopp00-20&linkCode=df0&hvadid=379818118514&hvpos=&hvnetw=g&hvrand=1064004436831362437&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-573058824395&psc=1) - James Stweart
