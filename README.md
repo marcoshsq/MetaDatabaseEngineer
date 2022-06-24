@@ -62,12 +62,15 @@ Courses | Repository if any | Certificate
 
 This second specialization offered by Johns Hopkins University is a more “punk” version of the previous one, with a greater focus on math, especially statistics. This specialization is longer, with around 300 hours to complete, and among the skills taught are ``Data Manipulation``, ``R Programming``, ``Regression Analysis``, ``Cluster Analysis``, ``Data Cleansing``, ``Rstudio``, and etc.
 
-
-
-
 Courses | Repository if any | Certificate
 :-- | :--: | :--: 
 [Data Science by JHU](https://www.coursera.org/specializations/jhu-data-science) | --- | ---
+
+And to finish off the introduction, let's focus on the tools. The following two specializations have nine courses totaling about 230 total hours, focusing on Python for Data Science and SQL. 
+
+The Applied Data Science with Python specialization is offered by the University of Michigan and teaches things like ``NLTK``, ``Python Text Mining``, ``Pandas``, ``Matplotlib``, ``Numpy``, ``Python Data Cleansing``, ``Data Virtualization``, ``Scikit-Learn``, and more.
+
+While the Learn SQL Basics for Data Science specialization introduces concepts such as ``Apache Spark``, ``Delta Lake``, ``SQL``, ``A/B Testing``, ``Query String``, ``Predictive Analytics`` and a few more things.
 
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
