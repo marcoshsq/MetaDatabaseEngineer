@@ -114,11 +114,15 @@ Courses | Repository if any | Certificate
 [Differential Calculus through Data and Modeling](https://www.coursera.org/specializations/differential-calculus-data-modeling) | --- | ---
 [Integral Calculus through Data and Modeling](https://www.coursera.org/specializations/integral-calculus-data-modeling) | --- | ---
 
+#### Computer Science:
+
+These three courses offered by Princeton University, totaling about 140 hours of class, focus on developing skills in ``algorithms`` and ``data structures``.
+
 Courses | Repository if any | Certificate
 :-- | :--: | :--:
-[]() | --- | ---
-[]() | --- | ---
-[]() | --- | ---
+[Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | --- | ---
+[Algorithms I](https://www.coursera.org/learn/algorithms-part1) | --- | ---
+[Algorithms II](https://www.coursera.org/learn/algorithms-part2) | --- | ---
 
 
 <div align="right">
