@@ -113,6 +113,7 @@ Courses | Repository if any | Certificate
 [Precalculus through Data and Modelling](https://www.coursera.org/specializations/precalculus-data-modelling) | --- | ---
 [Differential Calculus through Data and Modeling](https://www.coursera.org/specializations/differential-calculus-data-modeling) | --- | ---
 [Integral Calculus through Data and Modeling](https://www.coursera.org/specializations/integral-calculus-data-modeling) | --- | ---
+[Applied Calculus with Python](https://www.coursera.org/learn/applied-calculus-with-python) | --- | ---
 
 #### Computer Science:
 
@@ -123,6 +124,12 @@ Courses | Repository if any | Certificate
 [Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | --- | ---
 [Algorithms I](https://www.coursera.org/learn/algorithms-part1) | --- | ---
 [Algorithms II](https://www.coursera.org/learn/algorithms-part2) | --- | ---
+
+#### Databases:
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[]() | --- | ---
 
 
 <div align="right">
