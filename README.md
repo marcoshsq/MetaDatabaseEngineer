@@ -97,6 +97,29 @@ They say the hardest part in Data Science is math, but here's the fun part (for 
 
 Therefore, my math studies will be more focused on computational applications, modeling, and applied statistics in DS.
 
+#### Math 01:
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) | --- | ---
+[Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers) | --- | ---
+[Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | --- | ---
+[Math for ML](https://www.coursera.org/specializations/mathematics-machine-learning) | --- | ---
+
+#### Math 02:
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[Precalculus through Data and Modelling](https://www.coursera.org/specializations/precalculus-data-modelling) | --- | ---
+[Differential Calculus through Data and Modeling](https://www.coursera.org/specializations/differential-calculus-data-modeling) | --- | ---
+[Integral Calculus through Data and Modeling](https://www.coursera.org/specializations/integral-calculus-data-modeling) | --- | ---
+
+Courses | Repository if any | Certificate
+:-- | :--: | :--:
+[]() | --- | ---
+[]() | --- | ---
+[]() | --- | ---
+
 
 <div align="right">
 	
