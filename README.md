@@ -87,7 +87,9 @@ So, let's go to part two. (づ｡◕‿‿◕｡)づ
 
 ##
 
-### Part 02
+### Part 02 - Databases:
+
+From this section I will divide the curriculum into two fronts, one with general concepts and the other with specific concepts. While for this part the general concepts will be about Computer Science and Mathematics, the specific content will be about Databases.
 
 Work in progress...
 
