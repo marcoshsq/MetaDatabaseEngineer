@@ -91,7 +91,11 @@ So, let's go to part two. (づ｡◕‿‿◕｡)づ
 
 From this section I will divide the curriculum into two fronts, one with general concepts and the other with specific concepts. While for this part the general concepts will be about Computer Science and Mathematics, the specific content will be about Databases.
 
-Work in progress...
+#### Mathematics:
+
+They say the hardest part in Data Science is math, but here's the fun part (for me), I'm a Bachelor of Civil Engineering and Statistics so I don't need to learn math for data science from scratch, isn't that amazing! (o^▽^o) ＼(^ω^＼): ヽ(o＾▽＾o)ノ: (✯◡✯) (* ^ ω ^): (づ｡◕‿‿◕｡)づ: (◕‿◕)
+
+Therefore, my math studies will be more focused on computational applications, modeling, and applied statistics in DS.
 
 
 <div align="right">
