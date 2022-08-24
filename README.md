@@ -14,7 +14,7 @@ This repository contains my projects and assignments developed during the Meta D
 
 This [specialization](https://www.coursera.org/professional-certificates/meta-database-engineer) contains nine courses:
 
-1. []()
+1. [Introduction to Database Systems](https://www.coursera.org/learn/introduction-to-databases?specialization=meta-database-engineer)
 2. []()
 3. []()
 4. []()
@@ -26,13 +26,13 @@ This [specialization](https://www.coursera.org/professional-certificates/meta-da
 
 Below are links to the directories with the projects and assignments developed, along with a brief description of what has been studied in the course.
 
-## [Course 01]() - 
+## [Course 01]() - Introduction to Database Systems.
 
 
     
 
 
-Learning goals: ````, ````, ````, and ````.
+Learning goals: ``Database (DBMS)``, ``MySQL``, and ``database administration``.
 
 ## [Course 02]() - 
 
