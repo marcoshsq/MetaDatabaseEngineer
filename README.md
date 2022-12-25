@@ -16,7 +16,7 @@ This [specialization](https://www.coursera.org/professional-certificates/meta-da
 
 1. [Introduction to Database Systems](https://www.coursera.org/learn/introduction-to-databases?specialization=meta-database-engineer)
 2. [Version Control](coursera.org/learn/introduction-to-version-control?specialization=meta-database-engineer)
-3. []()
+3. [Database Structures and Management with MySQL](https://www.coursera.org/learn/database-structures-and-management-with-mysql?specialization=meta-database-engineer)
 4. []()
 5. []()
 6. []()
@@ -38,11 +38,12 @@ Work in progress...
 
 Learning goals: ``Linux``, ``Web Development``, ``Bash (Unix Shell)``, and ``Github``.
 
-## [Course 03]() - 
+## [Course 03]() - Database Structures and Management with MySQL
 
 Work in progress...
 
-Learning goals: ````, ````, ````, and ````.
+Learning goals: ``Data Management``, ``Database (DBMS)``, ``Relational Database
+database administration``, and ``MySQL``.
 
 ## [Course 04]() - 
 
