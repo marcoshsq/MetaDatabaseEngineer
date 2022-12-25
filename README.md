@@ -42,8 +42,7 @@ Learning goals: ``Linux``, ``Web Development``, ``Bash (Unix Shell)``, and ``Git
 
 Work in progress...
 
-Learning goals: ``Data Management``, ``Database (DBMS)``, ``Relational Database
-database administration``, and ``MySQL``.
+Learning goals: ``Data Management``, ``DBMS``, ``Relational Database administration``, and ``MySQL``.
 
 ## [Course 04]() - 
 
