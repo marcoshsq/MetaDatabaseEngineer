@@ -15,7 +15,7 @@ This repository contains my projects and assignments developed during the Meta D
 This [specialization](https://www.coursera.org/professional-certificates/meta-database-engineer) contains nine courses:
 
 1. [Introduction to Database Systems](https://www.coursera.org/learn/introduction-to-databases?specialization=meta-database-engineer)
-2. [Version Control](coursera.org/learn/introduction-to-version-control?specialization=meta-database-engineer)
+2. [Version Control](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-database-engineer)
 3. [Database Structures and Management with MySQL](https://www.coursera.org/learn/database-structures-and-management-with-mysql?specialization=meta-database-engineer)
 4. []()
 5. []()
